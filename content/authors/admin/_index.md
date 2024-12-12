@@ -70,7 +70,7 @@ education:
     institution: Politecnico di Torino, Italy
     date_start: 2008-01-01
     date_end: 2011-04-11
-    summary:
+    summary: |
       Thesis on _Industrial Applications of Evolutionary Computation_. Supervised by [Prof. Giovanni Squillero](https://staff.polito.it/giovanni.squillero/).
   - area: Master Degree in Computer Science Engineering
     institution: Politecnico di Torino, Italy
@@ -127,24 +127,28 @@ work:
 skills:
   - name: Technical Skills
     items:
-      - name: Python
+      - name: Python, C++
         description: ''
         percent: 80
         icon: code-bracket
-      - name: Data Science
+      - name: Machine Learning
         description: ''
         percent: 100
         icon: chart-bar
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: circle-stack
+#      - name: SQL
+#        description: ''
+#        percent: 40
+#        icon: circle-stack
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
+      - name: Boardgaming
+        description: I enjoy all kinds of boardgames, from _Puerto Rico_ to _Spirit Island_.
+        percent: 80
+        icon: puzzle-piece
       - name: Tabletop roleplaying
-        description: I am part of an Italian association that writes one-shot adventures for Dungeons&Dragons and other game systems. Take a look at our website, [Gruppo Chimera](https://www.gruppochimera.it)
+        description: I am part of an Italian association that writes one-shot adventures for Dungeons&Dragons and other game systems. Take a look at our website, [https://www.gruppochimera.it](https://www.gruppochimera.it)
         percent: 80
         icon: puzzle-piece
 #      - name: Cats
@@ -168,14 +172,14 @@ languages:
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-#awards:
-#  - title: Neural Networks and Deep Learning
-#    url: https://www.coursera.org/learn/neural-networks-deep-learning
-#    date: '2023-11-25'
-#    awarder: Coursera
-#    icon: coursera
-#    summary: |
-#      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
+awards:
+  - title: Silver Medal at the HUMIES Awards
+    url: https://www.human-competitive.org/awards
+    date: '2022-07-25'
+    awarder: HUMIES
+    icon: academic-cap
+    summary: |
+      Silver medal at the annual human-competitive awards (HUMIES) for the development of a machine learning approach able to automatically discover primers for viruses.
 #  - title: Blockchain Fundamentals
 #    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
 #    date: '2023-07-01'
@@ -198,4 +202,4 @@ languages:
 
 ## About Me
 
-Alberto Tonda is a senior permanent researcher (directeur de recherche) at INRAE's Applied Mathematics and Computer Science research unit (UMR 518 MIA-Paris) in Paris, France. His research interests include machine learning, evolutionary optimization, and neuro-symbolic artificial intelligence, with main applications to food science and health. He is part of the EKINOCS team, whose focus is merging human expert knowledge with artificial intelligence for real-world applications.
+I work as a senior permanent researcher (directeur de recherche) at [INRAE](https://www.inrae.fr)'s Applied Mathematics and Computer Science research Paris-Saclay lab ([UMR 518 MIA-Paris](https://mia-ps.inrae.fr/)) near Paris, France. My research interests include machine learning, evolutionary optimization, and neuro-symbolic artificial intelligence, with main applications to food science and health. I am part of the EKINOCS team, whose focus is on merging human expert knowledge with AI for real-world applications.

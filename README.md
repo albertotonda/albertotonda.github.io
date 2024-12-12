@@ -1,3 +1,6 @@
+# Editing notes by Alberto Tonda
+1. Run local preview of the website: hugo server -D
+
 # [Hugo Academic CV Theme](https://github.com/HugoBlox/theme-academic-cv)
 
 [![Screenshot](.github/preview.webp)](https://hugoblox.com/templates/)
