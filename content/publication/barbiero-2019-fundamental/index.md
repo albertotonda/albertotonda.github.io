@@ -1,0 +1,35 @@
+---
+title: 'Fundamental Flowers: Evolutionary Discovery of Coresets for Classification'
+authors:
+- Pietro Barbiero
+- Alberto Tonda
+date: '2019-01-01'
+publishDate: '2024-12-13T18:55:57.775841Z'
+publication_types:
+- chapter
+publication: '*Applications of Evolutionary Computation*'
+doi: 10.1007/978-3-030-16692-2_37
+abstract: In an optimization problem, a coreset can be defined as a subset of the
+  input points, such that a good approximation to the optimization problem can be
+  obtained by solving it directly on the coreset, instead of using the whole original
+  input. In machine learning, coresets are exploited for applications ranging from
+  speeding up training time, to helping humans understand the fundamental properties
+  of a class, by considering only a few meaningful samples. The problem of discovering
+  coresets, starting from a dataset and an application, can be defined as identifying
+  the minimal amount of samples that do not significantly lower performance with respect
+  to the performance on the whole dataset. Specialized literature offers several approaches
+  to finding coresets, but such algorithms often disregard the application, or explicitly
+  ask the user for the desired number of points. Starting from the consideration that
+  finding coresets is an intuitively multi-objective problem, as minimizing the number
+  of points goes against maintaining the original performance, in this paper we propose
+  a multi-objective evolutionary approach to identifying coresets for classification.
+  The proposed approach is tested on classical machine learning classification benchmarks,
+  using 6 state-of-the-art classifiers, comparing against 7 algorithms for coreset
+  discovery. Results show that not only the proposed approach is able to find coresets
+  representing different compromises between compactness and performance, but that
+  different coresets are identified for different classifiers, reinforcing the assumption
+  that coresets might be closely linked to the specific application.
+links:
+- name: URL
+  url: https://doi.org/10.1007/978-3-030-16692-2_37
+---
