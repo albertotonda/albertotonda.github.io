@@ -61,12 +61,34 @@
       <link>http://localhost:1313/research/food-processing/</link>
       <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/research/food-processing/</guid>
-      <description>&lt;p&gt;Starting with my first post-doctoral position, I applied computational intelligence techniques to the field of food processing, a domain where the limited amount of data and the abundance of expert knowledge pose interesting challenges to ML and AI algorithms. This activity later became the main focus of my career as a permanent researcher at INRA/INRAE. The case studies I tackled, carried out mainly in the scope of the co-supervisions of PhD students Etienne Descamps and Thomas Chabin, include modeling diary emulsions~\cite{lutton2014food,descamps2015modeling},
-freeze-drying of lactic acid bacteria~\cite{chabin2018lideogram,chabin2018asemiautomatic,chabin2017interactive},
-biscuit cooking~\cite{tonda2018alongshorttermmemory},
-cleaning processes of industrial machines~\cite{deponte2020two,gu2019amathematical},
-behavior of the pepsin enzyme~\cite{tonda2017insilico,grosvenor2017pepsin,grosvenor2015invitro},
-ecosystem services~\cite{accatino:hal-02482110}. I later chaired the European COST Action CA15118 \emph{Mathematical and Computer Science Methods for Food Science and Industry} (2016-2020), a networking project that gathered experts from both academia and industry, to make a point on the state of the art and the possible future trajectories of the sector. The project led to several reviews and position papers~\cite{djekic2019scientific,djekic2019crosseuropean,djekic2018review,djekic2020environmental}. As an expert of the domain, I have been involved in several other internal INRAE activities that also led to position papers~\cite{thomopoulos2019multicriteria,gesanguiziou2019annotation,barnabe2018multiscale,perrot2016someremarks,thomopoulos2020,Tonda2018interactive}, and I have provided my perspective in two invited talks at Acad�mie de Technologies (Paris, France) and at the University of Sarajevo (Bosnia-Herzegovina).&lt;/p&gt;
+      <description>&lt;p&gt;Starting with my first post-doctoral position, I applied computational intelligence techniques to the field of food processing, a domain where the limited amount of data and the abundance of expert knowledge pose interesting challenges to ML and AI algorithms. This activity later became the main focus of my career as a permanent researcher at INRA/INRAE. The case studies I tackled, carried out mainly in the scope of the co-supervisions of PhD students Etienne Descamps and Thomas Chabin, include modeling diary emulsions 
+, 
+,
+freeze-drying of lactic acid bacteria 
+, 
+, 
+,
+biscuit cooking 
+,
+cleaning processes of industrial machines 
+, 
+,
+behavior of the pepsin enzyme 
+, 
+, 
+,
+ecosystem services 
+. I later chaired the European COST Action CA15118 &lt;em&gt;Mathematical and Computer Science Methods for Food Science and Industry&lt;/em&gt; (2016-2020), a networking project that gathered experts from both academia and industry, to make a point on the state of the art and the possible future trajectories of the sector. The project led to several reviews and position papers 
+, 
+, 
+, 
+. As an expert of the domain, I have been involved in several other internal INRAE activities that also led to position papers 
+, 
+, 
+, 
+, 
+, 
+, and I have provided my perspective in two invited talks at Academie de Technologies (Paris, France) and at the University of Sarajevo (Bosnia-Herzegovina).&lt;/p&gt;
 </description>
     </item>
     
@@ -75,7 +97,13 @@ ecosystem services~\cite{accatino:hal-02482110}. I later chaired the European CO
       <link>http://localhost:1313/research/health/</link>
       <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/research/health/</guid>
-      <description>&lt;p&gt;In recent years, my research activities have branched to the application of ML and EAs to bioinformatics, thanks to a long-standing collaboration with the University of Utrecht (The Netherlands), with the recent addition of partners from the University of Cambridge (UK). The case studies I tackled include automatic discovery of micro-RNA signatures for tumors~\cite{lopezrincon2019automatic,lopezrincon2018evolutionary,barbiero2019understanding}, batch correction of genomic datasets~\cite{lopezrincon2020batch}, and automatic primer design for viruses, with a focus on SARS-CoV-2~\cite{lopezrincon2021classification,lopezrincon2021design}. Following these activities, I joined COST Action CA18131 \emph{Statistical and Machine Learning Techniques in Human Microbiome Studies} (2019-2023), where I am currently one of the two representatives for France in the Management Committee.&lt;/p&gt;
+      <description>&lt;p&gt;In recent years, my research activities have branched to the application of ML and EAs to bioinformatics, thanks to a long-standing collaboration with the University of Utrecht (The Netherlands), with the recent addition of partners from the University of Cambridge (UK). The case studies I tackled include automatic discovery of micro-RNA signatures for tumors 
+, 
+, 
+, batch correction of genomic datasets 
+, and automatic primer design for viruses, with a focus on SARS-CoV-2 
+, 
+. Following these activities, I joined COST Action CA18131 \emph{Statistical and Machine Learning Techniques in Human Microbiome Studies} (2019-2023), where I am currently one of the two representatives for France in the Management Committee.&lt;/p&gt;
 </description>
     </item>
     
@@ -84,7 +112,13 @@ ecosystem services~\cite{accatino:hal-02482110}. I later chaired the European CO
       <link>http://localhost:1313/research/ai-games/</link>
       <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/research/ai-games/</guid>
-      <description>&lt;p&gt;Since my Master, I developed an interest in AI applied to gaming. Games are an ideal benchmark for computational intelligence techniques, as creating an interesting opponent for humans requires software that is not only challenging, but also able to induce the tactics used by its adversaries. In this research line, I first worked on an AI able to model the opponent&amp;rsquo;s behavior in the iterated Prisoner&amp;rsquo;s Dilemma using EAs~\cite{gaudesi2016exploiting,gaudesi2014turan}, during my PhD co-supervision of Marco Gaudesi. I then tackled the automatic development of bots for the real-time strategy game StarCraft~\cite{garciasanchez2015towards}, submitting the first participant to the Student StarCraft AI Competition being entirely designed by another algorithm. A few years ago I started an ongoing project on developing competitive AIs for HearthStone, a collectible card game played online~\cite{garciasanchez2020optimizing,garciasanchez2018automated,garciasanchez2016evolutionary}. In the scope of these activities, since 2017 I have been co-chairing the session dedicated to games in the EvoSTAR conference.&lt;/p&gt;
+      <description>&lt;p&gt;Since my Master, I developed an interest in AI applied to gaming. Games are an ideal benchmark for computational intelligence techniques, as creating an interesting opponent for humans requires software that is not only challenging, but also able to induce the tactics used by its adversaries. In this research line, I first worked on an AI able to model the opponent&amp;rsquo;s behavior in the iterated Prisoner&amp;rsquo;s Dilemma using EAs 
+, 
+, during my PhD co-supervision of Marco Gaudesi. I then tackled the automatic development of bots for the real-time strategy game StarCraft 
+, submitting the first participant to the Student StarCraft AI Competition being entirely designed by another algorithm. A few years ago I started an ongoing project on developing competitive AIs for HearthStone, a collectible card game played online 
+, 
+, 
+. In the scope of these activities, since 2017 I have been co-chairing the session dedicated to games in the EvoSTAR conference.&lt;/p&gt;
 </description>
     </item>
     
@@ -93,7 +127,33 @@ ecosystem services~\cite{accatino:hal-02482110}. I later chaired the European CO
       <link>http://localhost:1313/research/software-testing/</link>
       <pubDate>Mon, 09 Dec 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/research/software-testing/</guid>
-      <description>&lt;p&gt;Several of my early research activities were centered around the development of automated techniques to support hardware testing, ranging from the generation of programs to test specific parts of the hardware~\cite{grosso2012software,grosso2011functional,ciganda2012automatic,sanchez2011evolution,perez2011functional,sanchez2011onthefunctional}, to fail-test generation for complex CPUs~\cite{sanchez2011evolutionary,sanchez2011postsilicon,sanchez2011automatic,perez2009onthegeneration}, to compensation of defects in electronic noses~\cite{dicarlo2011increasing,dicarlo2011covariance,dicarlo2010towards,dicarlo2010exploiting}. In the domain of software, I applied the same ideas to software testing~\cite{gandini2010aframework,marino2016ageneralpurpose,gandini2009automatic}, analysis of network protocols~\cite{bucur2016optimizing,bucur2014theimpact,bucur2015black,bucur2014thetradeoffs,cani2014towards,bucur2013anevolutionary}, and detection of malicious applications~\cite{atzeni2018countering,gaudesi2016challenging,gaudesi2015malware}, with these last two activities carried out mainly in the scope of my co-supervision of PhD students Marco Gaudesi and Andrea Marcelli. More recently, I started the co-supervision of PhD student Eliana Giovannitti on the subject of automated discovery of backlash issues in industrial equipment~\cite{giovannitti2022virtual,giovannitti2021exploiting,giovannitti2020virtual}.&lt;/p&gt;
+      <description>&lt;p&gt;Several of my early research activities were centered around the development of automated techniques to support hardware testing, ranging from the generation of programs to test specific parts of the hardware 
+, 
+, 
+, 
+, 
+, to fail-test generation for complex CPUs 
+, 
+, to compensation of defects in electronic noses 
+, 
+, 
+, 
+. In the domain of software, I applied the same ideas to software testing 
+, 
+, 
+, analysis of network protocols 
+, 
+, 
+, 
+, 
+, 
+, and detection of malicious applications 
+, 
+, 
+, with these last two activities carried out mainly in the scope of my co-supervision of PhD students Marco Gaudesi and Andrea Marcelli. More recently, I started the co-supervision of PhD student Eliana Giovannitti on the subject of automated discovery of backlash issues in industrial equipment 
+, 
+, 
+.&lt;/p&gt;
 </description>
     </item>
     
@@ -117,6 +177,18 @@ ecosystem services~\cite{accatino:hal-02482110}. I later chaired the European CO
       <description>&lt;p&gt;Multi-Size Hybrid Cell Models (MuSiHC) is a 4-year project I am leading, funded by the 
  for over 1.3M Euros. MuSiHC focuses on learning models for bacterial metabolic network, resorting to hybrid approaches combining classical systems of differential equations and more recent machine learning algorithms.&lt;/p&gt;
 &lt;p&gt;The project is in cooperation with several partners: INRIA Grenoble, MICALIS institute, MaIAGE lab, Toulouse Biotechnology Institute, Toulouse White Biotechnology, and University Lyon 1.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Visiting Victoria University, Wellington</title>
+      <link>http://localhost:1313/post/2024-06-24-vuw/</link>
+      <pubDate>Mon, 24 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/2024-06-24-vuw/</guid>
+      <description>&lt;p&gt;During the 2024 summer I spent almost two months visiting the researchers and students at the 
+ of 
+, New Zealand. Prof. Mengjie Zhang and his colleagues warmly welcomed me in spite of the relatively cold weather of the austral hemisphere, and we had a excellent exchange of ideas; not to mention, I had the opportunity of working again with the brilliant Ph.D. student Hengzhe Zhang, with whom I previously collaborated.&lt;/p&gt;
+&lt;p&gt;Thanks again to Prof. Mengjie Zhang and all his colleagues (Bing Xue, Xiaoying Gao, Fangfang Zhang, Hui Ma, and many others I am surely forgetting) for inviting me and for the warm welcome!&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -195,7 +267,7 @@ ecosystem services~\cite{accatino:hal-02482110}. I later chaired the European CO
       <link>http://localhost:1313/project/2024-fossnet/</link>
       <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/project/2024-fossnet/</guid>
-      <description>&lt;p&gt;Pan-European Food Systems Science Network (FoSSNet) is a 4-year Horizon Europe Research and Innovation Action, involving more than 15 partners from all over Europe. 
+      <description>&lt;p&gt;Pan-European Food Systems Science Network (FoSSNet) is a 4-year Horizon Europe Research and Innovation Action, involving more than 15 partners from all over Europe. In this project, I am a regular participant. 
 .&lt;/p&gt;</description>
     </item>
     
@@ -542,7 +614,7 @@ ecosystem services~\cite{accatino:hal-02482110}. I later chaired the European CO
 
 
 
-&lt;div id=&#34;chart-246938175&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-824561793&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -560,7 +632,7 @@ ecosystem services~\cite{accatino:hal-02482110}. I later chaired the European CO
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-246938175&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-824561793&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -1194,6 +1266,17 @@ Parallel 4   :         des6, after des4, 1d
     </item>
     
     <item>
+      <title>COST Action ROAR-NET</title>
+      <link>http://localhost:1313/project/2023-roar-net/</link>
+      <pubDate>Mon, 02 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/2023-roar-net/</guid>
+      <description>&lt;p&gt;Randomised Optimisation Algorithms Research Network (CA22137 ROAR-NET) is a COST Action, a 4-year networking project funded by the 
+. This COST Action aims at making randomised optimisation algorithms widely competitive in practice by identifying and reducing obstacles to their adoption at the scientific, technical, economic, and human levels. It focuses on meeting the needs of practitioners, from whose activities the economic value of optimisation solvers stems. These needs are taken as the driving force for new theoretical, methodological, and technical advances leading to the sustainable development of widely available software tools, training materials and programmes, and ultimately to more extensive acceptance and deployment of these methods.&lt;/p&gt;
+&lt;p&gt;In this project, I am a regular participant. For more information, check out the 
+.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>An Innovative AI-based primer design tool for precise and accurate detection of SARS-CoV-2 variants of concern</title>
       <link>http://localhost:1313/publication/perezromero-2023-aninnovative/</link>
       <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
@@ -1587,9 +1670,9 @@ Parallel 4   :         des6, after des4, 1d
     
     <item>
       <title>Consumers&#39; Motivations towards Environment-Friendly Dietary Changes: An Assessment of Trends Related to the Consumption of Animal Products</title>
-      <link>http://localhost:1313/publication/thomopoulos-2020/</link>
+      <link>http://localhost:1313/publication/thomopoulos-2020-consumers/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/thomopoulos-2020/</guid>
+      <guid>http://localhost:1313/publication/thomopoulos-2020-consumers/</guid>
       <description></description>
     </item>
     
@@ -1747,9 +1830,9 @@ Parallel 4   :         des6, after des4, 1d
     
     <item>
       <title>Formaliser la Durabilité des Paysages Agricoles Comme un Problème Multi-objectif</title>
-      <link>http://localhost:1313/publication/accatino-hal-02482110/</link>
+      <link>http://localhost:1313/publication/accatino-2019-formaliser/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/accatino-hal-02482110/</guid>
+      <guid>http://localhost:1313/publication/accatino-2019-formaliser/</guid>
       <description></description>
     </item>
     
@@ -2291,9 +2374,9 @@ Parallel 4   :         des6, after des4, 1d
     
     <item>
       <title>On the Functional Test of Branch Prediction Units Based on the Branch History Table Architecture</title>
-      <link>http://localhost:1313/publication/sanchez-2012-onthefunctional/</link>
+      <link>http://localhost:1313/publication/sanchez-2011-onthefunctional/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/sanchez-2012-onthefunctional/</guid>
+      <guid>http://localhost:1313/publication/sanchez-2011-onthefunctional/</guid>
       <description></description>
     </item>
     

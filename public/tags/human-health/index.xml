@@ -17,7 +17,13 @@
       <link>http://localhost:1313/research/health/</link>
       <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/research/health/</guid>
-      <description>&lt;p&gt;In recent years, my research activities have branched to the application of ML and EAs to bioinformatics, thanks to a long-standing collaboration with the University of Utrecht (The Netherlands), with the recent addition of partners from the University of Cambridge (UK). The case studies I tackled include automatic discovery of micro-RNA signatures for tumors~\cite{lopezrincon2019automatic,lopezrincon2018evolutionary,barbiero2019understanding}, batch correction of genomic datasets~\cite{lopezrincon2020batch}, and automatic primer design for viruses, with a focus on SARS-CoV-2~\cite{lopezrincon2021classification,lopezrincon2021design}. Following these activities, I joined COST Action CA18131 \emph{Statistical and Machine Learning Techniques in Human Microbiome Studies} (2019-2023), where I am currently one of the two representatives for France in the Management Committee.&lt;/p&gt;
+      <description>&lt;p&gt;In recent years, my research activities have branched to the application of ML and EAs to bioinformatics, thanks to a long-standing collaboration with the University of Utrecht (The Netherlands), with the recent addition of partners from the University of Cambridge (UK). The case studies I tackled include automatic discovery of micro-RNA signatures for tumors 
+, 
+, 
+, batch correction of genomic datasets 
+, and automatic primer design for viruses, with a focus on SARS-CoV-2 
+, 
+. Following these activities, I joined COST Action CA18131 \emph{Statistical and Machine Learning Techniques in Human Microbiome Studies} (2019-2023), where I am currently one of the two representatives for France in the Management Committee.&lt;/p&gt;
 </description>
     </item>
     
