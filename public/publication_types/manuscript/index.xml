@@ -5,18 +5,26 @@
     <link>http://localhost:1313/publication_types/manuscript/</link>
       <atom:link href="http://localhost:1313/publication_types/manuscript/index.xml" rel="self" type="application/rss+xml" />
     <description>Manuscript</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 13 Dec 2024 08:56:18 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <url>http://localhost:1313/media/icon_hu13064559619334802728.png</url>
       <title>Manuscript</title>
       <link>http://localhost:1313/publication_types/manuscript/</link>
     </image>
     
     <item>
-      <title>talk title</title>
-      <link>http://localhost:1313/publication/key/</link>
-      <pubDate>Fri, 13 Dec 2024 08:56:18 +0000</pubDate>
-      <guid>http://localhost:1313/publication/key/</guid>
+      <title>Modeling Generalization in Machine Learning: A Methodological and Computational Study</title>
+      <link>http://localhost:1313/publication/barbiero-2020-modeling/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/barbiero-2020-modeling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Uncovering Coresets for Classification With Multi-Objective Evolutionary Algorithms</title>
+      <link>http://localhost:1313/publication/barbiero-2020-uncovering/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/barbiero-2020-uncovering/</guid>
       <description></description>
     </item>
     

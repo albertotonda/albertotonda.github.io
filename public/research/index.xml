@@ -20,7 +20,15 @@
       <description>&lt;p&gt;While generally effective, models obtained through machine learning (ML) are often black boxes, as it is practically impossible for humans to infer their decision processes, due to their sheer complexity. Some of my early works dealt with 
 , and 
  
- with data-driven models~\cite{tonda2013amemetic,tonda2012bayesian,}. More recently I investigated the relationships between datasets characteristics and generalization abilities of models~\cite{barbiero2020modeling}, and experimented with the translation of Explainable AI (XAI) techniques from the field of image analysis to genomic data~\cite{lopezrincon2021classification}. Furthermore, I explored different approaches to feature and sample selection, the process of identifying the most compact sect of meaningful information to explain a ML algorithm decisions on a target problem~\cite{barbiero2020generating,barbiero2020making,barbiero2020anovel,ciravegna2020discovering,barbiero2019fundamental,barbiero2019beyond,barbiero2019evolutionary}. As one of the leads in this research line includes combining EAs and ML, I am recognized as one of the experts of this niche, and as a consequence I co-organized tutorials on the subject in several specialized conferences (ACM GECCO, PPSN) plus an invited lecture in the summer school organized by COST Action CA15140 \emph{Improving Applicability of Nature-Inspired Optimisation by Joining Theory and Practise}&lt;/p&gt;
+ with 
+. More recently I investigated the relationships between 
+, and experimented with the translation of Explainable AI (XAI) techniques from the 
+. Furthermore, I explored different approaches to feature and sample selection, the process of identifying the most compact sect of meaningful information to explain a ML algorithm decisions on a target problem, often employing Evolutionary Algorithms (EAs), see for example 
+, 
+, 
+.&lt;/p&gt;
+&lt;p&gt;I am recognized as one of the experts of this niche combining EAs and ML, and as a consequence I co-organized tutorials on the subject in several specialized conferences (ACM GECCO, PPSN) plus an invited lecture in the summer school organized by 
+ &lt;em&gt;Improving Applicability of Nature-Inspired Optimisation by Joining Theory and Practice&lt;/em&gt;.&lt;/p&gt;
 </description>
     </item>
     

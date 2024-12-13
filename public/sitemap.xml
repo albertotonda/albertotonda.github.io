@@ -430,6 +430,10 @@
     <lastmod>2022-05-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>http://localhost:1313/publication/pica-2022-supplementary/</loc>
+    <lastmod>2022-05-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>http://localhost:1313/publication/giovannitti-2022-virtual/</loc>
     <lastmod>2022-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -514,7 +518,7 @@
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/garcia-sanchez-2020-data/</loc>
+    <loc>http://localhost:1313/publication/garciasanchez-2020-data/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -530,11 +534,23 @@
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>http://localhost:1313/publication_types/manuscript/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/publication/barbiero-2020-modeling/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>http://localhost:1313/publication/smetana-2020-modelling/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/publication/garciasanchez-2020-optimizing/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/publication/barbiero-2020-uncovering/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -578,19 +594,7 @@
     <lastmod>2019-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/preprint/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/publication_types/article/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/tags/large-language-models/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/publication/brunetti-2019/</loc>
+    <loc>http://localhost:1313/publication/brunetti-2019-achenin/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -606,7 +610,7 @@
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/garcia-sanchez-2019-optimizacion/</loc>
+    <loc>http://localhost:1313/publication/garciasanchez-2019-optimizacion/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -822,10 +826,6 @@
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/conference-paper/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>http://localhost:1313/publication/tonda-2013-amemetic/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -890,7 +890,7 @@
     <lastmod>2011-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/di-carlo-2011-artificial/</loc>
+    <loc>http://localhost:1313/publication/dicarlo-2011-artificial/</loc>
     <lastmod>2011-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
