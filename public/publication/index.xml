@@ -5,12 +5,20 @@
     <link>http://localhost:1313/publication/</link>
       <atom:link href="http://localhost:1313/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 May 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
       <title>Publications</title>
       <link>http://localhost:1313/publication/</link>
     </image>
+    
+    <item>
+      <title>Escherichia coli-based Physical Reservoir Computing : Potential and Applications</title>
+      <link>http://localhost:1313/publication/ahavi-2024-escherichia/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ahavi-2024-escherichia/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Development of a soft sensor for fouling prediction in pipe fittings using the example of particulate deposition from suspension flow</title>
@@ -21,10 +29,82 @@
     </item>
     
     <item>
+      <title>Applications of Nature-Inspired Computing and Optimization Techniques</title>
+      <link>http://localhost:1313/publication/biswas-2024-applications/</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/biswas-2024-applications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A brief introduction to nature-inspired computing,  optimization,  and applications</title>
+      <link>http://localhost:1313/publication/biswas-2024-abrief/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/biswas-2024-abrief/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Byron: A Fuzzer for Turing-complete Test Programs</title>
+      <link>http://localhost:1313/publication/squillero-2024-byron/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/squillero-2024-byron/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Categorical Foundation of Explainable AI: A Unifying Theory</title>
+      <link>http://localhost:1313/publication/giannini-2024-categorical/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/giannini-2024-categorical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image Generation with Interactive Evolutionary System using Bayesian Optimization</title>
+      <link>http://localhost:1313/publication/ruedaarango-2024-image/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ruedaarango-2024-image/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine-Learning Analysis of mRNA: An Application to Inflammatory Bowel Disease</title>
+      <link>http://localhost:1313/publication/rojasvelazquez-2024-machinelearning/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/rojasvelazquez-2024-machinelearning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Methodology for biomarker discovery with reproducibility in microbiome data using machine learning</title>
       <link>http://localhost:1313/publication/rojasvelazquez-2024-methodology/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/rojasvelazquez-2024-methodology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-Objective Optimization for Large-scale Allocation of Soybean Crops</title>
+      <link>http://localhost:1313/publication/chen-2024-multiobjective/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/chen-2024-multiobjective/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards an Evolutionary Approach for Exploting Core Knowledge in Artificial Intelligence</title>
+      <link>http://localhost:1313/publication/calabrese-2024-towards/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/calabrese-2024-towards/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian Optimization for the Inverse Problem in Electrocardiography</title>
+      <link>http://localhost:1313/publication/lopezrincon-2023-bayesian/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/lopezrincon-2023-bayesian/</guid>
       <description></description>
     </item>
     
@@ -69,6 +149,22 @@
     </item>
     
     <item>
+      <title>Interpretable Neural-Symbolic Concept Reasoning</title>
+      <link>http://localhost:1313/publication/barbiero-2023-interpretable-ne-sy/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/barbiero-2023-interpretable-ne-sy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interpretable Neural-Symbolic Concept Reasoning</title>
+      <link>http://localhost:1313/publication/barbiero-2023-interpretable/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/barbiero-2023-interpretable/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A primer on predictive techniques for food and bioresources transformation processes</title>
       <link>http://localhost:1313/publication/sicard-2023-aprimer/</link>
       <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
@@ -93,6 +189,30 @@
     </item>
     
     <item>
+      <title>Direct Comparative Analysis of Nature-Inspired Optimization Algorithms on Community Detection Problem in Social Networks</title>
+      <link>http://localhost:1313/publication/das-2023-direct/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/das-2023-direct/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MAP-Elites with~Cosine-Similarity for~Evolutionary Ensemble Learning</title>
+      <link>http://localhost:1313/publication/zhang-2023-mapelites/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/zhang-2023-mapelites/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-objective Evolutionary Discretization of Gene Expression Profiles: Application to COVID-19 Severity Prediction</title>
+      <link>http://localhost:1313/publication/10-1007-978-3-031-30229-9-45/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/10-1007-978-3-031-30229-9-45/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Predicting odor profile of food from its chemical composition: Towards an approach based on artificial intelligence and flavorists expertise</title>
       <link>http://localhost:1313/publication/perrot-2023-predicting/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
@@ -101,10 +221,26 @@
     </item>
     
     <item>
+      <title>Towards Evolutionary Control Laws for Viability Problems</title>
+      <link>http://localhost:1313/publication/tonda-2023-towards/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/tonda-2023-towards/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A Decision-Support System to Predict Grape Berry Quality and Wine Potential for a Chenin Vineyard</title>
       <link>http://localhost:1313/publication/mejeanperrot-2022-decision/</link>
       <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/mejeanperrot-2022-decision/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Agent-based Modelling of Enzymatic Digestion Using Experimental Data</title>
+      <link>http://localhost:1313/publication/lutton-2022-agent/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/lutton-2022-agent/</guid>
       <description></description>
     </item>
     
@@ -125,10 +261,66 @@
     </item>
     
     <item>
+      <title>An Intercontinental Machine Learning Analysis of Factors Explaining Consumer Awareness About Food Risk</title>
+      <link>http://localhost:1313/publication/tonda-2022-intercontinental/</link>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/tonda-2022-intercontinental/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Evolutionary Approach to the Discretization of Gene Expression Profiles to Predict the Severity of COVID-19</title>
+      <link>http://localhost:1313/publication/mouhrim-2022-evolutionary/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/mouhrim-2022-evolutionary/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predictable Features Elimination: An Unsupervised Approach to Feature Selection</title>
+      <link>http://localhost:1313/publication/barbiero-2022-predictable/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/barbiero-2022-predictable/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Multi-Objective Optimization of Sustainable Insect Production Chains</title>
+      <link>http://localhost:1313/publication/mouhrim-2022-towards/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/mouhrim-2022-towards/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>An Evolutionary Framework for Maximizing Influence Propagation in Social Networks</title>
       <link>http://localhost:1313/publication/iacca-2021-evolutionary/</link>
       <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/iacca-2021-evolutionary/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design of specific primer sets for SARS-CoV-2 variants using evolutionary algorithms</title>
+      <link>http://localhost:1313/publication/lopezrincon-2021-design/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/lopezrincon-2021-design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploiting Artificial Swarms for the Virtual Measurement of Backlash in Industrial Robots</title>
+      <link>http://localhost:1313/publication/giovannitti-2021-exploiting/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/giovannitti-2021-exploiting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Assessing Trends on Consumption of Animal Products Through a Machine Learning Analysis of Consumer Motivations</title>
+      <link>http://localhost:1313/publication/thomopoulos-2021-assessing/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/thomopoulos-2021-assessing/</guid>
       <description></description>
     </item>
     
@@ -141,10 +333,50 @@
     </item>
     
     <item>
+      <title>Modelling Asthma Patients&#39; Responsiveness to Treatment Using Feature Selection and Evolutionary Computation</title>
+      <link>http://localhost:1313/publication/lopezrincon-2021-modelling/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/lopezrincon-2021-modelling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Modelling Processes and Products in the Cereal Chain</title>
       <link>http://localhost:1313/publication/carvalho-2021-modelling/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/carvalho-2021-modelling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-objective Optimization for Sustainable Insect Chains</title>
+      <link>http://localhost:1313/publication/tonda-2021-multiobjective/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/tonda-2021-multiobjective/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Batch correction of genomic data in chronic fatigue syndrome using CMA-ES</title>
+      <link>http://localhost:1313/publication/lopezrincon-2020-batch/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/lopezrincon-2020-batch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Discovering Hierarchical Neural Archetype Sets</title>
+      <link>http://localhost:1313/publication/ciravegna-2020-discovering/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ciravegna-2020-discovering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evolutionary algorithms and machine learning</title>
+      <link>http://localhost:1313/publication/squillero-2020-evolutionary/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/squillero-2020-evolutionary/</guid>
       <description></description>
     </item>
     
@@ -173,10 +405,74 @@
     </item>
     
     <item>
+      <title>A Novel Outlook on Feature Selection as a Multi-objective Problem</title>
+      <link>http://localhost:1313/publication/barbiero-2020-anovel/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/barbiero-2020-anovel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Consumers&#39; Motivations towards Environment-Friendly Dietary Changes: An Assessment of Trends Related to the Consumption of Animal Products</title>
+      <link>http://localhost:1313/publication/thomopoulos-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/thomopoulos-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Mining of Deck Archetypes in Hearthstone</title>
+      <link>http://localhost:1313/publication/garcia-sanchez-2020-data/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/garcia-sanchez-2020-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Environmental Modelling in the Food Supply Chain - Future Perspectives</title>
+      <link>http://localhost:1313/publication/djekic-2020-environmental/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/djekic-2020-environmental/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generating Neural Archetypes to Instruct Fast and Interpretable Decisions</title>
+      <link>http://localhost:1313/publication/barbiero-2020-generating/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/barbiero-2020-generating/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Making Sense of Economics Datasets with Evolutionary Coresets</title>
+      <link>http://localhost:1313/publication/barbiero-2020-making/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/barbiero-2020-making/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modelling Approaches for Sustainable Insect Production Chains</title>
+      <link>http://localhost:1313/publication/smetana-2020-modelling/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/smetana-2020-modelling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Optimizing HearthStone Agents Using an Evolutionary Algorithm</title>
       <link>http://localhost:1313/publication/garciasanchez-2020-optimizing/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/garciasanchez-2020-optimizing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Virtual Measurement of the Backlash Gap in Industrial Manipulators</title>
+      <link>http://localhost:1313/publication/giovannitti-2020-virtual/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/giovannitti-2020-virtual/</guid>
       <description></description>
     </item>
     
@@ -213,6 +509,14 @@
     </item>
     
     <item>
+      <title>Understanding Cancer Phenomenon at Gene Expression Level by using a Shallow Neural Network Chain</title>
+      <link>http://localhost:1313/publication/barbiero-2019-understanding/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/barbiero-2019-understanding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Annotation Data About Multi Criteria Assessment Methods Used in the Agri-food Research: The French National Institute for Agricultural Research (INRA) Experience</title>
       <link>http://localhost:1313/publication/gesanguiziou-2019-annotation/</link>
       <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
@@ -225,6 +529,22 @@
       <link>http://localhost:1313/publication/djekic-2019-scientific/</link>
       <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/djekic-2019-scientific/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Beyond coreset discovery</title>
+      <link>http://localhost:1313/publication/barbiero-2019-beyond/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/barbiero-2019-beyond/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evolutionary discovery of coresets for classification</title>
+      <link>http://localhost:1313/publication/barbiero-2019-evolutionary/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/barbiero-2019-evolutionary/</guid>
       <description></description>
     </item>
     
@@ -247,10 +567,50 @@
     </item>
     
     <item>
+      <title>A Chenin Decision Help System to Predict Grape Berries Maturity and Anticipate Wine Potentialities</title>
+      <link>http://localhost:1313/publication/brunetti-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/brunetti-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Formaliser la Durabilité des Paysages Agricoles Comme un Problème Multi-objectif</title>
+      <link>http://localhost:1313/publication/accatino-hal-02482110/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/accatino-hal-02482110/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fundamental Flowers: Evolutionary Discovery of Coresets for Classification</title>
+      <link>http://localhost:1313/publication/barbiero-2019-fundamental/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/barbiero-2019-fundamental/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Multi-Criteria Reverse Engineering for Food: Genesis and Ongoing Advances</title>
       <link>http://localhost:1313/publication/thomopoulos-2019-multicriteria/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/thomopoulos-2019-multicriteria/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimización de agentes para HearthStone utilizando Algoritmos Evolutivos</title>
+      <link>http://localhost:1313/publication/garcia-sanchez-2019-optimizacion/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/garcia-sanchez-2019-optimizacion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Adaptability of an Extensive Cattle Beef Farming System to Contrasted Societal Preferences - Coupling Multi-Objective Analysis and a Participatory Approach</title>
+      <link>http://localhost:1313/publication/accatino-2019-adaptability/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/accatino-2019-adaptability/</guid>
       <description></description>
     </item>
     
@@ -279,6 +639,14 @@
     </item>
     
     <item>
+      <title>Evaluating surrogate models for multi-objective influence maximization in social networks</title>
+      <link>http://localhost:1313/publication/bucur-2018-evaluating/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/bucur-2018-evaluating/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Evolutionary optimization of convolutional neural networks for cancer miRNA biomarkers classification</title>
       <link>http://localhost:1313/publication/lopezrincon-2018-evolutionary/</link>
       <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
@@ -303,10 +671,74 @@
     </item>
     
     <item>
+      <title>A Long-Short-Term Memory Network Model for Biscuit Baking</title>
+      <link>http://localhost:1313/publication/tonda-2018-alongshorttermmemory/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/tonda-2018-alongshorttermmemory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Semi-automatic Modeling Approach for the Production and Freeze-drying of Lactic Acid Bacteria</title>
+      <link>http://localhost:1313/publication/chabin-2018-asemiautomatic/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/chabin-2018-asemiautomatic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Building a Multidisciplinary Community on Mathematics and Computer Science for the Food Industry: The Case of FoodMC</title>
+      <link>http://localhost:1313/publication/tonda-2018-building/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/tonda-2018-building/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Countering Android Malware: A Scalable Semi-Supervised Approach for Family-Signature Generation</title>
       <link>http://localhost:1313/publication/atzeni-2018-countering/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/atzeni-2018-countering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Human in the Loop for Modelling Food and Biological Systems: a Novel Perspective coupling Artificial Intelligence and Life Science</title>
+      <link>http://localhost:1313/publication/mejean-2018-human/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/mejean-2018-human/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving Multi-objective Evolutionary Influence Maximization in Social Networks</title>
+      <link>http://localhost:1313/publication/bucur-2018-improving/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/bucur-2018-improving/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interactive Machine Learning for Applications in Food Science</title>
+      <link>http://localhost:1313/publication/tonda-2018-interactive/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/tonda-2018-interactive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LIDeOGraM: An Interactive Evolutionary Modelling Tool</title>
+      <link>http://localhost:1313/publication/chabin-2018-lideogram/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/chabin-2018-lideogram/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interactive evolutionary modelling of living complex food systems</title>
+      <link>http://localhost:1313/publication/chabin-2017-interactive/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/chabin-2017-interactive/</guid>
       <description></description>
     </item>
     
@@ -327,10 +759,42 @@
     </item>
     
     <item>
+      <title>FoodMC: a COST Action to Promote Modeling in Food Science and Industry</title>
+      <link>http://localhost:1313/publication/tonda-2017-foodmc/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/tonda-2017-foodmc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>In silico modeling of protein hydrolysis by endoproteases: a case study on pepsin digestion of bovine lactoferrin</title>
       <link>http://localhost:1313/publication/tonda-2017-insilico/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/tonda-2017-insilico/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>In-silico Predictions of Pepsin-released Peptides</title>
+      <link>http://localhost:1313/publication/grosvenor-2017-pepsin/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/grosvenor-2017-pepsin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-objective Evolutionary Algorithms for Influence Maximization in Social Networks</title>
+      <link>http://localhost:1313/publication/bucur-2017-multiobjective/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/bucur-2017-multiobjective/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evolutionary Algorithms for Food Science and Technology</title>
+      <link>http://localhost:1313/publication/lutton-2016-evolutionary/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/lutton-2016-evolutionary/</guid>
       <description></description>
     </item>
     
@@ -343,10 +807,26 @@
     </item>
     
     <item>
+      <title>Evolutionary deckbuilding in HearthStone</title>
+      <link>http://localhost:1313/publication/garciasanchez-2016-evolutionary/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/garciasanchez-2016-evolutionary/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Exploiting Evolutionary Modeling to Prevail in Iterated Prisoner&#39;s Dilemma Tournaments</title>
       <link>http://localhost:1313/publication/gaudesi-2016-exploiting/</link>
       <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/gaudesi-2016-exploiting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FoodMC: A European COST Action on Food Modelling</title>
+      <link>http://localhost:1313/publication/tonda-2016-foodmc/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/tonda-2016-foodmc/</guid>
       <description></description>
     </item>
     
@@ -375,25 +855,115 @@
     </item>
     
     <item>
-      <title>An example journal article</title>
-      <link>http://localhost:1313/publication/journal-article/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/journal-article/</guid>
-      <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
-&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
-  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
-&lt;/span&gt;
-  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.&lt;/span&gt;
-&lt;/div&gt;
-&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
-&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
-  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
-&lt;/span&gt;
-  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.&lt;/span&gt;
-&lt;/div&gt;
-&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including 
-.&lt;/p&gt;
-</description>
+      <title>A General-Purpose Framework for Genetic Improvement</title>
+      <link>http://localhost:1313/publication/marino-2016-ageneralpurpose/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/marino-2016-ageneralpurpose/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Challenging Anti-virus Through Evolutionary Malware Obfuscation</title>
+      <link>http://localhost:1313/publication/gaudesi-2016-challenging/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/gaudesi-2016-challenging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How to Mislead an Evolutionary Algorithm Using Global Sensitivity Analysis</title>
+      <link>http://localhost:1313/publication/chabin-2016-how/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/chabin-2016-how/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Portfolio Optimization,  a Decision-Support Methodology for Small Budgets</title>
+      <link>http://localhost:1313/publication/deplano-2016-portfolio/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/deplano-2016-portfolio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Research Prospects in the Design and Evaluation of Interactive Evolutionary Systems for Art and Science</title>
+      <link>http://localhost:1313/publication/boukhelifa-2016-research/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/boukhelifa-2016-research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Uncertainty Quandary: A Study in the Context of the Evolutionary Optimization in Games and Other Uncertain Environments</title>
+      <link>http://localhost:1313/publication/merelo-2016-theuncertainty/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/merelo-2016-theuncertainty/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tutorials at PPSN 2016</title>
+      <link>http://localhost:1313/publication/doerr-2016-tutorials/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/doerr-2016-tutorials/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards automatic StarCraft strategy generation using genetic programming</title>
+      <link>http://localhost:1313/publication/garciasanchez-2015-towards/</link>
+      <pubDate>Sat, 01 Aug 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/garciasanchez-2015-towards/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Black Holes and Revelations: Using Evolutionary Algorithms to Uncover Vulnerabilities in Disruption-Tolerant Networks</title>
+      <link>http://localhost:1313/publication/bucur-2015-black/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/bucur-2015-black/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>In Vitro and In Silico Modelling of Protein Hydrolysis by Pepsin: A Case Study with Lactoferrin</title>
+      <link>http://localhost:1313/publication/grosvenor-2015-invitro/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/grosvenor-2015-invitro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Is Global Sensitivity Analysis Useful to Evolutionary Computation?</title>
+      <link>http://localhost:1313/publication/chabin-2015-isglobal/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/chabin-2015-isglobal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Malware Obfuscation through Evolutionary Packers</title>
+      <link>http://localhost:1313/publication/gaudesi-2015-malware/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/gaudesi-2015-malware/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling Competition Phenomena in a Dairy Oil-in-water Emulsion Using Hybrid Kinetic Monte Carlo Simulations</title>
+      <link>http://localhost:1313/publication/descamps-2015-modeling/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/descamps-2015-modeling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Operator Selection using Improved Dynamic Multi-Armed Bandit</title>
+      <link>http://localhost:1313/publication/belluz-2015-operator/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/belluz-2015-operator/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -405,10 +975,58 @@
     </item>
     
     <item>
+      <title>TURAN: Evolving non-deterministic players for the iterated prisoner′s dilemma</title>
+      <link>http://localhost:1313/publication/gaudesi-2014-turan/</link>
+      <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/gaudesi-2014-turan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>The impact of topology on energy consumption for collection tree protocols: An experimental assessment through evolutionary computation</title>
       <link>http://localhost:1313/publication/bucur-2014-theimpact/</link>
       <pubDate>Sat, 01 Mar 2014 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/bucur-2014-theimpact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Balancing User Interaction and Control in BNSL</title>
+      <link>http://localhost:1313/publication/tonda-2014-balancing/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/tonda-2014-balancing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Dynamical Systems Using Standard Symbolic Regression</title>
+      <link>http://localhost:1313/publication/gaucel-2014-learning/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/gaucel-2014-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The tradeoffs between data delivery ratio and energy costs in wireless sensor networks</title>
+      <link>http://localhost:1313/publication/bucur-2014-thetradeoffs/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/bucur-2014-thetradeoffs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards automated malware creation</title>
+      <link>http://localhost:1313/publication/cani-2014-towards/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/cani-2014-towards/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Universal information distance for genetic programming</title>
+      <link>http://localhost:1313/publication/gaudesi-2014-universal/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/gaudesi-2014-universal/</guid>
       <description></description>
     </item>
     
@@ -435,6 +1053,62 @@
     </item>
     
     <item>
+      <title>A Memetic Approach to Bayesian Network Structure Learning</title>
+      <link>http://localhost:1313/publication/tonda-2013-amemetic/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/tonda-2013-amemetic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An efficient distance metric for linear genetic programming</title>
+      <link>http://localhost:1313/publication/gaudesi-2013-anefficient/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/gaudesi-2013-anefficient/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Evolutionary Approach to Wetlands Design</title>
+      <link>http://localhost:1313/publication/gaudesi-2013-anevolutionary/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/gaudesi-2013-anevolutionary/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Evolutionary Framework for Routing Protocol Analysis in Wireless Sensor Networks</title>
+      <link>http://localhost:1313/publication/bucur-2013-anevolutionary/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/bucur-2013-anevolutionary/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evolutionary optimization of wetlands design</title>
+      <link>http://localhost:1313/publication/gaudesi-2013-evolutionary/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/gaudesi-2013-evolutionary/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Food Model Exploration through Evolutionary Optimisation Coupled with Visualisation: Application to the Prediction of a Milk Gel Structure</title>
+      <link>http://localhost:1313/publication/lutton-2013-food/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/lutton-2013-food/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic Generation of On-Line Test Programs through a Cooperation Scheme</title>
+      <link>http://localhost:1313/publication/ciganda-2012-automatic/</link>
+      <pubDate>Sat, 01 Dec 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ciganda-2012-automatic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A benchmark for cooperative coevolution</title>
       <link>http://localhost:1313/publication/tonda-2012-abenchmark/</link>
       <pubDate>Thu, 01 Nov 2012 00:00:00 +0000</pubDate>
@@ -447,6 +1121,38 @@
       <link>http://localhost:1313/publication/grosso-2012-software/</link>
       <pubDate>Wed, 01 Feb 2012 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/grosso-2012-software/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian Network Structure Learning from Limited Datasets through Graph Evolution</title>
+      <link>http://localhost:1313/publication/tonda-2012-bayesian/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/tonda-2012-bayesian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Industrial Applications of Evolutionary Algorithms</title>
+      <link>http://localhost:1313/publication/sanchez-2012-industrial/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/sanchez-2012-industrial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Functional Test of Branch Prediction Units Based on the Branch History Table Architecture</title>
+      <link>http://localhost:1313/publication/sanchez-2012-onthefunctional/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/sanchez-2012-onthefunctional/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic Generation of Software-based Functional Failing Test for Speed Debug and On-silicon Timing Verification</title>
+      <link>http://localhost:1313/publication/sanchez-2011-automatic/</link>
+      <pubDate>Thu, 01 Dec 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/sanchez-2011-automatic/</guid>
       <description></description>
     </item>
     
@@ -467,10 +1173,90 @@
     </item>
     
     <item>
+      <title>Functional Test Generation for the pLRU Replacement Mechanism of Embedded Cache Memories</title>
+      <link>http://localhost:1313/publication/perez-2011-functional/</link>
+      <pubDate>Tue, 01 Mar 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/perez-2011-functional/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Artificial Olfaction: bio-inspired approaches for tackling sensor drift issue</title>
+      <link>http://localhost:1313/publication/di-carlo-2011-artificial/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/di-carlo-2011-artificial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Covariance Matrix Adaptation Evolutionary Strategy for Drift Correction of Electronic Nose Data</title>
+      <link>http://localhost:1313/publication/dicarlo-2011-covariance/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dicarlo-2011-covariance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lamps: A Test Problem for Cooperative Coevolution</title>
+      <link>http://localhost:1313/publication/tonda-2011-lamps/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/tonda-2011-lamps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A Framework for Automated Detection of Power-related Software Errors in Industrial Verification Processes</title>
       <link>http://localhost:1313/publication/gandini-2010-aframework/</link>
       <pubDate>Mon, 01 Nov 2010 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/gandini-2010-aframework/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evolving Individual Behavior in a Multi-agent Traffic Simulator</title>
+      <link>http://localhost:1313/publication/sanchez-2010-evolving/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/sanchez-2010-evolving/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploiting Evolution for an Adaptive Drift-Robust Classifier in Chemical Sensing</title>
+      <link>http://localhost:1313/publication/dicarlo-2010-exploiting/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dicarlo-2010-exploiting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards drift correction in chemical sensors using an evolutionary strategy</title>
+      <link>http://localhost:1313/publication/dicarlo-2010-towards/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dicarlo-2010-towards/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic detection of software defects</title>
+      <link>http://localhost:1313/publication/gandini-2009-automatic/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/gandini-2009-automatic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Generation of Functional Test Programs for the Cache Replacement Logic</title>
+      <link>http://localhost:1313/publication/perez-2009-onthegeneration/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/perez-2009-onthegeneration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A novel methodology for diversity preservation in evolutionary algorithms</title>
+      <link>http://localhost:1313/publication/squillero-2008-anovel/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/squillero-2008-anovel/</guid>
       <description></description>
     </item>
     

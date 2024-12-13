@@ -37,6 +37,14 @@
     </item>
     
     <item>
+      <title>Escherichia coli-based Physical Reservoir Computing : Potential and Applications</title>
+      <link>http://localhost:1313/publication/ahavi-2024-escherichia/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ahavi-2024-escherichia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Horizon Europe FutureFoodS</title>
       <link>http://localhost:1313/project/2024-futurefoods/</link>
       <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
@@ -60,10 +68,10 @@
 &lt;figure  id=&#34;figure-group-photo-of-the-futurefoods-kick-off-meeting-held-in-dijon-france&#34;&gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;screen reader text&#34; srcset=&#34;
-               /project/2024-futurefoods/meeting_hu5774448807855169619.webp 400w,
+               /project/2024-futurefoods/meeting_hu13515327536861437352.webp 400w,
                /project/2024-futurefoods/meeting_hu17762694594874668582.webp 760w,
                /project/2024-futurefoods/meeting_hu4242982062593093109.webp 1200w&#34;
-               src=&#34;http://localhost:1313/project/2024-futurefoods/meeting_hu5774448807855169619.webp&#34;
+               src=&#34;http://localhost:1313/project/2024-futurefoods/meeting_hu13515327536861437352.webp&#34;
                width=&#34;760&#34;
                height=&#34;336&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -92,6 +100,14 @@
     </item>
     
     <item>
+      <title>Applications of Nature-Inspired Computing and Optimization Techniques</title>
+      <link>http://localhost:1313/publication/biswas-2024-applications/</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/biswas-2024-applications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>PEPR B-BEST MuSiHC</title>
       <link>http://localhost:1313/project/2025-musihc/</link>
       <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
@@ -101,10 +117,74 @@
     </item>
     
     <item>
+      <title>A brief introduction to nature-inspired computing,  optimization,  and applications</title>
+      <link>http://localhost:1313/publication/biswas-2024-abrief/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/biswas-2024-abrief/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Byron: A Fuzzer for Turing-complete Test Programs</title>
+      <link>http://localhost:1313/publication/squillero-2024-byron/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/squillero-2024-byron/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Categorical Foundation of Explainable AI: A Unifying Theory</title>
+      <link>http://localhost:1313/publication/giannini-2024-categorical/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/giannini-2024-categorical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image Generation with Interactive Evolutionary System using Bayesian Optimization</title>
+      <link>http://localhost:1313/publication/ruedaarango-2024-image/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ruedaarango-2024-image/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine-Learning Analysis of mRNA: An Application to Inflammatory Bowel Disease</title>
+      <link>http://localhost:1313/publication/rojasvelazquez-2024-machinelearning/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/rojasvelazquez-2024-machinelearning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Methodology for biomarker discovery with reproducibility in microbiome data using machine learning</title>
       <link>http://localhost:1313/publication/rojasvelazquez-2024-methodology/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/rojasvelazquez-2024-methodology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-Objective Optimization for Large-scale Allocation of Soybean Crops</title>
+      <link>http://localhost:1313/publication/chen-2024-multiobjective/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/chen-2024-multiobjective/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards an Evolutionary Approach for Exploting Core Knowledge in Artificial Intelligence</title>
+      <link>http://localhost:1313/publication/calabrese-2024-towards/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/calabrese-2024-towards/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian Optimization for the Inverse Problem in Electrocardiography</title>
+      <link>http://localhost:1313/publication/lopezrincon-2023-bayesian/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/lopezrincon-2023-bayesian/</guid>
       <description></description>
     </item>
     
@@ -122,6 +202,573 @@
       <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/mouhrim-2023-optimization/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>🎉 Easily create your own simple yet highly customizable blog</title>
+      <link>http://localhost:1313/_examples/posts/get-started/</link>
+      <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/_examples/posts/get-started/</guid>
+      <description>&lt;p&gt;Welcome 👋&lt;/p&gt;
+
+
+
+&lt;details class=&#34;print:hidden xl:hidden&#34; open&gt;
+  &lt;summary&gt;Table of Contents&lt;/summary&gt;
+  &lt;div class=&#34;text-sm&#34;&gt;
+  &lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#overview&#34;&gt;Overview&lt;/a&gt;
+      &lt;ul&gt;
+        &lt;li&gt;&lt;a href=&#34;#get-started&#34;&gt;Get Started&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#crowd-funded-open-source-software&#34;&gt;Crowd-funded open-source software&lt;/a&gt;
+      &lt;ul&gt;
+        &lt;li&gt;&lt;a href=&#34;#-click-here-to-become-a-sponsor-and-help-support-hugo-bloxs-future-httpshugobloxcomsponsor&#34;&gt;&lt;a href=&#34;https://hugoblox.com/sponsor/&#34;&gt;❤️ Click here to become a sponsor and help support Hugo Blox&amp;rsquo;s future ❤️&lt;/a&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#ecosystem&#34;&gt;Ecosystem&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#inspiration&#34;&gt;Inspiration&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#features&#34;&gt;Features&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#themes&#34;&gt;Themes&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#license&#34;&gt;License&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;
+  &lt;/div&gt;
+&lt;/details&gt;
+
+&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;The Hugo Blox website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site&lt;/li&gt;
+&lt;li&gt;The template can be modified and customised to suit your needs. It&amp;rsquo;s a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a &lt;strong&gt;no-code solution (write in Markdown and customize with YAML parameters)&lt;/strong&gt; and having &lt;strong&gt;flexibility to later add even deeper personalization with HTML and CSS&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;get-started&#34;&gt;Get Started&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;👉 
+&lt;/li&gt;
+&lt;li&gt;📚 
+&lt;/li&gt;
+&lt;li&gt;💬 
+ or 
+&lt;/li&gt;
+&lt;li&gt;🐦 Twitter: 
+ 
+ #MadeWithHugoBlox&lt;/li&gt;
+&lt;li&gt;💡 
+&lt;/li&gt;
+&lt;li&gt;⬆️ &lt;strong&gt;Updating Hugo Blox?&lt;/strong&gt; View the 
+ and 
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;crowd-funded-open-source-software&#34;&gt;Crowd-funded open-source software&lt;/h2&gt;
+&lt;p&gt;To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.&lt;/p&gt;
+&lt;h3 id=&#34;-click-here-to-become-a-sponsor-and-help-support-hugo-bloxs-future-httpshugobloxcomsponsor&#34;&gt;
+&lt;/h3&gt;
+&lt;p&gt;As a token of appreciation for sponsoring, you can &lt;strong&gt;unlock 
+ awesome rewards and extra features 🦄✨&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;ecosystem&#34;&gt;Ecosystem&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;
+:&lt;/strong&gt; Automatically import publications from BibTeX&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;inspiration&#34;&gt;Inspiration&lt;/h2&gt;
+&lt;p&gt;
+ are building with this template.&lt;/p&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Page builder&lt;/strong&gt; - Create &lt;em&gt;anything&lt;/em&gt; with no-code 
+ and 
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Edit any type of content&lt;/strong&gt; - Blog posts, publications, talks, slides, projects, and more!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Create content&lt;/strong&gt; in 
+, 
+, or 
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Plugin System&lt;/strong&gt; - Fully customizable 
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Display Code and Math&lt;/strong&gt; - Code syntax highlighting and LaTeX math supported&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Integrations&lt;/strong&gt; - 
+, 
+, Maps, Contact Forms, and more!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Beautiful Site&lt;/strong&gt; - Simple and refreshing one-page design&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Industry-Leading SEO&lt;/strong&gt; - Help get your website found on search engines and social media&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Media Galleries&lt;/strong&gt; - Display your images and videos with captions in a customizable gallery&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Mobile Friendly&lt;/strong&gt; - Look amazing on every screen with a mobile friendly version of your site&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Multi-language&lt;/strong&gt; - 35+ language packs including English, 中文, and Português&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Multi-user&lt;/strong&gt; - Each author gets their own profile page&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Privacy Pack&lt;/strong&gt; - Assists with GDPR&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Stand Out&lt;/strong&gt; - Bring your site to life with animation, parallax backgrounds, and scroll effects&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;One-Click Deployment&lt;/strong&gt; - No servers. No databases. Only files.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+&lt;p&gt;Hugo Blox and its templates come with &lt;strong&gt;automatic day (light) and night (dark) mode&lt;/strong&gt; built-in. Visitors can choose their preferred mode by clicking the sun/moon icon in the header.&lt;/p&gt;
+&lt;p&gt;
+ for your site. Themes are fully customizable.&lt;/p&gt;
+&lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
+&lt;p&gt;Copyright 2016-present 
+.&lt;/p&gt;
+&lt;p&gt;Released under the 
+ license.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>PyTorch</title>
+      <link>http://localhost:1313/_examples/project/pytorch/</link>
+      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/_examples/project/pytorch/</guid>
+      <description>&lt;p&gt;PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>scikit-learn</title>
+      <link>http://localhost:1313/_examples/project/scikit/</link>
+      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/_examples/project/scikit/</guid>
+      <description>&lt;p&gt;scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>🧠 Sharpen your thinking with a second brain</title>
+      <link>http://localhost:1313/_examples/posts/second-brain/</link>
+      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/_examples/posts/second-brain/</guid>
+      <description>&lt;p&gt;Create a personal knowledge base and share your knowledge with your peers.&lt;/p&gt;
+&lt;p&gt;Hugo Blox web framework empowers you with one of the most flexible note-taking capabilities out there.&lt;/p&gt;
+&lt;p&gt;Create a powerful knowledge base that works on top of a local folder of plain text Markdown files.&lt;/p&gt;
+&lt;p&gt;Use it as your second brain, either publicly sharing your knowledge with your peers via your website, or via a private GitHub repository and password-protected site just for yourself.&lt;/p&gt;
+&lt;h2 id=&#34;mindmaps&#34;&gt;Mindmaps&lt;/h2&gt;
+&lt;p&gt;Hugo Blox supports a Markdown extension for mindmaps.&lt;/p&gt;
+&lt;p&gt;With this open format, can even edit your mindmaps in other popular tools such as Obsidian.&lt;/p&gt;
+&lt;p&gt;Simply insert a Markdown code block labelled as &lt;code&gt;markmap&lt;/code&gt; and optionally set the height of the mindmap as shown in the example below.&lt;/p&gt;
+&lt;p&gt;Mindmaps can be created by simply writing the items as a Markdown list within the &lt;code&gt;markmap&lt;/code&gt; code block, indenting each item to create as many sub-levels as you need:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;
+&lt;pre class=&#34;chroma&#34;&gt;
+&lt;code&gt;
+```markmap {height=&#34;200px&#34;}
+- Hugo Modules
+  - Hugo Blox
+  - blox-plugins-netlify
+  - blox-plugins-netlify-cms
+  - blox-plugins-reveal
+```
+&lt;/code&gt;
+&lt;/pre&gt;
+&lt;/div&gt;
+&lt;p&gt;renders as&lt;/p&gt;
+&lt;div class=&#34;markmap&#34; style=&#34;height: 200px;&#34;&gt;
+
+&lt;pre&gt;- Hugo Modules
+  - Hugo Blox
+  - blox-plugins-netlify
+  - blox-plugins-netlify-cms
+  - blox-plugins-reveal&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Anh here&amp;rsquo;s a more advanced mindmap with formatting, code blocks, and math:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;
+&lt;pre class=&#34;chroma&#34;&gt;
+&lt;code&gt;
+```markmap
+- Mindmaps
+  - Links
+    - [Hugo Blox Docs](https://docs.hugoblox.com/)
+    - [Discord Community](https://discord.gg/z8wNYzb)
+    - [GitHub](https://github.com/HugoBlox/hugo-blox-builder)
+  - Features
+    - Markdown formatting
+    - **inline** ~~text~~ *styles*
+    - multiline
+      text
+    - `inline code`
+    -
+      ```js
+      console.log(&#39;hello&#39;);
+      console.log(&#39;code block&#39;);
+      ```
+    - Math: $x = {-b \pm \sqrt{b^2-4ac} \over 2a}$
+```
+&lt;/code&gt;
+&lt;/pre&gt;
+&lt;/div&gt;
+&lt;p&gt;renders as&lt;/p&gt;
+&lt;div class=&#34;markmap&#34; style=&#34;height: 500px;&#34;&gt;
+
+&lt;pre&gt;- Mindmaps
+  - Links
+    - [Hugo Blox Docs](https://docs.hugoblox.com/)
+    - [Discord Community](https://discord.gg/z8wNYzb)
+    - [GitHub](https://github.com/HugoBlox/hugo-blox-builder)
+  - Features
+    - Markdown formatting
+    - **inline** ~~text~~ *styles*
+    - multiline
+      text
+    - `inline code`
+    -
+      ```js
+      console.log(&#39;hello&#39;);
+      console.log(&#39;code block&#39;);
+      ```
+    - Math: $x = {-b \pm \sqrt{b^2-4ac} \over 2a}$&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;highlighting&#34;&gt;Highlighting&lt;/h2&gt;
+&lt;p&gt;&lt;mark&gt;Highlight&lt;/mark&gt; important text with &lt;code&gt;mark&lt;/code&gt;:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-html&#34; data-lang=&#34;html&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;mark&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;Highlighted text&lt;span class=&#34;p&#34;&gt;&amp;lt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;mark&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;callouts&#34;&gt;Callouts&lt;/h2&gt;
+&lt;p&gt;Use 
+ (aka &lt;em&gt;asides&lt;/em&gt;, &lt;em&gt;hints&lt;/em&gt;, or &lt;em&gt;alerts&lt;/em&gt;) to draw attention to notes, tips, and warnings.&lt;/p&gt;
+&lt;p&gt;By wrapping a paragraph in &lt;code&gt;{{% callout note %}} ... {{% /callout %}}&lt;/code&gt;, it will render as an aside.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% callout note %}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;A Markdown aside is useful for displaying notices, hints, or definitions to your readers.
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% /callout %}}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;renders as&lt;/p&gt;
+&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
+&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
+  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;A Markdown aside is useful for displaying notices, hints, or definitions to your readers.&lt;/span&gt;
+&lt;/div&gt;
+&lt;p&gt;Or use the &lt;code&gt;warning&lt;/code&gt; callout type so your readers don&amp;rsquo;t miss critical details:&lt;/p&gt;
+&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-yellow-100 dark:bg-yellow-900&#34;&gt;
+&lt;span class=&#34;pr-3 pt-1 text-red-400&#34;&gt;
+  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M12 9v3.75m-9.303 3.376c-.866 1.5.217 3.374 1.948 3.374h14.71c1.73 0 2.813-1.874 1.948-3.374L13.949 3.378c-.866-1.5-3.032-1.5-3.898 0zM12 15.75h.007v.008H12z&#34;/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;A Markdown aside is useful for displaying notices, hints, or definitions to your readers.&lt;/span&gt;
+&lt;/div&gt;
+&lt;h2 id=&#34;did-you-find-this-page-helpful-consider-sharing-it-&#34;&gt;Did you find this page helpful? Consider sharing it 🙌&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>📈 Communicate your results effectively with the best data visualizations</title>
+      <link>http://localhost:1313/_examples/posts/data-visualization/</link>
+      <pubDate>Wed, 25 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/_examples/posts/data-visualization/</guid>
+      <description>&lt;p&gt;Hugo Blox is designed to give technical content creators a seamless experience. You can focus on the content and Hugo Blox handles the rest.&lt;/p&gt;
+&lt;p&gt;Use popular tools such as Plotly, Mermaid, and data frames.&lt;/p&gt;
+&lt;h2 id=&#34;charts&#34;&gt;Charts&lt;/h2&gt;
+&lt;p&gt;Hugo Blox supports the popular 
+ format for interactive data visualizations. With Plotly, you can design almost any kind of visualization you can imagine!&lt;/p&gt;
+&lt;p&gt;Save your Plotly JSON in your page folder, for example &lt;code&gt;line-chart.json&lt;/code&gt;, and then add the &lt;code&gt;{{&amp;lt; chart data=&amp;quot;line-chart&amp;quot; &amp;gt;}}&lt;/code&gt; shortcode where you would like the chart to appear.&lt;/p&gt;
+&lt;p&gt;Demo:&lt;/p&gt;
+
+
+
+
+&lt;div id=&#34;chart-359421768&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;script&gt;
+  async function fetchChartJSON() {
+    console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
+    const response = await fetch(&#39;.\/line-chart.json&#39;);
+    return await response.json();
+  }
+
+  (function() {
+    let a = setInterval( function() {
+      if ( typeof window.Plotly === &#39;undefined&#39; ) {
+        console.debug(&#39;Plotly not loaded yet...&#39;)
+        return;
+      }
+      clearInterval( a );
+
+      fetchChartJSON().then(chart =&gt; {
+        console.debug(&#39;Plotting chart...&#39;)
+        window.Plotly.newPlot(&#39;chart-359421768&#39;, chart.data, chart.layout, {responsive: true});
+      });
+    }, 500 );
+  })();
+&lt;/script&gt;
+
+&lt;p&gt;You might also find the 
+ useful.&lt;/p&gt;
+&lt;h2 id=&#34;diagrams&#34;&gt;Diagrams&lt;/h2&gt;
+&lt;p&gt;Hugo Blox supports the &lt;em&gt;Mermaid&lt;/em&gt; Markdown extension for diagrams.&lt;/p&gt;
+&lt;p&gt;An example &lt;strong&gt;flowchart&lt;/strong&gt;:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;```mermaid
+graph TD
+A[Hard] --&amp;gt;|Text| B(Round)
+B --&amp;gt; C{Decision}
+C --&amp;gt;|One| D[Result 1]
+C --&amp;gt;|Two| E[Result 2]
+```
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;renders as&lt;/p&gt;
+&lt;div class=&#34;mermaid&#34;&gt;graph TD
+A[Hard] --&gt;|Text| B(Round)
+B --&gt; C{Decision}
+C --&gt;|One| D[Result 1]
+C --&gt;|Two| E[Result 2]
+&lt;/div&gt;
+&lt;p&gt;An example &lt;strong&gt;sequence diagram&lt;/strong&gt;:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;```mermaid
+sequenceDiagram
+Alice-&amp;gt;&amp;gt;John: Hello John, how are you?
+loop Healthcheck
+    John-&amp;gt;&amp;gt;John: Fight against hypochondria
+end
+Note right of John: Rational thoughts!
+John--&amp;gt;&amp;gt;Alice: Great!
+John-&amp;gt;&amp;gt;Bob: How about you?
+Bob--&amp;gt;&amp;gt;John: Jolly good!
+```
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;renders as&lt;/p&gt;
+&lt;div class=&#34;mermaid&#34;&gt;sequenceDiagram
+Alice-&gt;&gt;John: Hello John, how are you?
+loop Healthcheck
+    John-&gt;&gt;John: Fight against hypochondria
+end
+Note right of John: Rational thoughts!
+John--&gt;&gt;Alice: Great!
+John-&gt;&gt;Bob: How about you?
+Bob--&gt;&gt;John: Jolly good!
+&lt;/div&gt;
+&lt;p&gt;An example &lt;strong&gt;class diagram&lt;/strong&gt;:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;```mermaid
+classDiagram
+Class01 &amp;lt;|-- AveryLongClass : Cool
+Class03 *-- Class04
+Class05 o-- Class06
+Class07 .. Class08
+Class09 --&amp;gt; C2 : Where am i?
+Class09 --* C3
+Class09 --|&amp;gt; Class07
+Class07 : equals()
+Class07 : Object[] elementData
+Class01 : size()
+Class01 : int chimp
+Class01 : int gorilla
+Class08 &amp;lt;--&amp;gt; C2: Cool label
+```
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;renders as&lt;/p&gt;
+&lt;div class=&#34;mermaid&#34;&gt;classDiagram
+Class01 &lt;|-- AveryLongClass : Cool
+Class03 *-- Class04
+Class05 o-- Class06
+Class07 .. Class08
+Class09 --&gt; C2 : Where am i?
+Class09 --* C3
+Class09 --|&gt; Class07
+Class07 : equals()
+Class07 : Object[] elementData
+Class01 : size()
+Class01 : int chimp
+Class01 : int gorilla
+Class08 &lt;--&gt; C2: Cool label
+&lt;/div&gt;
+&lt;p&gt;An example &lt;strong&gt;state diagram&lt;/strong&gt;:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;```mermaid
+stateDiagram
+[*] --&amp;gt; Still
+Still --&amp;gt; [*]
+Still --&amp;gt; Moving
+Moving --&amp;gt; Still
+Moving --&amp;gt; Crash
+Crash --&amp;gt; [*]
+```
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;renders as&lt;/p&gt;
+&lt;div class=&#34;mermaid&#34;&gt;stateDiagram
+[*] --&gt; Still
+Still --&gt; [*]
+Still --&gt; Moving
+Moving --&gt; Still
+Moving --&gt; Crash
+Crash --&gt; [*]
+&lt;/div&gt;
+&lt;h2 id=&#34;data-frames&#34;&gt;Data Frames&lt;/h2&gt;
+&lt;p&gt;Save your spreadsheet as a CSV file in your page&amp;rsquo;s folder and then render it by adding the &lt;em&gt;Table&lt;/em&gt; shortcode to your page:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-go&#34; data-lang=&#34;go&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;{{&amp;lt;&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;table&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;path&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;results.csv&amp;#34;&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;header&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;true&amp;#34;&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;caption&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;Table 1: My results&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;}}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;renders as&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;table class=&#34;table-auto w-full&#34;&gt;
+  
+    
+    
+    &lt;thead&gt;
+      &lt;tr&gt;  &lt;th class=&#34;border-b dark:border-slate-600 font-medium p-4 pt-0 pb-3 text-slate-400 dark:text-slate-200 text-left&#34;&gt;customer_id&lt;/th&gt;  &lt;th class=&#34;border-b dark:border-slate-600 font-medium p-4 pt-0 pb-3 text-slate-400 dark:text-slate-200 text-left&#34;&gt;score&lt;/th&gt;  &lt;/tr&gt;
+    &lt;/thead&gt;
+  
+  &lt;tbody&gt;
+  
+    &lt;tr&gt;
+      
+        
+          &lt;td data-table-dtype=&#34;number&#34; class=&#34;border-b border-slate-100 dark:border-slate-700 p-4 text-slate-500 dark:text-slate-400&#34;&gt;1&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;number&#34; class=&#34;border-b border-slate-100 dark:border-slate-700 p-4 text-slate-500 dark:text-slate-400&#34;&gt;0&lt;/td&gt;
+        
+      
+    &lt;/tr&gt;
+  
+    &lt;tr&gt;
+      
+        
+          &lt;td data-table-dtype=&#34;number&#34; class=&#34;border-b border-slate-100 dark:border-slate-700 p-4 text-slate-500 dark:text-slate-400&#34;&gt;2&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34; class=&#34;border-b border-slate-100 dark:border-slate-700 p-4 text-slate-500 dark:text-slate-400&#34;&gt;0.5&lt;/td&gt;
+        
+      
+    &lt;/tr&gt;
+  
+    &lt;tr&gt;
+      
+        
+          &lt;td data-table-dtype=&#34;number&#34; class=&#34;border-b border-slate-100 dark:border-slate-700 p-4 text-slate-500 dark:text-slate-400&#34;&gt;3&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;number&#34; class=&#34;border-b border-slate-100 dark:border-slate-700 p-4 text-slate-500 dark:text-slate-400&#34;&gt;1&lt;/td&gt;
+        
+      
+    &lt;/tr&gt;
+  
+  &lt;/tbody&gt;
+  
+    &lt;caption class=&#34;table-caption&#34;&gt;Table 1: My results&lt;/caption&gt;
+  
+&lt;/table&gt;
+
+&lt;h2 id=&#34;did-you-find-this-page-helpful-consider-sharing-it-&#34;&gt;Did you find this page helpful? Consider sharing it 🙌&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>👩🏼‍🏫 Teach academic courses</title>
+      <link>http://localhost:1313/_examples/posts/teach-courses/</link>
+      <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/_examples/posts/teach-courses/</guid>
+      <description>&lt;p&gt;
+ is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Embed videos, podcasts, code, LaTeX math, and even test students!&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Hugo Blox.&lt;/p&gt;
+&lt;h2 id=&#34;video&#34;&gt;Video&lt;/h2&gt;
+&lt;p&gt;Teach your course by sharing videos with your students. Choose from one of the following approaches:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Youtube&lt;/strong&gt;:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;{{&amp;lt; youtube D2vj0WcvH5c &amp;gt;}}
+&lt;/code&gt;&lt;/pre&gt;
+
+
+    
+    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/D2vj0WcvH5c?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
+      &gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;Bilibili&lt;/strong&gt;:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;{{&amp;lt; bilibili BV1WV4y1r7DF &amp;gt;}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;div class=&#34;w-full h-auto aspect-video relative&#34;&gt;
+  &lt;iframe src=&#34;//player.bilibili.com/player.html?bvid=BV1WV4y1r7DF&amp;page=1&#34;
+  allow=&#34;accelerometer; clipboard-write; encrypted-media; gyroscope; fullscreen; picture-in-picture;&#34;
+  class=&#34;w-full h-full&#34;
+  &gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;Video file&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Videos may be added to a page by either placing them in your &lt;code&gt;assets/media/&lt;/code&gt; media library or in your 
+, and then embedding them with the &lt;em&gt;video&lt;/em&gt; shortcode:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;{{&amp;lt; video src=&amp;quot;my_video.mp4&amp;quot; controls=&amp;quot;yes&amp;quot; &amp;gt;}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;podcast&#34;&gt;Podcast&lt;/h2&gt;
+&lt;p&gt;You can add a podcast or music to a page by placing the MP3 file in the page&amp;rsquo;s folder or the media library folder and then embedding the audio on your page with the &lt;em&gt;audio&lt;/em&gt; shortcode:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;{{&amp;lt; audio src=&amp;quot;ambient-piano.mp3&amp;quot; &amp;gt;}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Try it out:&lt;/p&gt;
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+&lt;audio controls &gt;
+  &lt;source src=&#34;http://localhost:1313/_examples/posts/teach-courses/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+&lt;/audio&gt;
+
+&lt;h2 id=&#34;test-students&#34;&gt;Test students&lt;/h2&gt;
+&lt;p&gt;Provide a simple yet fun self-assessment by revealing the solutions to challenges with the &lt;code&gt;spoiler&lt;/code&gt; shortcode:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;spoiler&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;text&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;👉 Click to view the solution&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;You found me!
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;spoiler&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;renders as&lt;/p&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-3&#34;&gt;
+  &lt;summary class=&#34;cursor-pointer&#34;&gt;👉 Click to view the solution&lt;/summary&gt;
+  &lt;div class=&#34;rounded-lg bg-neutral-50 dark:bg-neutral-800 p-2&#34;&gt;
+    You found me 🎉
+  &lt;/div&gt;
+&lt;/details&gt;
+&lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
+&lt;p&gt;Hugo Blox Builder supports a Markdown extension for $\LaTeX$ math. Enable math by setting the &lt;code&gt;math: true&lt;/code&gt; option in your page&amp;rsquo;s front matter, or enable math for your entire site by toggling math in your &lt;code&gt;config/_default/params.yaml&lt;/code&gt; file:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-yaml&#34; data-lang=&#34;yaml&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nt&#34;&gt;features&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;math&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;enable&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;kc&#34;&gt;true&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;To render &lt;em&gt;inline&lt;/em&gt; or &lt;em&gt;block&lt;/em&gt; math, wrap your LaTeX math with &lt;code&gt;$...$&lt;/code&gt; or &lt;code&gt;$$...$$&lt;/code&gt;, respectively.&lt;/p&gt;
+&lt;p&gt;Example &lt;strong&gt;math block&lt;/strong&gt;:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-latex&#34; data-lang=&#34;latex&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;sb&#34;&gt;$$&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\gamma&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;_{n} &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\frac&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{ &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\left&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; | &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\left&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\mathbf&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; x_{n} &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\mathbf&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; x_{n&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;} &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\right&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;^T &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\left&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;[&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\nabla&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; F &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\mathbf&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; x_{n}&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\nabla&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; F &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\mathbf&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; x_{n&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\right&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;]&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\right&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; |}{&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\left&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\|\nabla&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; F&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\mathbf&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{x}_{n}&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\nabla&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; F&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\mathbf&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{x}_{n&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\right&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\|&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;^&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;2&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;$$&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;renders as&lt;/p&gt;
+$$\gamma_{n} = \frac{ \left | \left (\mathbf x_{n} - \mathbf x_{n-1} \right )^T \left [\nabla F (\mathbf x_{n}) - \nabla F (\mathbf x_{n-1}) \right ] \right |}{\left \|\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right \|^2}$$&lt;p&gt;Example &lt;strong&gt;inline math&lt;/strong&gt; &lt;code&gt;$\nabla F(\mathbf{x}_{n})$&lt;/code&gt; renders as $\nabla F(\mathbf{x}_{n})$.&lt;/p&gt;
+&lt;p&gt;Example &lt;strong&gt;multi-line math&lt;/strong&gt; using the math linebreak (&lt;code&gt;\\&lt;/code&gt;):&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-latex&#34; data-lang=&#34;latex&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;sb&#34;&gt;$$&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;f&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;k;p_{&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}^{&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;*&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\begin&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{cases}p_{&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}^{&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;*&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;} &amp;amp; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\text&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{if }k&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;, &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\\&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;p_{&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}^{&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;*&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;} &amp;amp; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\text&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{if }k&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\end&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{cases}&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;$$&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;renders as&lt;/p&gt;
+$$
+f(k;p_{0}^{*}) = \begin{cases}p_{0}^{*} &amp; \text{if }k=1, \\
+1-p_{0}^{*} &amp; \text{if }k=0.\end{cases}
+$$&lt;h2 id=&#34;code&#34;&gt;Code&lt;/h2&gt;
+&lt;p&gt;Hugo Blox Builder utilises Hugo&amp;rsquo;s Markdown extension for highlighting code syntax. The code theme can be selected in the &lt;code&gt;config/_default/params.yaml&lt;/code&gt; file.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;```python
+import pandas as pd
+data = pd.read_csv(&amp;quot;data.csv&amp;quot;)
+data.head()
+```
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;renders as&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;pandas&lt;/span&gt; &lt;span class=&#34;k&#34;&gt;as&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;pd&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;data&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;pd&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;read_csv&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;data.csv&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;data&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;head&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;()&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;inline-images&#34;&gt;Inline Images&lt;/h2&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-go&#34; data-lang=&#34;go&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;{{&amp;lt;&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;icon&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;name&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;python&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;}}&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;Python&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;renders as&lt;/p&gt;
+&lt;p&gt;
+  &lt;span class=&#34;inline-block  pr-1&#34;&gt;
+    &lt;svg style=&#34;height: 1em; transform: translateY(0.1em);&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; height=&#34;1em&#34; viewBox=&#34;0 0 448 512&#34; fill=&#34;currentColor&#34;&gt;&lt;path d=&#34;M439.8 200.5c-7.7-30.9-22.3-54.2-53.4-54.2h-40.1v47.4c0 36.8-31.2 67.8-66.8 67.8H172.7c-29.2 0-53.4 25-53.4 54.3v101.8c0 29 25.2 46 53.4 54.3 33.8 9.9 66.3 11.7 106.8 0 26.9-7.8 53.4-23.5 53.4-54.3v-40.7H226.2v-13.6h160.2c31.1 0 42.6-21.7 53.4-54.2 11.2-33.5 10.7-65.7 0-108.6zM286.2 404c11.1 0 20.1 9.1 20.1 20.3 0 11.3-9 20.4-20.1 20.4-11 0-20.1-9.2-20.1-20.4.1-11.3 9.1-20.3 20.1-20.3zM167.8 248.1h106.8c29.7 0 53.4-24.5 53.4-54.3V91.9c0-29-24.4-50.7-53.4-55.6-35.8-5.9-74.7-5.6-106.8.1-45.2 8-53.4 24.7-53.4 55.6v40.7h106.9v13.6h-147c-31.1 0-58.3 18.7-66.8 54.2-9.8 40.7-10.2 66.1 0 108.6 7.6 31.6 25.7 54.2 56.8 54.2H101v-48.8c0-35.3 30.5-66.4 66.8-66.4zm-6.7-142.6c-11.1 0-20.1-9.1-20.1-20.3.1-11.3 9-20.4 20.1-20.4 11 0 20.1 9.2 20.1 20.4s-9 20.3-20.1 20.3z&#34;/&gt;&lt;/svg&gt;
+  &lt;/span&gt; Python&lt;/p&gt;
+&lt;h2 id=&#34;did-you-find-this-page-helpful-consider-sharing-it-&#34;&gt;Did you find this page helpful? Consider sharing it 🙌&lt;/h2&gt;
+</description>
     </item>
     
     <item>
@@ -389,6 +1036,81 @@ data.head()
     </item>
     
     <item>
+      <title>✅ Manage your projects</title>
+      <link>http://localhost:1313/_examples/posts/project-management/</link>
+      <pubDate>Mon, 23 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/_examples/posts/project-management/</guid>
+      <description>&lt;p&gt;Easily manage your projects - create ideation mind maps, Gantt charts, todo lists, and more!&lt;/p&gt;
+&lt;h2 id=&#34;ideation&#34;&gt;Ideation&lt;/h2&gt;
+&lt;p&gt;Hugo Blox supports a Markdown extension for mindmaps.&lt;/p&gt;
+&lt;p&gt;Simply insert a Markdown code block labelled as &lt;code&gt;markmap&lt;/code&gt; and optionally set the height of the mindmap as shown in the example below.&lt;/p&gt;
+&lt;p&gt;Mindmaps can be created by simply writing the items as a Markdown list within the &lt;code&gt;markmap&lt;/code&gt; code block, indenting each item to create as many sub-levels as you need:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;
+&lt;pre class=&#34;chroma&#34;&gt;
+&lt;code&gt;
+```markmap {height=&#34;200px&#34;}
+- Hugo Modules
+  - Hugo Blox
+  - blox-plugins-netlify
+  - blox-plugins-netlify-cms
+  - blox-plugins-reveal
+```
+&lt;/code&gt;
+&lt;/pre&gt;
+&lt;/div&gt;
+&lt;p&gt;renders as&lt;/p&gt;
+&lt;div class=&#34;markmap&#34; style=&#34;height: 200px;&#34;&gt;
+
+&lt;pre&gt;- Hugo Modules
+  - Hugo Blox
+  - blox-plugins-netlify
+  - blox-plugins-netlify-cms
+  - blox-plugins-reveal&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;diagrams&#34;&gt;Diagrams&lt;/h2&gt;
+&lt;p&gt;Hugo Blox supports the &lt;em&gt;Mermaid&lt;/em&gt; Markdown extension for diagrams.&lt;/p&gt;
+&lt;p&gt;An example &lt;strong&gt;Gantt diagram&lt;/strong&gt;:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;```mermaid
+gantt
+section Section
+Completed :done,    des1, 2014-01-06,2014-01-08
+Active        :active,  des2, 2014-01-07, 3d
+Parallel 1   :         des3, after des1, 1d
+Parallel 2   :         des4, after des1, 1d
+Parallel 3   :         des5, after des3, 1d
+Parallel 4   :         des6, after des4, 1d
+```
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;renders as&lt;/p&gt;
+&lt;div class=&#34;mermaid&#34;&gt;gantt
+section Section
+Completed :done,    des1, 2014-01-06,2014-01-08
+Active        :active,  des2, 2014-01-07, 3d
+Parallel 1   :         des3, after des1, 1d
+Parallel 2   :         des4, after des1, 1d
+Parallel 3   :         des5, after des3, 1d
+Parallel 4   :         des6, after des4, 1d
+&lt;/div&gt;
+&lt;h2 id=&#34;todo-lists&#34;&gt;Todo lists&lt;/h2&gt;
+&lt;p&gt;You can even write your todo lists in Markdown too:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;- [x]&lt;/span&gt; Write math example
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;k&#34;&gt;- [x]&lt;/span&gt; Write diagram example
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;- [ ]&lt;/span&gt; Do something else
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;renders as&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Write math example
+&lt;ul&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Write diagram example&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Do something else&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;did-you-find-this-page-helpful-consider-sharing-it-&#34;&gt;Did you find this page helpful? Consider sharing it 🙌&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
       <title>An Innovative AI-based primer design tool for precise and accurate detection of SARS-CoV-2 variants of concern</title>
       <link>http://localhost:1313/publication/perezromero-2023-aninnovative/</link>
       <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
@@ -409,6 +1131,22 @@ data.head()
       <link>http://localhost:1313/publication/smetana-2023-environmental/</link>
       <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/smetana-2023-environmental/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interpretable Neural-Symbolic Concept Reasoning</title>
+      <link>http://localhost:1313/publication/barbiero-2023-interpretable-ne-sy/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/barbiero-2023-interpretable-ne-sy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interpretable Neural-Symbolic Concept Reasoning</title>
+      <link>http://localhost:1313/publication/barbiero-2023-interpretable/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/barbiero-2023-interpretable/</guid>
       <description></description>
     </item>
     
@@ -488,6 +1226,30 @@ data.head()
     </item>
     
     <item>
+      <title>Direct Comparative Analysis of Nature-Inspired Optimization Algorithms on Community Detection Problem in Social Networks</title>
+      <link>http://localhost:1313/publication/das-2023-direct/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/das-2023-direct/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MAP-Elites with~Cosine-Similarity for~Evolutionary Ensemble Learning</title>
+      <link>http://localhost:1313/publication/zhang-2023-mapelites/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/zhang-2023-mapelites/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-objective Evolutionary Discretization of Gene Expression Profiles: Application to COVID-19 Severity Prediction</title>
+      <link>http://localhost:1313/publication/10-1007-978-3-031-30229-9-45/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/10-1007-978-3-031-30229-9-45/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Optimization algorithms for artificial intelligence</title>
       <link>http://localhost:1313/teaching/optimization-algorithms-for-artificial-intelligence/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
@@ -517,10 +1279,26 @@ data.head()
     </item>
     
     <item>
+      <title>Towards Evolutionary Control Laws for Viability Problems</title>
+      <link>http://localhost:1313/publication/tonda-2023-towards/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/tonda-2023-towards/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A Decision-Support System to Predict Grape Berry Quality and Wine Potential for a Chenin Vineyard</title>
       <link>http://localhost:1313/publication/mejeanperrot-2022-decision/</link>
       <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/mejeanperrot-2022-decision/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Agent-based Modelling of Enzymatic Digestion Using Experimental Data</title>
+      <link>http://localhost:1313/publication/lutton-2022-agent/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/lutton-2022-agent/</guid>
       <description></description>
     </item>
     
@@ -566,10 +1344,66 @@ data.head()
     </item>
     
     <item>
+      <title>An Intercontinental Machine Learning Analysis of Factors Explaining Consumer Awareness About Food Risk</title>
+      <link>http://localhost:1313/publication/tonda-2022-intercontinental/</link>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/tonda-2022-intercontinental/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Evolutionary Approach to the Discretization of Gene Expression Profiles to Predict the Severity of COVID-19</title>
+      <link>http://localhost:1313/publication/mouhrim-2022-evolutionary/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/mouhrim-2022-evolutionary/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predictable Features Elimination: An Unsupervised Approach to Feature Selection</title>
+      <link>http://localhost:1313/publication/barbiero-2022-predictable/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/barbiero-2022-predictable/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Multi-Objective Optimization of Sustainable Insect Production Chains</title>
+      <link>http://localhost:1313/publication/mouhrim-2022-towards/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/mouhrim-2022-towards/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>An Evolutionary Framework for Maximizing Influence Propagation in Social Networks</title>
       <link>http://localhost:1313/publication/iacca-2021-evolutionary/</link>
       <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/iacca-2021-evolutionary/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design of specific primer sets for SARS-CoV-2 variants using evolutionary algorithms</title>
+      <link>http://localhost:1313/publication/lopezrincon-2021-design/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/lopezrincon-2021-design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploiting Artificial Swarms for the Virtual Measurement of Backlash in Industrial Robots</title>
+      <link>http://localhost:1313/publication/giovannitti-2021-exploiting/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/giovannitti-2021-exploiting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Assessing Trends on Consumption of Animal Products Through a Machine Learning Analysis of Consumer Motivations</title>
+      <link>http://localhost:1313/publication/thomopoulos-2021-assessing/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/thomopoulos-2021-assessing/</guid>
       <description></description>
     </item>
     
@@ -582,10 +1416,50 @@ data.head()
     </item>
     
     <item>
+      <title>Modelling Asthma Patients&#39; Responsiveness to Treatment Using Feature Selection and Evolutionary Computation</title>
+      <link>http://localhost:1313/publication/lopezrincon-2021-modelling/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/lopezrincon-2021-modelling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Modelling Processes and Products in the Cereal Chain</title>
       <link>http://localhost:1313/publication/carvalho-2021-modelling/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/carvalho-2021-modelling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-objective Optimization for Sustainable Insect Chains</title>
+      <link>http://localhost:1313/publication/tonda-2021-multiobjective/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/tonda-2021-multiobjective/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Batch correction of genomic data in chronic fatigue syndrome using CMA-ES</title>
+      <link>http://localhost:1313/publication/lopezrincon-2020-batch/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/lopezrincon-2020-batch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Discovering Hierarchical Neural Archetype Sets</title>
+      <link>http://localhost:1313/publication/ciravegna-2020-discovering/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ciravegna-2020-discovering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evolutionary algorithms and machine learning</title>
+      <link>http://localhost:1313/publication/squillero-2020-evolutionary/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/squillero-2020-evolutionary/</guid>
       <description></description>
     </item>
     
@@ -614,10 +1488,74 @@ data.head()
     </item>
     
     <item>
+      <title>A Novel Outlook on Feature Selection as a Multi-objective Problem</title>
+      <link>http://localhost:1313/publication/barbiero-2020-anovel/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/barbiero-2020-anovel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Consumers&#39; Motivations towards Environment-Friendly Dietary Changes: An Assessment of Trends Related to the Consumption of Animal Products</title>
+      <link>http://localhost:1313/publication/thomopoulos-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/thomopoulos-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Mining of Deck Archetypes in Hearthstone</title>
+      <link>http://localhost:1313/publication/garcia-sanchez-2020-data/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/garcia-sanchez-2020-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Environmental Modelling in the Food Supply Chain - Future Perspectives</title>
+      <link>http://localhost:1313/publication/djekic-2020-environmental/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/djekic-2020-environmental/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generating Neural Archetypes to Instruct Fast and Interpretable Decisions</title>
+      <link>http://localhost:1313/publication/barbiero-2020-generating/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/barbiero-2020-generating/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Making Sense of Economics Datasets with Evolutionary Coresets</title>
+      <link>http://localhost:1313/publication/barbiero-2020-making/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/barbiero-2020-making/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modelling Approaches for Sustainable Insect Production Chains</title>
+      <link>http://localhost:1313/publication/smetana-2020-modelling/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/smetana-2020-modelling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Optimizing HearthStone Agents Using an Evolutionary Algorithm</title>
       <link>http://localhost:1313/publication/garciasanchez-2020-optimizing/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/garciasanchez-2020-optimizing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Virtual Measurement of the Backlash Gap in Industrial Manipulators</title>
+      <link>http://localhost:1313/publication/giovannitti-2020-virtual/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/giovannitti-2020-virtual/</guid>
       <description></description>
     </item>
     
@@ -654,6 +1592,14 @@ data.head()
     </item>
     
     <item>
+      <title>Understanding Cancer Phenomenon at Gene Expression Level by using a Shallow Neural Network Chain</title>
+      <link>http://localhost:1313/publication/barbiero-2019-understanding/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/barbiero-2019-understanding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Annotation Data About Multi Criteria Assessment Methods Used in the Agri-food Research: The French National Institute for Agricultural Research (INRA) Experience</title>
       <link>http://localhost:1313/publication/gesanguiziou-2019-annotation/</link>
       <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
@@ -666,6 +1612,22 @@ data.head()
       <link>http://localhost:1313/publication/djekic-2019-scientific/</link>
       <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/djekic-2019-scientific/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Beyond coreset discovery</title>
+      <link>http://localhost:1313/publication/barbiero-2019-beyond/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/barbiero-2019-beyond/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evolutionary discovery of coresets for classification</title>
+      <link>http://localhost:1313/publication/barbiero-2019-evolutionary/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/barbiero-2019-evolutionary/</guid>
       <description></description>
     </item>
     
@@ -688,10 +1650,50 @@ data.head()
     </item>
     
     <item>
+      <title>A Chenin Decision Help System to Predict Grape Berries Maturity and Anticipate Wine Potentialities</title>
+      <link>http://localhost:1313/publication/brunetti-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/brunetti-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Formaliser la Durabilité des Paysages Agricoles Comme un Problème Multi-objectif</title>
+      <link>http://localhost:1313/publication/accatino-hal-02482110/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/accatino-hal-02482110/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fundamental Flowers: Evolutionary Discovery of Coresets for Classification</title>
+      <link>http://localhost:1313/publication/barbiero-2019-fundamental/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/barbiero-2019-fundamental/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Multi-Criteria Reverse Engineering for Food: Genesis and Ongoing Advances</title>
       <link>http://localhost:1313/publication/thomopoulos-2019-multicriteria/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/thomopoulos-2019-multicriteria/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimización de agentes para HearthStone utilizando Algoritmos Evolutivos</title>
+      <link>http://localhost:1313/publication/garcia-sanchez-2019-optimizacion/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/garcia-sanchez-2019-optimizacion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Adaptability of an Extensive Cattle Beef Farming System to Contrasted Societal Preferences - Coupling Multi-Objective Analysis and a Participatory Approach</title>
+      <link>http://localhost:1313/publication/accatino-2019-adaptability/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/accatino-2019-adaptability/</guid>
       <description></description>
     </item>
     
@@ -720,6 +1722,14 @@ data.head()
     </item>
     
     <item>
+      <title>Evaluating surrogate models for multi-objective influence maximization in social networks</title>
+      <link>http://localhost:1313/publication/bucur-2018-evaluating/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/bucur-2018-evaluating/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Evolutionary optimization of convolutional neural networks for cancer miRNA biomarkers classification</title>
       <link>http://localhost:1313/publication/lopezrincon-2018-evolutionary/</link>
       <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
@@ -744,10 +1754,74 @@ data.head()
     </item>
     
     <item>
+      <title>A Long-Short-Term Memory Network Model for Biscuit Baking</title>
+      <link>http://localhost:1313/publication/tonda-2018-alongshorttermmemory/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/tonda-2018-alongshorttermmemory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Semi-automatic Modeling Approach for the Production and Freeze-drying of Lactic Acid Bacteria</title>
+      <link>http://localhost:1313/publication/chabin-2018-asemiautomatic/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/chabin-2018-asemiautomatic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Building a Multidisciplinary Community on Mathematics and Computer Science for the Food Industry: The Case of FoodMC</title>
+      <link>http://localhost:1313/publication/tonda-2018-building/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/tonda-2018-building/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Countering Android Malware: A Scalable Semi-Supervised Approach for Family-Signature Generation</title>
       <link>http://localhost:1313/publication/atzeni-2018-countering/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/atzeni-2018-countering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Human in the Loop for Modelling Food and Biological Systems: a Novel Perspective coupling Artificial Intelligence and Life Science</title>
+      <link>http://localhost:1313/publication/mejean-2018-human/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/mejean-2018-human/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving Multi-objective Evolutionary Influence Maximization in Social Networks</title>
+      <link>http://localhost:1313/publication/bucur-2018-improving/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/bucur-2018-improving/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interactive Machine Learning for Applications in Food Science</title>
+      <link>http://localhost:1313/publication/tonda-2018-interactive/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/tonda-2018-interactive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LIDeOGraM: An Interactive Evolutionary Modelling Tool</title>
+      <link>http://localhost:1313/publication/chabin-2018-lideogram/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/chabin-2018-lideogram/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interactive evolutionary modelling of living complex food systems</title>
+      <link>http://localhost:1313/publication/chabin-2017-interactive/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/chabin-2017-interactive/</guid>
       <description></description>
     </item>
     
@@ -768,10 +1842,42 @@ data.head()
     </item>
     
     <item>
+      <title>FoodMC: a COST Action to Promote Modeling in Food Science and Industry</title>
+      <link>http://localhost:1313/publication/tonda-2017-foodmc/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/tonda-2017-foodmc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>In silico modeling of protein hydrolysis by endoproteases: a case study on pepsin digestion of bovine lactoferrin</title>
       <link>http://localhost:1313/publication/tonda-2017-insilico/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/tonda-2017-insilico/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>In-silico Predictions of Pepsin-released Peptides</title>
+      <link>http://localhost:1313/publication/grosvenor-2017-pepsin/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/grosvenor-2017-pepsin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-objective Evolutionary Algorithms for Influence Maximization in Social Networks</title>
+      <link>http://localhost:1313/publication/bucur-2017-multiobjective/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/bucur-2017-multiobjective/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evolutionary Algorithms for Food Science and Technology</title>
+      <link>http://localhost:1313/publication/lutton-2016-evolutionary/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/lutton-2016-evolutionary/</guid>
       <description></description>
     </item>
     
@@ -784,10 +1890,26 @@ data.head()
     </item>
     
     <item>
+      <title>Evolutionary deckbuilding in HearthStone</title>
+      <link>http://localhost:1313/publication/garciasanchez-2016-evolutionary/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/garciasanchez-2016-evolutionary/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Exploiting Evolutionary Modeling to Prevail in Iterated Prisoner&#39;s Dilemma Tournaments</title>
       <link>http://localhost:1313/publication/gaudesi-2016-exploiting/</link>
       <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/gaudesi-2016-exploiting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FoodMC: A European COST Action on Food Modelling</title>
+      <link>http://localhost:1313/publication/tonda-2016-foodmc/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/tonda-2016-foodmc/</guid>
       <description></description>
     </item>
     
@@ -816,25 +1938,115 @@ data.head()
     </item>
     
     <item>
-      <title>An example journal article</title>
-      <link>http://localhost:1313/publication/journal-article/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/journal-article/</guid>
-      <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
-&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
-  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
-&lt;/span&gt;
-  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.&lt;/span&gt;
-&lt;/div&gt;
-&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
-&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
-  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
-&lt;/span&gt;
-  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.&lt;/span&gt;
-&lt;/div&gt;
-&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including 
-.&lt;/p&gt;
-</description>
+      <title>A General-Purpose Framework for Genetic Improvement</title>
+      <link>http://localhost:1313/publication/marino-2016-ageneralpurpose/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/marino-2016-ageneralpurpose/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Challenging Anti-virus Through Evolutionary Malware Obfuscation</title>
+      <link>http://localhost:1313/publication/gaudesi-2016-challenging/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/gaudesi-2016-challenging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How to Mislead an Evolutionary Algorithm Using Global Sensitivity Analysis</title>
+      <link>http://localhost:1313/publication/chabin-2016-how/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/chabin-2016-how/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Portfolio Optimization,  a Decision-Support Methodology for Small Budgets</title>
+      <link>http://localhost:1313/publication/deplano-2016-portfolio/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/deplano-2016-portfolio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Research Prospects in the Design and Evaluation of Interactive Evolutionary Systems for Art and Science</title>
+      <link>http://localhost:1313/publication/boukhelifa-2016-research/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/boukhelifa-2016-research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Uncertainty Quandary: A Study in the Context of the Evolutionary Optimization in Games and Other Uncertain Environments</title>
+      <link>http://localhost:1313/publication/merelo-2016-theuncertainty/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/merelo-2016-theuncertainty/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tutorials at PPSN 2016</title>
+      <link>http://localhost:1313/publication/doerr-2016-tutorials/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/doerr-2016-tutorials/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards automatic StarCraft strategy generation using genetic programming</title>
+      <link>http://localhost:1313/publication/garciasanchez-2015-towards/</link>
+      <pubDate>Sat, 01 Aug 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/garciasanchez-2015-towards/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Black Holes and Revelations: Using Evolutionary Algorithms to Uncover Vulnerabilities in Disruption-Tolerant Networks</title>
+      <link>http://localhost:1313/publication/bucur-2015-black/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/bucur-2015-black/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>In Vitro and In Silico Modelling of Protein Hydrolysis by Pepsin: A Case Study with Lactoferrin</title>
+      <link>http://localhost:1313/publication/grosvenor-2015-invitro/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/grosvenor-2015-invitro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Is Global Sensitivity Analysis Useful to Evolutionary Computation?</title>
+      <link>http://localhost:1313/publication/chabin-2015-isglobal/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/chabin-2015-isglobal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Malware Obfuscation through Evolutionary Packers</title>
+      <link>http://localhost:1313/publication/gaudesi-2015-malware/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/gaudesi-2015-malware/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling Competition Phenomena in a Dairy Oil-in-water Emulsion Using Hybrid Kinetic Monte Carlo Simulations</title>
+      <link>http://localhost:1313/publication/descamps-2015-modeling/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/descamps-2015-modeling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Operator Selection using Improved Dynamic Multi-Armed Bandit</title>
+      <link>http://localhost:1313/publication/belluz-2015-operator/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/belluz-2015-operator/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -846,10 +2058,58 @@ data.head()
     </item>
     
     <item>
+      <title>TURAN: Evolving non-deterministic players for the iterated prisoner′s dilemma</title>
+      <link>http://localhost:1313/publication/gaudesi-2014-turan/</link>
+      <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/gaudesi-2014-turan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>The impact of topology on energy consumption for collection tree protocols: An experimental assessment through evolutionary computation</title>
       <link>http://localhost:1313/publication/bucur-2014-theimpact/</link>
       <pubDate>Sat, 01 Mar 2014 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/bucur-2014-theimpact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Balancing User Interaction and Control in BNSL</title>
+      <link>http://localhost:1313/publication/tonda-2014-balancing/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/tonda-2014-balancing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Dynamical Systems Using Standard Symbolic Regression</title>
+      <link>http://localhost:1313/publication/gaucel-2014-learning/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/gaucel-2014-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The tradeoffs between data delivery ratio and energy costs in wireless sensor networks</title>
+      <link>http://localhost:1313/publication/bucur-2014-thetradeoffs/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/bucur-2014-thetradeoffs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards automated malware creation</title>
+      <link>http://localhost:1313/publication/cani-2014-towards/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/cani-2014-towards/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Universal information distance for genetic programming</title>
+      <link>http://localhost:1313/publication/gaudesi-2014-universal/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/gaudesi-2014-universal/</guid>
       <description></description>
     </item>
     
@@ -876,6 +2136,62 @@ data.head()
     </item>
     
     <item>
+      <title>A Memetic Approach to Bayesian Network Structure Learning</title>
+      <link>http://localhost:1313/publication/tonda-2013-amemetic/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/tonda-2013-amemetic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An efficient distance metric for linear genetic programming</title>
+      <link>http://localhost:1313/publication/gaudesi-2013-anefficient/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/gaudesi-2013-anefficient/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Evolutionary Approach to Wetlands Design</title>
+      <link>http://localhost:1313/publication/gaudesi-2013-anevolutionary/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/gaudesi-2013-anevolutionary/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Evolutionary Framework for Routing Protocol Analysis in Wireless Sensor Networks</title>
+      <link>http://localhost:1313/publication/bucur-2013-anevolutionary/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/bucur-2013-anevolutionary/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evolutionary optimization of wetlands design</title>
+      <link>http://localhost:1313/publication/gaudesi-2013-evolutionary/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/gaudesi-2013-evolutionary/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Food Model Exploration through Evolutionary Optimisation Coupled with Visualisation: Application to the Prediction of a Milk Gel Structure</title>
+      <link>http://localhost:1313/publication/lutton-2013-food/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/lutton-2013-food/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic Generation of On-Line Test Programs through a Cooperation Scheme</title>
+      <link>http://localhost:1313/publication/ciganda-2012-automatic/</link>
+      <pubDate>Sat, 01 Dec 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ciganda-2012-automatic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A benchmark for cooperative coevolution</title>
       <link>http://localhost:1313/publication/tonda-2012-abenchmark/</link>
       <pubDate>Thu, 01 Nov 2012 00:00:00 +0000</pubDate>
@@ -888,6 +2204,38 @@ data.head()
       <link>http://localhost:1313/publication/grosso-2012-software/</link>
       <pubDate>Wed, 01 Feb 2012 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/grosso-2012-software/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian Network Structure Learning from Limited Datasets through Graph Evolution</title>
+      <link>http://localhost:1313/publication/tonda-2012-bayesian/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/tonda-2012-bayesian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Industrial Applications of Evolutionary Algorithms</title>
+      <link>http://localhost:1313/publication/sanchez-2012-industrial/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/sanchez-2012-industrial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Functional Test of Branch Prediction Units Based on the Branch History Table Architecture</title>
+      <link>http://localhost:1313/publication/sanchez-2012-onthefunctional/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/sanchez-2012-onthefunctional/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic Generation of Software-based Functional Failing Test for Speed Debug and On-silicon Timing Verification</title>
+      <link>http://localhost:1313/publication/sanchez-2011-automatic/</link>
+      <pubDate>Thu, 01 Dec 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/sanchez-2011-automatic/</guid>
       <description></description>
     </item>
     
@@ -908,10 +2256,90 @@ data.head()
     </item>
     
     <item>
+      <title>Functional Test Generation for the pLRU Replacement Mechanism of Embedded Cache Memories</title>
+      <link>http://localhost:1313/publication/perez-2011-functional/</link>
+      <pubDate>Tue, 01 Mar 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/perez-2011-functional/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Artificial Olfaction: bio-inspired approaches for tackling sensor drift issue</title>
+      <link>http://localhost:1313/publication/di-carlo-2011-artificial/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/di-carlo-2011-artificial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Covariance Matrix Adaptation Evolutionary Strategy for Drift Correction of Electronic Nose Data</title>
+      <link>http://localhost:1313/publication/dicarlo-2011-covariance/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dicarlo-2011-covariance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lamps: A Test Problem for Cooperative Coevolution</title>
+      <link>http://localhost:1313/publication/tonda-2011-lamps/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/tonda-2011-lamps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A Framework for Automated Detection of Power-related Software Errors in Industrial Verification Processes</title>
       <link>http://localhost:1313/publication/gandini-2010-aframework/</link>
       <pubDate>Mon, 01 Nov 2010 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/gandini-2010-aframework/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evolving Individual Behavior in a Multi-agent Traffic Simulator</title>
+      <link>http://localhost:1313/publication/sanchez-2010-evolving/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/sanchez-2010-evolving/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploiting Evolution for an Adaptive Drift-Robust Classifier in Chemical Sensing</title>
+      <link>http://localhost:1313/publication/dicarlo-2010-exploiting/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dicarlo-2010-exploiting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards drift correction in chemical sensors using an evolutionary strategy</title>
+      <link>http://localhost:1313/publication/dicarlo-2010-towards/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dicarlo-2010-towards/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic detection of software defects</title>
+      <link>http://localhost:1313/publication/gandini-2009-automatic/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/gandini-2009-automatic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Generation of Functional Test Programs for the Cache Replacement Logic</title>
+      <link>http://localhost:1313/publication/perez-2009-onthegeneration/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/perez-2009-onthegeneration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A novel methodology for diversity preservation in evolutionary algorithms</title>
+      <link>http://localhost:1313/publication/squillero-2008-anovel/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/squillero-2008-anovel/</guid>
       <description></description>
     </item>
     
