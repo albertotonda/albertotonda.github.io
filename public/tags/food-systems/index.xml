@@ -5,9 +5,9 @@
     <link>http://localhost:1313/tags/food-systems/</link>
       <atom:link href="http://localhost:1313/tags/food-systems/index.xml" rel="self" type="application/rss+xml" />
     <description>Food Systems</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 19 Jun 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <url>http://localhost:1313/media/icon_hu13064559619334802728.png</url>
       <title>Food Systems</title>
       <link>http://localhost:1313/tags/food-systems/</link>
     </image>
@@ -15,7 +15,7 @@
     <item>
       <title>Horizon Europe FutureFoodS</title>
       <link>http://localhost:1313/project/2024-futurefoods/</link>
-      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 19 Jun 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/project/2024-futurefoods/</guid>
       <description>&lt;p&gt;
 
@@ -47,7 +47,16 @@
       Group photo of the FutureFoodS kick-off meeting, held in Dijon, France
     &lt;/figcaption&gt;&lt;/figure&gt;
 &lt;/p&gt;
-&lt;p&gt;FutureFoodS is a Horizon Europe co-funded project I am participant of, running from 2024 to 2034, involving 86 partners from 29 countries. The FutureFoodS partnership aims to collectively achieve healthy, safe, environmentally friendly, socially secure, fair, and economically viable food systems for Europe. For more information, check the 
+&lt;p&gt;FutureFoodS is a Horizon Europe co-funded project I am participant of, running from 2024 to 2034, involving 86 partners from 29 countries. The FutureFoodS partnership aims to collectively achieve healthy, safe, environmentally friendly, socially secure, fair, and economically viable food systems for Europe. For more information, check out the 
+.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Horizon Europe FoSSNet</title>
+      <link>http://localhost:1313/project/2024-fossnet/</link>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/2024-fossnet/</guid>
+      <description>&lt;p&gt;Pan-European Food Systems Science Network (FoSSNet) is a 4-year Horizon Europe Research and Innovation Action, involving more than 15 partners from all over Europe. 
 .&lt;/p&gt;</description>
     </item>
     

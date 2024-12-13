@@ -7,7 +7,7 @@
     <description>Alberto Tonda</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <url>http://localhost:1313/media/icon_hu13064559619334802728.png</url>
       <title>Alberto Tonda</title>
       <link>http://localhost:1313/</link>
     </image>
@@ -37,17 +37,84 @@
     </item>
     
     <item>
-      <title>Escherichia coli-based Physical Reservoir Computing : Potential and Applications</title>
-      <link>http://localhost:1313/publication/ahavi-2024-escherichia/</link>
-      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/ahavi-2024-escherichia/</guid>
-      <description></description>
+      <title>Interpretable AI</title>
+      <link>http://localhost:1313/research/white-box-machine-learning/</link>
+      <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/white-box-machine-learning/</guid>
+      <description>&lt;p&gt;While generally effective, models obtained through machine learning (ML) are often black boxes, as it is practically impossible for humans to infer their decision processes, due to their sheer complexity. Some of my early works dealt with 
+, and 
+ 
+ with data-driven models~\cite{tonda2013amemetic,tonda2012bayesian,}. More recently I investigated the relationships between datasets characteristics and generalization abilities of models~\cite{barbiero2020modeling}, and experimented with the translation of Explainable AI (XAI) techniques from the field of image analysis to genomic data~\cite{lopezrincon2021classification}. Furthermore, I explored different approaches to feature and sample selection, the process of identifying the most compact sect of meaningful information to explain a ML algorithm decisions on a target problem~\cite{barbiero2020generating,barbiero2020making,barbiero2020anovel,ciravegna2020discovering,barbiero2019fundamental,barbiero2019beyond,barbiero2019evolutionary}. As one of the leads in this research line includes combining EAs and ML, I am recognized as one of the experts of this niche, and as a consequence I co-organized tutorials on the subject in several specialized conferences (ACM GECCO, PPSN) plus an invited lecture in the summer school organized by COST Action CA15140 \emph{Improving Applicability of Nature-Inspired Optimisation by Joining Theory and Practise}&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>AI in food processing</title>
+      <link>http://localhost:1313/research/food-processing/</link>
+      <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/food-processing/</guid>
+      <description>&lt;p&gt;Starting with my first post-doctoral position, I applied computational intelligence techniques to the field of food processing, a domain where the limited amount of data and the abundance of expert knowledge pose interesting challenges to ML and AI algorithms. This activity later became the main focus of my career as a permanent researcher at INRA/INRAE. The case studies I tackled, carried out mainly in the scope of the co-supervisions of PhD students Etienne Descamps and Thomas Chabin, include modeling diary emulsions~\cite{lutton2014food,descamps2015modeling},
+freeze-drying of lactic acid bacteria~\cite{chabin2018lideogram,chabin2018asemiautomatic,chabin2017interactive},
+biscuit cooking~\cite{tonda2018alongshorttermmemory},
+cleaning processes of industrial machines~\cite{deponte2020two,gu2019amathematical},
+behavior of the pepsin enzyme~\cite{tonda2017insilico,grosvenor2017pepsin,grosvenor2015invitro},
+ecosystem services~\cite{accatino:hal-02482110}. I later chaired the European COST Action CA15118 \emph{Mathematical and Computer Science Methods for Food Science and Industry} (2016-2020), a networking project that gathered experts from both academia and industry, to make a point on the state of the art and the possible future trajectories of the sector. The project led to several reviews and position papers~\cite{djekic2019scientific,djekic2019crosseuropean,djekic2018review,djekic2020environmental}. As an expert of the domain, I have been involved in several other internal INRAE activities that also led to position papers~\cite{thomopoulos2019multicriteria,gesanguiziou2019annotation,barnabe2018multiscale,perrot2016someremarks,thomopoulos2020,Tonda2018interactive}, and I have provided my perspective in two invited talks at Académie de Technologies (Paris, France) and at the University of Sarajevo (Bosnia-Herzegovina).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>AI for human health</title>
+      <link>http://localhost:1313/research/health/</link>
+      <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/health/</guid>
+      <description>&lt;p&gt;In recent years, my research activities have branched to the application of ML and EAs to bioinformatics, thanks to a long-standing collaboration with the University of Utrecht (The Netherlands), with the recent addition of partners from the University of Cambridge (UK). The case studies I tackled include automatic discovery of micro-RNA signatures for tumors~\cite{lopezrincon2019automatic,lopezrincon2018evolutionary,barbiero2019understanding}, batch correction of genomic datasets~\cite{lopezrincon2020batch}, and automatic primer design for viruses, with a focus on SARS-CoV-2~\cite{lopezrincon2021classification,lopezrincon2021design}. Following these activities, I joined COST Action CA18131 \emph{Statistical and Machine Learning Techniques in Human Microbiome Studies} (2019-2023), where I am currently one of the two representatives for France in the Management Committee.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>AI in gaming</title>
+      <link>http://localhost:1313/research/ai-games/</link>
+      <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/ai-games/</guid>
+      <description>&lt;p&gt;Since my Master, I developed an interest in AI applied to gaming. Games are an ideal benchmark for computational intelligence techniques, as creating an interesting opponent for humans requires software that is not only challenging, but also able to induce the tactics used by its adversaries. In this research line, I first worked on an AI able to model the opponent&amp;rsquo;s behavior in the iterated Prisoner&amp;rsquo;s Dilemma using EAs~\cite{gaudesi2016exploiting,gaudesi2014turan}, during my PhD co-supervision of Marco Gaudesi. I then tackled the automatic development of bots for the real-time strategy game StarCraft~\cite{garciasanchez2015towards}, submitting the first participant to the Student StarCraft AI Competition being entirely designed by another algorithm. A few years ago I started an ongoing project on developing competitive AIs for HearthStone, a collectible card game played online~\cite{garciasanchez2020optimizing,garciasanchez2018automated,garciasanchez2016evolutionary}. In the scope of these activities, since 2017 I have been co-chairing the session dedicated to games in the EvoSTAR conference.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Automatic software and hardware testing</title>
+      <link>http://localhost:1313/research/software-testing/</link>
+      <pubDate>Mon, 09 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/software-testing/</guid>
+      <description>&lt;p&gt;Several of my early research activities were centered around the development of automated techniques to support hardware testing, ranging from the generation of programs to test specific parts of the hardware~\cite{grosso2012software,grosso2011functional,ciganda2012automatic,sanchez2011evolution,perez2011functional,sanchez2011onthefunctional}, to fail-test generation for complex CPUs~\cite{sanchez2011evolutionary,sanchez2011postsilicon,sanchez2011automatic,perez2009onthegeneration}, to compensation of defects in electronic noses~\cite{dicarlo2011increasing,dicarlo2011covariance,dicarlo2010towards,dicarlo2010exploiting}. In the domain of software, I applied the same ideas to software testing~\cite{gandini2010aframework,marino2016ageneralpurpose,gandini2009automatic}, analysis of network protocols~\cite{bucur2016optimizing,bucur2014theimpact,bucur2015black,bucur2014thetradeoffs,cani2014towards,bucur2013anevolutionary}, and detection of malicious applications~\cite{atzeni2018countering,gaudesi2016challenging,gaudesi2015malware}, with these last two activities carried out mainly in the scope of my co-supervision of PhD students Marco Gaudesi and Andrea Marcelli. More recently, I started the co-supervision of PhD student Eliana Giovannitti on the subject of automated discovery of backlash issues in industrial equipment~\cite{giovannitti2022virtual,giovannitti2021exploiting,giovannitti2020virtual}.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Invited talk on program synthesis</title>
+      <link>http://localhost:1313/post/2024-11-25-irisa/</link>
+      <pubDate>Mon, 25 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/2024-11-25-irisa/</guid>
+      <description>&lt;p&gt;The CNRS 
+ (Institute of Research on Computer Science and Random Systems, IRISA) in Rennes, France, invited me to give a talk with the aim of establishing a contact between different communities working on program synthesis.&lt;/p&gt;
+&lt;h2 id=&#34;abstract-of-the-talk&#34;&gt;Abstract of the talk&lt;/h2&gt;
+&lt;p&gt;Evolutionary algorithms (EAs) are stochastic optimization techniques, designed to tackle objective functions for which other techniques fail (for example, due to the impossibility of computing derivatives, non-convexity of the function landscape, or sheer size of the search space). Genetic programming (GP) is a technique belonging to the field of EAs, designed to stochastically explore search spaces of complex structures, for example trees or graphs. Since these structures can be used to represent computer programs, GP has been successfully applied to the task of program synthesis since the early 2000s, automatically generating computer programs for specific applications. In this talk, I will briefly introduce EAs and GP, before going over the current state of the art in EA-based program synthesis, focusing in particular on strengths, limitations, and possible ways forward.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>PEPR B-BEST MuSiHC</title>
+      <link>http://localhost:1313/project/2025-musihc/</link>
+      <pubDate>Tue, 22 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/2025-musihc/</guid>
+      <description>&lt;p&gt;Multi-Size Hybrid Cell Models (MuSiHC) is a 4-year project I am leading, funded by the 
+ for over 1.3M Euros. MuSiHC focuses on learning models for bacterial metabolic network, resorting to hybrid approaches combining classical systems of differential equations and more recent machine learning algorithms.&lt;/p&gt;
+&lt;p&gt;The project is in cooperation with several partners: INRIA Grenoble, MICALIS institute, MaIAGE lab, Toulouse Biotechnology Institute, Toulouse White Biotechnology, and University Lyon 1.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Horizon Europe FutureFoodS</title>
       <link>http://localhost:1313/project/2024-futurefoods/</link>
-      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 19 Jun 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/project/2024-futurefoods/</guid>
       <description>&lt;p&gt;
 
@@ -79,8 +146,16 @@
       Group photo of the FutureFoodS kick-off meeting, held in Dijon, France
     &lt;/figcaption&gt;&lt;/figure&gt;
 &lt;/p&gt;
-&lt;p&gt;FutureFoodS is a Horizon Europe co-funded project I am participant of, running from 2024 to 2034, involving 86 partners from 29 countries. The FutureFoodS partnership aims to collectively achieve healthy, safe, environmentally friendly, socially secure, fair, and economically viable food systems for Europe. For more information, check the 
+&lt;p&gt;FutureFoodS is a Horizon Europe co-funded project I am participant of, running from 2024 to 2034, involving 86 partners from 29 countries. The FutureFoodS partnership aims to collectively achieve healthy, safe, environmentally friendly, socially secure, fair, and economically viable food systems for Europe. For more information, check out the 
 .&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Escherichia coli-based Physical Reservoir Computing : Potential and Applications</title>
+      <link>http://localhost:1313/publication/ahavi-2024-escherichia/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ahavi-2024-escherichia/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -108,12 +183,12 @@
     </item>
     
     <item>
-      <title>PEPR B-BEST MuSiHC</title>
-      <link>http://localhost:1313/project/2025-musihc/</link>
-      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/2025-musihc/</guid>
-      <description>&lt;p&gt;Multi-Size Hybrid Cell Models (MuSiHC) is a 4-year project, funded by the PEPR B-BEST (&amp;ldquo;Biomasses, biotechnologies et technologies durables pour la chimie et les carburants&amp;rdquo;). MuSiHC focuses on learning models for bacterial metabolic network, resorting to hybrid approaches combining classical systems of differential equations and more recent machine learning algorithms.&lt;/p&gt;
-&lt;p&gt;The project is in cooperation with several partners: INRIA Grenoble, MICALIS institute, MaIAGE lab, Toulouse Biotechnology Institute, Toulouse White Biotechnology, and University Lyon 1.&lt;/p&gt;</description>
+      <title>Horizon Europe FoSSNet</title>
+      <link>http://localhost:1313/project/2024-fossnet/</link>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/2024-fossnet/</guid>
+      <description>&lt;p&gt;Pan-European Food Systems Science Network (FoSSNet) is a 4-year Horizon Europe Research and Innovation Action, involving more than 15 partners from all over Europe. 
+.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -459,7 +534,7 @@
 
 
 
-&lt;div id=&#34;chart-359421768&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-924178356&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -477,7 +552,7 @@
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-359421768&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-924178356&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -1295,6 +1370,16 @@ Parallel 4   :         des6, after des4, 1d
     </item>
     
     <item>
+      <title>Silver medal at the HUMIES awards</title>
+      <link>http://localhost:1313/post/2022-07-13-gecco-humies/</link>
+      <pubDate>Wed, 13 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/2022-07-13-gecco-humies/</guid>
+      <description>&lt;p&gt;On July 13th, 2022, I had the pleasure of receiving the Silver Medal at the HUMIES (
+) held in Boston, MA, USA. The prize was awarded for a human-competitive result obtained using evolutionary computation. My collaborators and I (Eric Claassen, Etienne Coz, Johan Garssen, Aletta D. Kraneveld, Alejandro Lopez Rincon, Lucero Mendoza Maldonado, Carmina A. Perez Romero, Patrick Tabeling, Jessica Vanhomwegen) worked on the automatic discovery of primers for virus, with a specific application to COVID-19.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Agent-based Modelling of Enzymatic Digestion Using Experimental Data</title>
       <link>http://localhost:1313/publication/lutton-2022-agent/</link>
       <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
@@ -1307,23 +1392,12 @@ Parallel 4   :         des6, after des4, 1d
       <link>http://localhost:1313/post/2022-06-03-encals/</link>
       <pubDate>Sat, 04 Jun 2022 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/post/2022-06-03-encals/</guid>
-      <description>&lt;h2 id=&#34;invited-talk-at-encals-2022&#34;&gt;Invited talk at ENCALS 2022&lt;/h2&gt;
-&lt;p&gt;On June 3rd, 2022, I had the pleasure of giving an invited talk at the first Non-Coding RNA in Motor Neuron Diseases (MND) and Amyothropic Lateral Sclerosis (ALS) International Symposium, a side event of the 
+      <description>&lt;p&gt;On June 3rd, 2022, I had the pleasure of giving an invited talk at the first Non-Coding RNA in Motor Neuron Diseases (MND) and Amyothropic Lateral Sclerosis (ALS) International Symposium, a side event of the 
  in Edinburgh, Scotland, UK.&lt;/p&gt;
-&lt;p&gt;The subject of my talk was feature selection of microRNA biomarkers to help machine learning robustly classifying diseases. The application I presented is cancer classification, based on a 2020 work in cooperation with Alejandro Lopez-Rincon and several other authors. The technique proposed in the study, Recursive Ensemble Feature Selection, can in principle be applied to datasets from other diseases, and during the symposium we discussed the possibility of applying it to an ALS dataset.&lt;/p&gt;
+&lt;p&gt;The subject of my talk was feature selection of microRNA biomarkers to help machine learning robustly classifying diseases. The application I presented is cancer classification, based on a 
+. The technique proposed in the study, Recursive Ensemble Feature Selection, can in principle be applied to datasets from other diseases, and during the symposium we discussed the possibility of applying it to an ALS dataset.&lt;/p&gt;
 &lt;p&gt;I would like to thank all the ENCALS organizing committee, and in particular 
 , for the kind invite and the productive interactions.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Silver medal at the HUMIES awards, GECCO 2022</title>
-      <link>http://localhost:1313/post/2022-07-13-gecco-humies/</link>
-      <pubDate>Sat, 04 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/2022-07-13-gecco-humies/</guid>
-      <description>&lt;h2 id=&#34;silver-medal-at-the-humies-awards-gecco-2022&#34;&gt;Silver medal at the HUMIES awards, GECCO 2022&lt;/h2&gt;
-&lt;p&gt;On July 13th, 2022, I had the pleasure of receiving the Silver Medal at the HUMIES (
-) held in Boston, MA, USA. The prize was awarded for a human-competitive result obtained using evolutionary computation. Me and my collaborators (Eric Claassen, Etienne Coz, Johan Garssen, Aletta D. Kraneveld, Alejandro Lopez Rincon, Lucero Mendoza Maldonado, Carmina A. Perez Romero, Patrick Tabeling, Jessica Vanhomwegen) worked on the automatic discovery of primers for virus, with a specific application to COVID-19.&lt;/p&gt;
 </description>
     </item>
     
