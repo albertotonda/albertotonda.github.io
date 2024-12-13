@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Deep Learning | Alberto Tonda</title>
+    <link>http://localhost:1313/tags/deep-learning/</link>
+      <atom:link href="http://localhost:1313/tags/deep-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Deep Learning</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>Deep Learning</title>
+      <link>http://localhost:1313/tags/deep-learning/</link>
+    </image>
+    
+    <item>
+      <title>Deep learning in practice with pytorch</title>
+      <link>http://localhost:1313/teaching/deep-learning-in-practice-with-pytorch/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teaching/deep-learning-in-practice-with-pytorch/</guid>
+      <description>&lt;p&gt;The aim of this class is to provide students with a hands-on approach to deep learning, exploring functionalities of the pytorch library. Different applications of deep learning to relational data such as images and time sequences will presented, including the description of architectures like convolutional neural networks, recurrent neural networks, autoencoders, and transformers.&lt;/p&gt;
+&lt;h2 id=&#34;summary-of-basic-machine-learning-concepts&#34;&gt;Summary of basic Machine Learning concepts&lt;/h2&gt;
+&lt;p&gt;The first session is an introduction to the class and a (relatively quick) summary of basic machine learning concepts that will be extensively used in the following.&lt;/p&gt;
+&lt;p&gt;Google Colaboratory notebook with exercises: (requires a Google account): 
+&lt;/p&gt;
+&lt;h2 id=&#34;heading&#34;&gt;&lt;/h2&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

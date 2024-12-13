@@ -18,6 +18,9 @@ sections:
       button:
         text: Download CV
         url: uploads/Alberto_Tonda_CV.pdf
+      #button:
+      #  text: More about me
+      #  url: experience/
     design:
       css_class: dark
       background:

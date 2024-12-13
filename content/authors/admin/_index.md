@@ -26,7 +26,7 @@ role: Senior Permanent Researcher
 organizations:
   - name: Applied Mathematics and Computer Science - Paris Saclay Laboratory
     url: https://mia-ps.inrae.fr/ 
-  - name: National Research Institute for Agriculture, Food, and the Environment
+  - name: National Institute of Research for Agriculture, Food, and the Environment
     url: https://www.inrae.fr/
   - name: Complex Systems Institute of Paris (ISC-PIF)
     url: https://www.isc-pif.fr/
@@ -202,4 +202,4 @@ awards:
 
 ## About Me
 
-I work as a senior permanent researcher (directeur de recherche) at [INRAE](https://www.inrae.fr)'s Applied Mathematics and Computer Science research Paris-Saclay lab ([UMR 518 MIA-Paris](https://mia-ps.inrae.fr/)) near Paris, France. My research interests include machine learning, evolutionary optimization, and neuro-symbolic artificial intelligence, with main applications to food science and health. I am part of the EKINOCS team, whose focus is on merging human expert knowledge with AI for real-world applications.
+I am a senior permanent researcher (directeur de recherche) at [INRAE](https://www.inrae.fr)'s Applied Mathematics and Computer Science Paris-Saclay lab ([UMR 518 MIA-Paris](https://mia-ps.inrae.fr/)) near Paris, France; I am also a visiting researcher at CNRS [Complex Systems Institute of Paris](https://www.iscpif.fr). My research interests include machine learning, evolutionary optimization, and neuro-symbolic artificial intelligence, with main applications to food science and human health. I am part of the [EKINOCS](https://mia-ps.inrae.fr/ekinocs) team, whose focus is on merging human expert knowledge with AI for real-world applications.

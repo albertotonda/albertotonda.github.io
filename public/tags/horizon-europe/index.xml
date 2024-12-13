@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Horizon Europe | Alberto Tonda</title>
+    <link>http://localhost:1313/tags/horizon-europe/</link>
+      <atom:link href="http://localhost:1313/tags/horizon-europe/index.xml" rel="self" type="application/rss+xml" />
+    <description>Horizon Europe</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>Horizon Europe</title>
+      <link>http://localhost:1313/tags/horizon-europe/</link>
+    </image>
+    
+    <item>
+      <title>Horizon Europe FutureFoodS</title>
+      <link>http://localhost:1313/project/2024-futurefoods/</link>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/2024-futurefoods/</guid>
+      <description>&lt;p&gt;FutureFoodS is a Horizon Europe co-funded project I am participant of, running from 2024 to 2034, involving 86 partners from 29 countries. The FutureFoodS partnership aims to collectively achieve healthy, safe, environmentally friendly, socially secure, fair, and economically viable food systems for Europe. For more information, check the 
+.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
