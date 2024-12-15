@@ -4,7 +4,9 @@
 3. Add publications (ii) there is a Python script that can be run.
 4. Copyright-free images: https://www.freepik.com/
 5. Relative links: [text of the link]({{< relref "/publication/lopez-rincon-2020/index.md" >}})
-6. The 'academic' Python script is used to extract publications from .bib; but it's not working on some publications, and there is no output (!!).
+
+## TODO
+1. The 'academic' Python script is used to extract publications from .bib; but it's not working on some publications, and there is no output (!!). Try running it locally with a python script, importing the package and forcing the logger to write on file.
 
 # [Hugo Academic CV Theme](https://github.com/HugoBlox/theme-academic-cv)
 
