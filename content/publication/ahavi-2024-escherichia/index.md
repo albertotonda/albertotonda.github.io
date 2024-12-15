@@ -14,4 +14,5 @@ publication_types:
 - paper-conference
 publication: '*Workshop on AI Methods and Models for (Bio)Catalysis and Synthetic
   Biology*'
+abstract: A reservoir based on bacterial metabolism can perform complex computational tasks (solve machine learning problems) at low cost for the cell (no circuit constructed) in an easy-to-use framework. Combining the unique features of living systems with physical reservoir computing could have potential applications in diagnostics and prognosis.
 ---
