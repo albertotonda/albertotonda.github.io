@@ -21,7 +21,7 @@
 &lt;p&gt;While generally effective, models obtained through ML are often black boxes, as it is practically impossible for humans to infer their decision processes, due to their sheer complexity. For applications in fields like health and food science, black-box models are impractical, as for domain experts it is unaccaptable to just apply a solution without understanding it.&lt;/p&gt;
 &lt;p&gt;In my research, I tackled the question of obtaining human-readable data-driven models using different approaches.&lt;/p&gt;
 &lt;!-- ## White-box AI
-Some of my early works dealt with creating white-box, human-readable ML models such as systems of Ordinary Differential Equations  [[gaucel2014learning]](), generation of computer code for a specific task using Genetic Programming~\cite{sanchez2011evolution}, or modeling the behavior of a player as a stochastic Finite State Machine.
+Some of my early works dealt with creating white-box, human-readable ML models such as systems of Ordinary Differential Equations  [[gaucel2014learning]](/publication/gaucel-2014-learning/), generation of computer code for a specific task using Genetic Programming~\cite{sanchez2011evolution}, or modeling the behavior of a player as a stochastic Finite State Machine.
 
 ## Integration of expert knowledge in AI
 
@@ -30,7 +30,7 @@ Another way of making a ML model understandable is by reducing the number of fea
 
 I developed novel techniques for unsupervised feature selection
 
-## Old text --&gt;
+## Old text below this point --&gt;
 &lt;p&gt;Some of my early works dealt with 
 , and 
  
