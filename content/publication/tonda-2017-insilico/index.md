@@ -3,7 +3,7 @@ title: 'In silico modeling of protein hydrolysis by endoproteases: a case study 
   pepsin digestion of bovine lactoferrin'
 date: '2017-01-01'
 draft: true
-publishDate: '2024-12-17T15:42:11.976785Z'
+publishDate: '2024-12-17T17:20:25.832552Z'
 authors:
 - Alberto Tonda
 - Anita Grosvenor

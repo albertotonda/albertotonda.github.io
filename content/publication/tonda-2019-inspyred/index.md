@@ -2,7 +2,7 @@
 title: 'Inspyred: Bio-inspired algorithms in Python'
 date: '2019-11-01'
 draft: true
-publishDate: '2024-12-17T15:42:17.308115Z'
+publishDate: '2024-12-17T17:20:29.788443Z'
 authors:
 - Alberto Tonda
 publication_types:

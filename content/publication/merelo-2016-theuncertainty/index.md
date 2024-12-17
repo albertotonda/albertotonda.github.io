@@ -3,7 +3,7 @@ title: 'The Uncertainty Quandary: A Study in the Context of the Evolutionary Opt
   in Games and Other Uncertain Environments'
 date: '2016-01-01'
 draft: true
-publishDate: '2024-12-17T15:42:00.733916Z'
+publishDate: '2024-12-17T17:20:17.020240Z'
 authors:
 - Juan J. Merelo
 - Federico Liberatore

@@ -3,7 +3,7 @@ title: Functional Test Generation for the pLRU Replacement Mechanism of Embedded
   Memories
 date: '2011-03-01'
 draft: true
-publishDate: '2024-12-17T15:41:44.080124Z'
+publishDate: '2024-12-17T17:20:01.209784Z'
 authors:
 - W. J. H. Perez
 - Ernesto Sanchez

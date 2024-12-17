@@ -8,7 +8,7 @@ authors:
 - Alain Riaublanc
 - Nathalie Perrot
 date: '2013-01-01'
-publishDate: '2024-12-17T15:41:38.739881Z'
+publishDate: '2024-12-17T17:19:56.001059Z'
 publication_types:
 - '1'
 publication: "*Proceedings of the DREAM International Conference ``From Model Foods\

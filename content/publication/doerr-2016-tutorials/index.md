@@ -2,7 +2,7 @@
 title: Tutorials at PPSN 2016
 date: '2016-01-01'
 draft: true
-publishDate: '2024-12-17T15:42:00.416812Z'
+publishDate: '2024-12-17T17:20:16.777109Z'
 authors:
 - Carola Doerr
 - Nicolas Bredeche

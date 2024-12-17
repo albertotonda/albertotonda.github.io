@@ -2,7 +2,7 @@
 title: Software-Based Testing for System Peripherals
 date: '2012-02-01'
 draft: true
-publishDate: '2024-12-17T15:42:07.958637Z'
+publishDate: '2024-12-17T17:20:22.889005Z'
 authors:
 - M. Grosso
 - W. J. Perez Holguin

@@ -2,7 +2,7 @@
 title: 'VALIS: an Evolutionary Classification Algorithm'
 date: '2018-08-01'
 draft: true
-publishDate: '2024-12-17T15:42:13.316547Z'
+publishDate: '2024-12-17T17:20:26.936645Z'
 authors:
 - Peter Karpov
 - Giovanni Squillero

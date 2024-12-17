@@ -2,7 +2,7 @@
 title: Towards automatic StarCraft strategy generation using genetic programming
 date: '2015-08-01'
 draft: true
-publishDate: '2024-12-17T15:41:51.713168Z'
+publishDate: '2024-12-17T17:20:08.815201Z'
 authors:
 - Pablo Garcia-Sanchez
 - Alberto Tonda

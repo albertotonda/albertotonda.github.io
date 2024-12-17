@@ -2,7 +2,7 @@
 title: Evolutionary algorithms and machine learning
 date: '2020-07-01'
 draft: true
-publishDate: '2024-12-17T15:42:00.165242Z'
+publishDate: '2024-12-17T17:20:16.533219Z'
 authors:
 - Giovanni Squillero
 - Alberto Tonda

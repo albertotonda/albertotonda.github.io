@@ -3,7 +3,7 @@ title: Evaluating surrogate models for multi-objective influence maximization in
   networks
 date: '2018-07-01'
 draft: true
-publishDate: '2024-12-17T15:41:56.374127Z'
+publishDate: '2024-12-17T17:20:13.257585Z'
 authors:
 - Doina Bucur
 - Giovanni Iacca

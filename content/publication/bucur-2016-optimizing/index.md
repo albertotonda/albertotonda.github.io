@@ -3,7 +3,7 @@ title: Optimizing groups of colluding strong attackers in mobile urban communica
   networks with evolutionary algorithms
 date: '2016-03-01'
 draft: true
-publishDate: '2024-12-17T15:42:09.708534Z'
+publishDate: '2024-12-17T17:20:24.098358Z'
 authors:
 - Doina Bucur
 - Giovanni Iacca

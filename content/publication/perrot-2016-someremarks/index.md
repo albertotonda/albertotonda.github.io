@@ -3,7 +3,7 @@ title: Some remarks on computational approaches towards sustainable complex agri
   systems
 date: '2016-02-01'
 draft: true
-publishDate: '2024-12-17T15:42:10.259010Z'
+publishDate: '2024-12-17T17:20:24.601107Z'
 authors:
 - Nathalie Perrot
 - Hugo De Vries

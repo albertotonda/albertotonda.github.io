@@ -2,7 +2,7 @@
 title: Anatomy of a portfolio optimizer under a limited budget constraint
 date: '2016-09-01'
 draft: true
-publishDate: '2024-12-17T15:42:10.702535Z'
+publishDate: '2024-12-17T17:20:24.857106Z'
 authors:
 - Igor Deplano
 - Giovanni Squillero

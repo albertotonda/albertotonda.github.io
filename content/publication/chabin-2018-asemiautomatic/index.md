@@ -3,7 +3,7 @@ title: A Semi-automatic Modeling Approach for the Production and Freeze-drying o
   Lactic Acid Bacteria
 date: '2018-01-01'
 draft: true
-publishDate: '2024-12-17T15:41:56.128696Z'
+publishDate: '2024-12-17T17:20:13.006529Z'
 authors:
 - Thomas Chabin
 - Marc Barnabé

@@ -3,7 +3,7 @@ title: Automatic Generation of Software-based Functional Failing Test for Speed 
   and On-silicon Timing Verification
 date: '2011-12-01'
 draft: true
-publishDate: '2024-12-17T15:41:46.265179Z'
+publishDate: '2024-12-17T17:20:03.303095Z'
 authors:
 - Ernesto Sanchez
 - Giovanni Squillero

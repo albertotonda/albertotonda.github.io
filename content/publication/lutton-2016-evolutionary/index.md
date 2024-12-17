@@ -2,7 +2,7 @@
 title: Evolutionary Algorithms for Food Science and Technology
 date: '2016-11-01'
 draft: true
-publishDate: '2024-12-17T15:41:40.400390Z'
+publishDate: '2024-12-17T17:19:57.811376Z'
 authors:
 - Evelyne Lutton
 - Nathalie Perrot

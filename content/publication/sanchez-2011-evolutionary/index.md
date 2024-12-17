@@ -2,7 +2,7 @@
 title: Evolutionary failing-test generation for modern microprocessors
 date: '2011-01-01'
 draft: true
-publishDate: '2024-12-17T15:41:45.190076Z'
+publishDate: '2024-12-17T17:20:02.222715Z'
 authors:
 - Ernesto Sanchez
 - Giovanni Squillero

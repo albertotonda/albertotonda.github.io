@@ -3,7 +3,7 @@ title: Multi-objective Evolutionary Algorithms for Influence Maximization in Soc
   Networks
 date: '2017-01-01'
 draft: true
-publishDate: '2024-12-17T15:41:54.173872Z'
+publishDate: '2024-12-17T17:20:11.204889Z'
 authors:
 - Doina Bucur
 - Giovanni Iacca

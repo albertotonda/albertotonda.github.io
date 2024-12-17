@@ -3,7 +3,7 @@ title: 'Black Holes and Revelations: Using Evolutionary Algorithms to Uncover Vu
   in Disruption-Tolerant Networks'
 date: '2015-01-01'
 draft: true
-publishDate: '2024-12-17T15:41:50.649583Z'
+publishDate: '2024-12-17T17:20:07.724984Z'
 authors:
 - Doina Bucur
 - Giovanni Iacca

@@ -2,7 +2,7 @@
 title: Towards automated malware creation
 date: '2014-01-01'
 draft: true
-publishDate: '2024-12-17T15:41:48.717552Z'
+publishDate: '2024-12-17T17:20:05.865589Z'
 authors:
 - Andrea Cani
 - Marco Gaudesi

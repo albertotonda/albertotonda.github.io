@@ -2,7 +2,7 @@
 title: Vers une Action Collective à l'Échelle des Paysages
 date: '2020-04-01'
 draft: true
-publishDate: '2024-12-17T15:42:20.255802Z'
+publishDate: '2024-12-17T17:20:31.346810Z'
 authors:
 - Mourad Hannachi
 - Véronique Souchère

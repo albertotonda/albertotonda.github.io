@@ -3,7 +3,7 @@ title: A Mathematical Model for the Prediction of the Whey Protein Fouling Mass 
   a Pilot Scale Plate Heat Exchanger
 date: '2019-12-01'
 draft: true
-publishDate: '2024-12-17T15:42:15.278002Z'
+publishDate: '2024-12-17T17:20:28.385110Z'
 authors:
 - Yingying Gu
 - Laurent Bouvier

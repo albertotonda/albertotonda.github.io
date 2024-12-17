@@ -3,7 +3,7 @@ title: 'Human in the Loop for Modelling Food and Biological Systems: a Novel Per
   coupling Artificial Intelligence and Life Science'
 date: '2018-01-01'
 draft: true
-publishDate: '2024-12-17T15:41:55.757576Z'
+publishDate: '2024-12-17T17:20:12.748877Z'
 authors:
 - Nathalie Méjean-Perrot
 - Nadia Boukhelifa

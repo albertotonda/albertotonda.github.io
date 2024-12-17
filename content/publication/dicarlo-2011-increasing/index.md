@@ -3,7 +3,7 @@ title: Increasing pattern recognition accuracy for chemical sensing by evolution
   based drift compensation
 date: '2011-10-01'
 draft: true
-publishDate: '2024-12-17T15:42:07.714419Z'
+publishDate: '2024-12-17T17:20:22.637645Z'
 authors:
 - S. Di Carlo
 - M. Falasconi

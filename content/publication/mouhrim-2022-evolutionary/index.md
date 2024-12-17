@@ -3,7 +3,7 @@ title: An Evolutionary Approach to the Discretization of Gene Expression Profile
   to Predict the Severity of COVID-19
 date: '2022-01-01'
 draft: true
-publishDate: '2024-12-17T15:42:02.221623Z'
+publishDate: '2024-12-17T17:20:18.239423Z'
 authors:
 - Nisrine Mouhrim
 - Alberto Tonda

@@ -3,7 +3,7 @@ title: An Innovative AI-based primer design tool for precise and accurate detect
   of SARS-CoV-2 variants of concern
 date: '2023-09-01'
 draft: true
-publishDate: '2024-12-17T15:42:24.763217Z'
+publishDate: '2024-12-17T17:20:33.632444Z'
 authors:
 - Carmina Angelica Perez-Romero
 - Lucero Mendoza-Maldonado

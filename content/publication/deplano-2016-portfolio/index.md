@@ -2,7 +2,7 @@
 title: Portfolio Optimization,  a Decision-Support Methodology for Small Budgets
 date: '2016-01-01'
 draft: true
-publishDate: '2024-12-17T15:41:52.766751Z'
+publishDate: '2024-12-17T17:20:09.895317Z'
 authors:
 - Igor Deplano
 - Giovanni Squillero

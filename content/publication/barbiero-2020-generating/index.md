@@ -2,7 +2,7 @@
 title: Generating Neural Archetypes to Instruct Fast and Interpretable Decisions
 date: '2020-01-01'
 draft: true
-publishDate: '2024-12-17T15:41:57.469730Z'
+publishDate: '2024-12-17T17:20:14.275425Z'
 authors:
 - Pietro Barbiero
 - Gabriele Ciravegna

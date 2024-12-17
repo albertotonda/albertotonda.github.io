@@ -40,7 +40,7 @@ if __name__ == "__main__" :
     
     bibtex_file = "publications.bib"
     output_folder = "content/publication/"
-    work_locally = True
+    work_locally = False
     
     # change working directory (the script has some issues if the target
     # directory is not exactly "content/publication" from working directory)

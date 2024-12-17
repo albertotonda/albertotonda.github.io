@@ -2,7 +2,7 @@
 title: Evolutionary discovery of coresets for classification
 date: '2019-07-01'
 draft: true
-publishDate: '2024-12-17T15:41:58.395359Z'
+publishDate: '2024-12-17T17:20:15.030549Z'
 authors:
 - Pietro Barbiero
 - Giovanni Squillero

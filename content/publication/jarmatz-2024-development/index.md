@@ -8,7 +8,7 @@ authors:
 - Alberto Tonda
 - Guillaume Delaplace
 date: '2024-05-01'
-publishDate: '2024-12-17T15:42:27.308856Z'
+publishDate: '2024-12-17T17:20:34.909622Z'
 publication_types:
 - '2'
 publication: '*Food and Bioproducts Processing*'

@@ -3,7 +3,7 @@ title: 'Supplementary material for: Izard, Véronique, Pierre Pica & Elizabeth S
   (2022) Visual Foundations of Euclidean Geometry. https://psyarxiv.com/rmdeh/'
 date: '2022-05-01'
 draft: true
-publishDate: '2024-12-17T15:42:29.293776Z'
+publishDate: '2024-12-17T17:20:35.923598Z'
 authors:
 - Pierre Pica
 - Véronique Izard

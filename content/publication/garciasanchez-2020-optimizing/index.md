@@ -2,7 +2,7 @@
 title: Optimizing HearthStone Agents Using an Evolutionary Algorithm
 date: '2020-01-01'
 draft: true
-publishDate: '2024-12-17T15:42:16.997766Z'
+publishDate: '2024-12-17T17:20:29.534740Z'
 authors:
 - Pablo García-Sánchez
 - Alberto Tonda

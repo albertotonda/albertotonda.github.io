@@ -2,7 +2,7 @@
 title: 'Multi-Criteria Reverse Engineering for Food: Genesis and Ongoing Advances'
 date: '2019-01-01'
 draft: true
-publishDate: '2024-12-17T15:42:14.710444Z'
+publishDate: '2024-12-17T17:20:27.853289Z'
 authors:
 - R. Thomopoulos
 - C. Baudrit

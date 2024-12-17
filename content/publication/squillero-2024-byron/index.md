@@ -6,7 +6,7 @@ authors:
 - Dimitri Masetta
 - Marco Sacchet
 date: '2024-01-01'
-publishDate: '2024-12-17T15:42:05.778788Z'
+publishDate: '2024-12-17T17:20:21.143029Z'
 publication_types:
 - '1'
 publication: '*Proceedings of the Genetic and Evolutionary Computation Conference

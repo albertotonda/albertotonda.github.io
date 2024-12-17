@@ -3,7 +3,7 @@ title: 'Food model exploration through evolutionary optimisation coupled with vi
   Application to the prediction of a milk gel structure'
 date: '2014-10-01'
 draft: true
-publishDate: '2024-12-17T15:42:08.945904Z'
+publishDate: '2024-12-17T17:20:23.603035Z'
 authors:
 - Evelyne Lutton
 - Alberto Tonda

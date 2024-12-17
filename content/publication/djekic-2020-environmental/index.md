@@ -2,7 +2,7 @@
 title: Environmental Modelling in the Food Supply Chain - Future Perspectives
 date: '2020-01-01'
 draft: true
-publishDate: '2024-12-17T15:41:59.476015Z'
+publishDate: '2024-12-17T17:20:16.030979Z'
 authors:
 - Ilija Djekic
 - Jan Van Impe

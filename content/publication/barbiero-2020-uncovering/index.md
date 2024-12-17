@@ -2,7 +2,7 @@
 title: Uncovering Coresets for Classification With Multi-Objective Evolutionary Algorithms
 date: '2020-01-01'
 draft: true
-publishDate: '2024-12-17T15:42:27.822111Z'
+publishDate: '2024-12-17T17:20:35.155720Z'
 authors:
 - Pietro Barbiero
 - Giovanni Squillero

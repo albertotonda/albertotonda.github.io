@@ -2,7 +2,7 @@
 title: Data driven modeling of plastic deformation
 date: '2017-05-01'
 draft: true
-publishDate: '2024-12-17T15:42:11.253901Z'
+publishDate: '2024-12-17T17:20:25.349459Z'
 authors:
 - Daniele Versino
 - Alberto Tonda

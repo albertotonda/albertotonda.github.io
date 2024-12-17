@@ -2,7 +2,7 @@
 title: 'LIDeOGraM: An Interactive Evolutionary Modelling Tool'
 date: '2018-01-01'
 draft: true
-publishDate: '2024-12-17T15:41:54.951215Z'
+publishDate: '2024-12-17T17:20:11.978516Z'
 authors:
 - Thomas Chabin
 - Marc Barnabé

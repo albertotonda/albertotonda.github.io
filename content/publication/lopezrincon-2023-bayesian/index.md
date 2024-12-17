@@ -2,7 +2,7 @@
 title: Bayesian Optimization for the Inverse Problem in Electrocardiography
 date: '2023-12-01'
 draft: true
-publishDate: '2024-12-17T15:42:04.924337Z'
+publishDate: '2024-12-17T17:20:20.413092Z'
 authors:
 - Alejandro Lopez-Rincon
 - David Rojas-Velazquez

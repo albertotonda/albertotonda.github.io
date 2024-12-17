@@ -2,7 +2,7 @@
 title: A Memetic Approach to Bayesian Network Structure Learning
 date: '2013-01-01'
 draft: true
-publishDate: '2024-12-17T15:41:47.403935Z'
+publishDate: '2024-12-17T17:20:04.358379Z'
 authors:
 - Alberto Tonda
 - Evelyne Lutton

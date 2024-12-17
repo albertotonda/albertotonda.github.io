@@ -2,7 +2,7 @@
 title: Learning Dynamical Systems Using Standard Symbolic Regression
 date: '2014-01-01'
 draft: true
-publishDate: '2024-12-17T15:41:48.957438Z'
+publishDate: '2024-12-17T17:20:06.133261Z'
 authors:
 - Sébastien Gaucel
 - Maarten Keijzer

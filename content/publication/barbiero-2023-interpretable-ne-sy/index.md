@@ -2,7 +2,7 @@
 title: Interpretable Neural-Symbolic Concept Reasoning
 date: '2023-07-01'
 draft: true
-publishDate: '2024-12-17T15:42:04.669589Z'
+publishDate: '2024-12-17T17:20:20.176867Z'
 authors:
 - Pietro Barbiero
 - Gabriele Ciravegna

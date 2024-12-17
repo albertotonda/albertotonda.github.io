@@ -5,7 +5,7 @@ authors:
 - Alberto Paolo Tonda
 - Ripon Patgiri
 date: '2024-01-01'
-publishDate: '2024-12-17T15:41:42.137764Z'
+publishDate: '2024-12-17T17:19:59.451355Z'
 publication_types:
 - '6'
 publication: '*Applications of Nature-Inspired Computing and Optimization Techniques*'

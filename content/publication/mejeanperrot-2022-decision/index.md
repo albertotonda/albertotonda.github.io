@@ -3,7 +3,7 @@ title: A Decision-Support System to Predict Grape Berry Quality and Wine Potenti
   for a Chenin Vineyard
 date: '2022-09-01'
 draft: true
-publishDate: '2024-12-17T15:42:21.759598Z'
+publishDate: '2024-12-17T17:20:32.095266Z'
 authors:
 - Nathalie Mejean Perrot
 - Alberto Tonda

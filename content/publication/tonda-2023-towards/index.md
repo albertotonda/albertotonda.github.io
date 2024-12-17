@@ -2,7 +2,7 @@
 title: Towards Evolutionary Control Laws for Viability Problems
 date: '2023-01-01'
 draft: true
-publishDate: '2024-12-17T15:42:03.970272Z'
+publishDate: '2024-12-17T17:20:19.690880Z'
 authors:
 - Alberto Tonda
 - Isabelle Alvarez

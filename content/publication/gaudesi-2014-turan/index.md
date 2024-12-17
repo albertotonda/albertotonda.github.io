@@ -2,7 +2,7 @@
 title: 'TURAN: Evolving non-deterministic players for the iterated prisoner′s dilemma'
 date: '2014-07-01'
 draft: true
-publishDate: '2024-12-17T15:41:49.849463Z'
+publishDate: '2024-12-17T17:20:06.944624Z'
 authors:
 - Marco Gaudesi
 - Elio Piccolo

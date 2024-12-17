@@ -2,7 +2,7 @@
 title: Multiscale modeling for bioresources and bioproducts
 date: '2018-04-01'
 draft: true
-publishDate: '2024-12-17T15:42:11.719422Z'
+publishDate: '2024-12-17T17:20:25.588839Z'
 authors:
 - M. Barnabé
 - N. Blanc

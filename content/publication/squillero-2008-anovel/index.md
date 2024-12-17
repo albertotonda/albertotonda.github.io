@@ -2,7 +2,7 @@
 title: A novel methodology for diversity preservation in evolutionary algorithms
 date: '2008-01-01'
 draft: true
-publishDate: '2024-12-17T15:41:42.402647Z'
+publishDate: '2024-12-17T17:19:59.709517Z'
 authors:
 - Giovanni Squillero
 - Alberto Tonda

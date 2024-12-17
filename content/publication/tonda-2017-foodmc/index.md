@@ -2,7 +2,7 @@
 title: 'FoodMC: a COST Action to Promote Modeling in Food Science and Industry'
 date: '2017-01-01'
 draft: true
-publishDate: '2024-12-17T15:41:54.700763Z'
+publishDate: '2024-12-17T17:20:11.723783Z'
 authors:
 - Alberto Tonda
 publication_types:

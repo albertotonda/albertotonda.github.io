@@ -3,7 +3,7 @@ title: 'Building a Multidisciplinary Community on Mathematics and Computer Scien
   for the Food Industry: The Case of FoodMC'
 date: '2018-01-01'
 draft: true
-publishDate: '2024-12-17T15:41:56.666850Z'
+publishDate: '2024-12-17T17:20:13.514222Z'
 authors:
 - Alberto Tonda
 publication_types:

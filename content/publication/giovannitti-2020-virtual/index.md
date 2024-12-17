@@ -2,7 +2,7 @@
 title: Virtual Measurement of the Backlash Gap in Industrial Manipulators
 date: '2020-01-01'
 draft: true
-publishDate: '2024-12-17T15:41:58.934661Z'
+publishDate: '2024-12-17T17:20:15.534735Z'
 authors:
 - Eliana Giovannitti
 - Giovanni Squillero

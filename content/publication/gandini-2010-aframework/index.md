@@ -3,7 +3,7 @@ title: A Framework for Automated Detection of Power-related Software Errors in I
   Verification Processes
 date: '2010-11-01'
 draft: true
-publishDate: '2024-12-17T15:42:06.994323Z'
+publishDate: '2024-12-17T17:20:22.134267Z'
 authors:
 - Stefano Gandini
 - Walter Ruzzarin

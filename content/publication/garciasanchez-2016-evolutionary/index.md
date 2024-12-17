@@ -2,7 +2,7 @@
 title: Evolutionary deckbuilding in HearthStone
 date: '2016-09-01'
 draft: true
-publishDate: '2024-12-17T15:41:53.635631Z'
+publishDate: '2024-12-17T17:20:10.688375Z'
 authors:
 - Pablo Garcia-Sanchez
 - Alberto Tonda

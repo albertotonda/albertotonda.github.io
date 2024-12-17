@@ -2,7 +2,7 @@
 title: 'Fundamental Flowers: Evolutionary Discovery of Coresets for Classification'
 date: '2019-01-01'
 draft: true
-publishDate: '2024-12-17T15:41:57.219696Z'
+publishDate: '2024-12-17T17:20:14.026058Z'
 authors:
 - Pietro Barbiero
 - Alberto Tonda

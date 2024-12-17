@@ -2,7 +2,7 @@
 title: Discovering Hierarchical Neural Archetype Sets
 date: '2020-07-01'
 draft: true
-publishDate: '2024-12-17T15:41:58.687965Z'
+publishDate: '2024-12-17T17:20:15.280732Z'
 authors:
 - Gabriele Ciravegna
 - Pietro Barbiero

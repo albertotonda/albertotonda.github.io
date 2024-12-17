@@ -2,7 +2,7 @@
 title: Post-silicon failing-test generation through evolutionary computation
 date: '2011-10-01'
 draft: true
-publishDate: '2024-12-17T15:41:45.707134Z'
+publishDate: '2024-12-17T17:20:02.728482Z'
 authors:
 - Ernesto Sanchez
 - Giovanni Squillero

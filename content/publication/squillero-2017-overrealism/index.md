@@ -4,7 +4,7 @@ title: '(Over-)Realism in evolutionary computation: Commentary on “On the Mapp
   Dick,  and James Maclaurin'
 date: '2017-02-01'
 draft: true
-publishDate: '2024-12-17T15:42:10.954624Z'
+publishDate: '2024-12-17T17:20:25.106779Z'
 authors:
 - G. Squillero
 - A. Tonda

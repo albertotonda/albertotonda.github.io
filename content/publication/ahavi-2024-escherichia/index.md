@@ -9,7 +9,7 @@ authors:
 - Jean-Loup Faulon
 - Alberto Tonda
 date: '2024-06-01'
-publishDate: '2024-12-17T15:41:39.876308Z'
+publishDate: '2024-12-17T17:19:57.295077Z'
 publication_types:
 - '1'
 publication: '*Workshop on AI Methods and Models for (Bio)Catalysis and Synthetic

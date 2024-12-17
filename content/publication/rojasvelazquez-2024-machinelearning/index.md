@@ -2,7 +2,7 @@
 title: 'Machine-Learning Analysis of mRNA: An Application to Inflammatory Bowel Disease'
 date: '2024-01-01'
 draft: true
-publishDate: '2024-12-17T15:42:06.748674Z'
+publishDate: '2024-12-17T17:20:21.886142Z'
 authors:
 - David Rojas-Velazquez
 - Sarah Kidwai

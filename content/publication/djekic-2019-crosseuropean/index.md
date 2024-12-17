@@ -2,7 +2,7 @@
 title: Cross-European Initial Survey on the Use of Mathematical Models in Food Industry
 date: '2019-11-01'
 draft: true
-publishDate: '2024-12-17T15:42:14.957437Z'
+publishDate: '2024-12-17T17:20:28.134209Z'
 authors:
 - Ilija Djekic
 - Alen Mujčinović

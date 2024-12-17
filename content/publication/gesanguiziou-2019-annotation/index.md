@@ -3,7 +3,7 @@ title: 'Annotation Data About Multi Criteria Assessment Methods Used in the Agri
   Research: The French National Institute for Agricultural Research (INRA) Experience'
 date: '2019-08-01'
 draft: true
-publishDate: '2024-12-17T15:42:15.758971Z'
+publishDate: '2024-12-17T17:20:28.673711Z'
 authors:
 - Geneviève Gésan-Guiziou
 - Aude Alaphilippe

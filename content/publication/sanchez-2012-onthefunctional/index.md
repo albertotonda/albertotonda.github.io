@@ -3,7 +3,7 @@ title: On the Functional Test of Branch Prediction Units Based on the Branch His
   Table Architecture
 date: '2012-01-01'
 draft: true
-publishDate: '2024-12-17T15:41:40.945025Z'
+publishDate: '2024-12-17T17:19:58.347538Z'
 authors:
 - Ernesto Sanchez
 - Matteo Sonza Reorda

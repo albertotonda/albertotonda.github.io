@@ -3,7 +3,7 @@ title: Environmental impact potential of insect production chains for food and f
   in Europe
 date: '2023-08-01'
 draft: true
-publishDate: '2024-12-17T15:42:23.270111Z'
+publishDate: '2024-12-17T17:20:32.876995Z'
 authors:
 - Sergiy Smetana
 - Anita Bhatia

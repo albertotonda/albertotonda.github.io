@@ -2,7 +2,7 @@
 title: Automatic Generation of On-Line Test Programs through a Cooperation Scheme
 date: '2012-12-01'
 draft: true
-publishDate: '2024-12-17T15:41:46.857308Z'
+publishDate: '2024-12-17T17:20:03.821245Z'
 authors:
 - Lyl Mercedes Ciganda
 - Marco Gaudesi

@@ -2,7 +2,7 @@
 title: Design of specific primer sets for SARS-CoV-2 variants using evolutionary algorithms
 date: '2021-06-01'
 draft: true
-publishDate: '2024-12-17T15:42:01.652972Z'
+publishDate: '2024-12-17T17:20:17.759530Z'
 authors:
 - Alejandro Lopez Rincon
 - Carmina A. Perez Romero

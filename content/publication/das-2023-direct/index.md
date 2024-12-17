@@ -3,7 +3,7 @@ title: Direct Comparative Analysis of Nature-Inspired Optimization Algorithms on
   Detection Problem in Social Networks
 date: '2023-01-01'
 draft: true
-publishDate: '2024-12-17T15:42:03.420512Z'
+publishDate: '2024-12-17T17:20:19.204123Z'
 authors:
 - Soumita Das
 - Bijita Singha

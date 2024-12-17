@@ -2,7 +2,7 @@
 title: Interactive Machine Learning for Applications in Food Science
 date: '2018-01-01'
 draft: true
-publishDate: '2024-12-17T15:41:41.237650Z'
+publishDate: '2024-12-17T17:19:58.630717Z'
 authors:
 - Alberto Tonda
 - Nadia Boukhelifa

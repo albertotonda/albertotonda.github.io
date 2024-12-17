@@ -2,7 +2,7 @@
 title: Trade-offs and Synergies Between Livestock Production and Other Ecosystem Services
 date: '2019-01-01'
 draft: true
-publishDate: '2024-12-17T15:42:13.757044Z'
+publishDate: '2024-12-17T17:20:27.255569Z'
 authors:
 - Francesco Accatino
 - Alberto Tonda

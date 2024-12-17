@@ -9,7 +9,7 @@ authors:
 - Giovanni Squillero
 - Alberto Tonda
 date: '2011-01-01'
-publishDate: '2024-12-17T15:41:39.080673Z'
+publishDate: '2024-12-17T17:19:56.342446Z'
 publication_types:
 - '1'
 publication: '*Proceedings of the International Bionic Engineering Conference*'

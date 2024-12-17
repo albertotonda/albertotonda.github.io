@@ -3,7 +3,7 @@ title: Modeling Competition Phenomena in a Dairy Oil-in-water Emulsion Using Hyb
   Kinetic Monte Carlo Simulations
 date: '2015-01-01'
 draft: true
-publishDate: '2024-12-17T15:41:50.122521Z'
+publishDate: '2024-12-17T17:20:07.199802Z'
 authors:
 - Etienne Descamps
 - Alberto Tonda

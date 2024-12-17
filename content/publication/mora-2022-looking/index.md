@@ -2,7 +2,7 @@
 title: 'Looking for Archetypes: Applying Game Data Mining to Hearthstone Decks'
 date: '2022-05-01'
 draft: true
-publishDate: '2024-12-17T15:42:20.737480Z'
+publishDate: '2024-12-17T17:20:31.589438Z'
 authors:
 - Antonio M. Mora
 - Alberto Tonda

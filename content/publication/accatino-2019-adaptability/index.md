@@ -3,7 +3,7 @@ title: The Adaptability of an Extensive Cattle Beef Farming System to Contrasted
   Preferences - Coupling Multi-Objective Analysis and a Participatory Approach
 date: '2019-01-01'
 draft: true
-publishDate: '2024-12-17T15:41:38.449903Z'
+publishDate: '2024-12-17T17:19:55.728376Z'
 authors:
 - Francesco Accatino
 - Delphine Neumeister

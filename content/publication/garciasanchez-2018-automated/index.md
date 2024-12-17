@@ -3,7 +3,7 @@ title: 'Automated Playtesting in Collectible Card Games Using Evolutionary Algor
   A Case Study in HearthStone'
 date: '2018-08-01'
 draft: true
-publishDate: '2024-12-17T15:42:12.991434Z'
+publishDate: '2024-12-17T17:20:26.584317Z'
 authors:
 - Pablo García-Sánchez
 - Alberto Tonda

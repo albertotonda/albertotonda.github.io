@@ -2,7 +2,7 @@
 title: Towards Multi-Objective Optimization of Sustainable Insect Production Chains
 date: '2022-01-01'
 draft: true
-publishDate: '2024-12-17T15:42:01.922358Z'
+publishDate: '2024-12-17T17:20:18.003762Z'
 authors:
 - Nisrine Mouhrim
 - Sergiy Smetana

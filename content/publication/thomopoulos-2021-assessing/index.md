@@ -3,7 +3,7 @@ title: Assessing Trends on Consumption of Animal Products Through a Machine Lear
   Analysis of Consumer Motivations
 date: '2021-01-01'
 draft: true
-publishDate: '2024-12-17T15:41:39.359535Z'
+publishDate: '2024-12-17T17:19:56.757128Z'
 authors:
 - Rallou Thomopoulos
 - Nicolas Salliou

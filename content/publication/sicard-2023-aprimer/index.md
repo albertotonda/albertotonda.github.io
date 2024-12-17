@@ -3,7 +3,7 @@ title: A primer on predictive techniques for food and bioresources transformatio
   processes
 date: '2023-03-01'
 draft: true
-publishDate: '2024-12-17T15:42:22.248185Z'
+publishDate: '2024-12-17T17:20:32.350434Z'
 authors:
 - Jason Sicard
 - Sophie Barbe

@@ -3,7 +3,7 @@ title: 'In Vitro and In Silico Modelling of Protein Hydrolysis by Pepsin: A Case
   with Lactoferrin'
 date: '2015-01-01'
 draft: true
-publishDate: '2024-12-17T15:41:50.380836Z'
+publishDate: '2024-12-17T17:20:07.464205Z'
 authors:
 - Anita Grosvenor
 - Alberto Tonda

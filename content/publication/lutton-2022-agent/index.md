@@ -2,7 +2,7 @@
 title: Agent-based Modelling of Enzymatic Digestion Using Experimental Data
 date: '2022-07-01'
 draft: true
-publishDate: '2024-12-17T15:41:39.632391Z'
+publishDate: '2024-12-17T17:19:57.013331Z'
 authors:
 - Evelyne Lutton
 - Beichen Ji

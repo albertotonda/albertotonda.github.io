@@ -2,7 +2,7 @@
 title: 'Complex systems in food science: Human factor issues'
 date: '2016-04-01'
 draft: true
-publishDate: '2024-12-17T15:41:05.948239Z'
+publishDate: '2024-12-17T17:19:22.465608Z'
 authors:
 - Evelyne Lutton
 - Alberto Tonda

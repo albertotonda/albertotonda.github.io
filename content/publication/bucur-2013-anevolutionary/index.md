@@ -3,7 +3,7 @@ title: An Evolutionary Framework for Routing Protocol Analysis in Wireless Senso
   Networks
 date: '2013-01-01'
 draft: true
-publishDate: '2024-12-17T15:41:47.680827Z'
+publishDate: '2024-12-17T17:20:04.623669Z'
 authors:
 - Doina Bucur
 - Giovanni Iacca

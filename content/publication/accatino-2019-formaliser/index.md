@@ -2,7 +2,7 @@
 title: Formaliser la Durabilité des Paysages Agricoles Comme un Problème Multi-objectif
 date: '2019-01-01'
 draft: true
-publishDate: '2024-12-17T15:41:41.565936Z'
+publishDate: '2024-12-17T17:19:58.893846Z'
 authors:
 - Francesco Accatino
 - Alberto Tonda

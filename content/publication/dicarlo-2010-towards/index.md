@@ -2,7 +2,7 @@
 title: Towards drift correction in chemical sensors using an evolutionary strategy
 date: '2010-01-01'
 draft: true
-publishDate: '2024-12-17T15:41:43.209932Z'
+publishDate: '2024-12-17T17:20:00.475395Z'
 authors:
 - Stefano Di Carlo
 - Ernesto Sanchez

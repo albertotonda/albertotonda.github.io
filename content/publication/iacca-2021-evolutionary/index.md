@@ -2,7 +2,7 @@
 title: An Evolutionary Framework for Maximizing Influence Propagation in Social Networks
 date: '2021-07-01'
 draft: true
-publishDate: '2024-12-17T15:42:19.769832Z'
+publishDate: '2024-12-17T17:20:31.103131Z'
 authors:
 - Giovanni Iacca
 - Kateryna Konotopska

@@ -2,7 +2,7 @@
 title: Interactive evolutionary modelling of living complex food systems
 date: '2017-07-01'
 draft: true
-publishDate: '2024-12-17T15:41:54.421909Z'
+publishDate: '2024-12-17T17:20:11.457769Z'
 authors:
 - Thomas Chabin
 - Marc Barnabé

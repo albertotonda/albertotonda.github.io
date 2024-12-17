@@ -3,7 +3,7 @@ title: Scientific Challenges in Performing Life-Cycle Assessment in the Food Sup
   Chain
 date: '2019-08-01'
 draft: true
-publishDate: '2024-12-17T15:42:16.239305Z'
+publishDate: '2024-12-17T17:20:29.025340Z'
 authors:
 - Ilija Djekic
 - Milica Pojić

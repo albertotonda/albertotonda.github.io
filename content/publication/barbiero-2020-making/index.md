@@ -2,7 +2,7 @@
 title: Making Sense of Economics Datasets with Evolutionary Coresets
 date: '2020-01-01'
 draft: true
-publishDate: '2024-12-17T15:41:57.765853Z'
+publishDate: '2024-12-17T17:20:14.527773Z'
 authors:
 - Pietro Barbiero
 - Alberto Tonda

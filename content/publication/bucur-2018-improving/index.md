@@ -2,7 +2,7 @@
 title: Improving Multi-objective Evolutionary Influence Maximization in Social Networks
 date: '2018-01-01'
 draft: true
-publishDate: '2024-12-17T15:41:55.224710Z'
+publishDate: '2024-12-17T17:20:12.233064Z'
 authors:
 - Doina Bucur
 - Giovanni Iacca

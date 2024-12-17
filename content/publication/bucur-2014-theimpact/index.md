@@ -3,7 +3,7 @@ title: 'The impact of topology on energy consumption for collection tree protoco
   An experimental assessment through evolutionary computation'
 date: '2014-03-01'
 draft: true
-publishDate: '2024-12-17T15:42:08.693809Z'
+publishDate: '2024-12-17T17:20:23.366876Z'
 authors:
 - Doina Bucur
 - Giovanni Iacca

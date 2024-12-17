@@ -2,7 +2,7 @@
 title: Evolution of Test Programs Exploiting a FSM Processor Model
 date: '2011-01-01'
 draft: true
-publishDate: '2024-12-17T15:41:44.894010Z'
+publishDate: '2024-12-17T17:20:01.951191Z'
 authors:
 - Ernesto Sanchez
 - Giovanni Squillero

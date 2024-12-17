@@ -2,7 +2,7 @@
 title: Operator Selection using Improved Dynamic Multi-Armed Bandit
 date: '2015-01-01'
 draft: true
-publishDate: '2024-12-17T15:41:51.178534Z'
+publishDate: '2024-12-17T17:20:08.262940Z'
 authors:
 - Jany Belluz
 - Marco Gaudesi

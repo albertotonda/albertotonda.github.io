@@ -3,7 +3,7 @@ title: The tradeoffs between data delivery ratio and energy costs in wireless se
   networks
 date: '2014-01-01'
 draft: true
-publishDate: '2024-12-17T15:41:49.597245Z'
+publishDate: '2024-12-17T17:20:06.663591Z'
 authors:
 - Doina Bucur
 - Giovanni Iacca

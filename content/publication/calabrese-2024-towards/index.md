@@ -3,7 +3,7 @@ title: Towards an Evolutionary Approach for Exploting Core Knowledge in Artifici
   Intelligence
 date: '2024-01-01'
 draft: true
-publishDate: '2024-12-17T15:42:05.236513Z'
+publishDate: '2024-12-17T17:20:20.658309Z'
 authors:
 - Andrea Calabrese
 - Stefano Quer

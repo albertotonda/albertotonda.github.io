@@ -2,3 +2,4 @@
 /.vs
 .hugo_build.lock
 /.local/content
+.local/log.log

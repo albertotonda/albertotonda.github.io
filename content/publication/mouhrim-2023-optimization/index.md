@@ -2,7 +2,7 @@
 title: Optimization models for sustainable insect production chains
 date: '2023-11-01'
 draft: true
-publishDate: '2024-12-17T15:42:26.303716Z'
+publishDate: '2024-12-17T17:20:34.409724Z'
 authors:
 - N. Mouhrim
 - D.A. Peguero

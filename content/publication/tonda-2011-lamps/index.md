@@ -2,7 +2,7 @@
 title: 'Lamps: A Test Problem for Cooperative Coevolution'
 date: '2011-01-01'
 draft: true
-publishDate: '2024-12-17T15:41:45.968243Z'
+publishDate: '2024-12-17T17:20:03.049257Z'
 authors:
 - Alberto Tonda
 - Evelyne Lutton

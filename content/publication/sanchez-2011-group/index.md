@@ -2,7 +2,7 @@
 title: 'Group evolution: Emerging synergy through a coordinated effort'
 date: '2011-06-01'
 draft: true
-publishDate: '2024-12-17T15:41:44.635195Z'
+publishDate: '2024-12-17T17:20:01.706521Z'
 authors:
 - Ernesto Sanchez
 - Giovanni Squillero

@@ -3,7 +3,7 @@ title: Two Complementary Methods for the Computational Modeling of Cleaning Proc
   in Food Industry
 date: '2020-04-01'
 draft: true
-publishDate: '2024-12-17T15:42:17.739717Z'
+publishDate: '2024-12-17T17:20:30.040408Z'
 authors:
 - Hannes Deponte
 - Alberto Tonda

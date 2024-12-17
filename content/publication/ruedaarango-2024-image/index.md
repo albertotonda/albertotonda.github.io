@@ -2,7 +2,7 @@
 title: Image Generation with Interactive Evolutionary System using Bayesian Optimization
 date: '2024-01-01'
 draft: true
-publishDate: '2024-12-17T15:42:06.448808Z'
+publishDate: '2024-12-17T17:20:21.638479Z'
 authors:
 - Y. Dianey Rueda-Arango
 - David Rojas-Velazquez

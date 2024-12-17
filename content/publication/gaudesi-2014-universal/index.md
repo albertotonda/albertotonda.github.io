@@ -2,7 +2,7 @@
 title: Universal information distance for genetic programming
 date: '2014-01-01'
 draft: true
-publishDate: '2024-12-17T15:41:49.255625Z'
+publishDate: '2024-12-17T17:20:06.406390Z'
 authors:
 - Marco Gaudesi
 - Giovanni Squillero

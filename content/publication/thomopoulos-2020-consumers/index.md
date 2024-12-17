@@ -3,7 +3,7 @@ title: "Consumers' Motivations towards Environment-Friendly Dietary Changes: An 
   \ of Trends Related to the Consumption of Animal Products"
 date: '2020-01-01'
 draft: true
-publishDate: '2024-12-17T15:41:41.838622Z'
+publishDate: '2024-12-17T17:19:59.169842Z'
 authors:
 - Rallou Thomopoulos
 - Nicolas Salliou

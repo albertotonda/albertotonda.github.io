@@ -2,7 +2,7 @@
 title: Multi-Objective Optimization for Large-scale Allocation of Soybean Crops
 date: '2024-01-01'
 draft: true
-publishDate: '2024-12-17T15:42:05.479082Z'
+publishDate: '2024-12-17T17:20:20.896566Z'
 authors:
 - Mathilde Chen
 - David Makowski

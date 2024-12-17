@@ -3,7 +3,7 @@ title: Review on environmental models in the food chain - Current status and fut
   perspectives
 date: '2018-03-01'
 draft: true
-publishDate: '2024-12-17T15:42:12.283022Z'
+publishDate: '2024-12-17T17:20:26.084754Z'
 authors:
 - Ilija Djekic
 - Neus Sanjuán

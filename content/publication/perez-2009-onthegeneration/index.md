@@ -2,7 +2,7 @@
 title: On the Generation of Functional Test Programs for the Cache Replacement Logic
 date: '2009-01-01'
 draft: true
-publishDate: '2024-12-17T15:41:42.685819Z'
+publishDate: '2024-12-17T17:19:59.951134Z'
 authors:
 - W. J. Perez H.
 - Danilo Ravotto

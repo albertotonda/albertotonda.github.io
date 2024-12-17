@@ -2,7 +2,7 @@
 title: A Long-Short-Term Memory Network Model for Biscuit Baking
 date: '2018-01-01'
 draft: true
-publishDate: '2024-12-17T15:41:55.472728Z'
+publishDate: '2024-12-17T17:20:12.494365Z'
 authors:
 - Alberto Tonda
 - Nathalie Méjean-Perrot

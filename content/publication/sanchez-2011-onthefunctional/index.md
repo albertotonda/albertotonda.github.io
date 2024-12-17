@@ -2,7 +2,7 @@
 title: On the functional test of Branch Prediction Units based on Branch History Table
 date: '2011-10-01'
 draft: true
-publishDate: '2024-12-17T15:41:45.433379Z'
+publishDate: '2024-12-17T17:20:02.475026Z'
 authors:
 - Ernesto Sanchez
 - Matteo Sonza Reorda

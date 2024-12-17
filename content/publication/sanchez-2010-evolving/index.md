@@ -2,7 +2,7 @@
 title: Evolving Individual Behavior in a Multi-agent Traffic Simulator
 date: '2010-01-01'
 draft: true
-publishDate: '2024-12-17T15:41:43.466814Z'
+publishDate: '2024-12-17T17:20:00.713711Z'
 authors:
 - Ernesto Sanchez
 - Giovanni Squillero

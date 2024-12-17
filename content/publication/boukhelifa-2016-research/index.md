@@ -3,7 +3,7 @@ title: Research Prospects in the Design and Evaluation of Interactive Evolutiona
   Systems for Art and Science
 date: '2016-01-01'
 draft: true
-publishDate: '2024-12-17T15:41:52.474509Z'
+publishDate: '2024-12-17T17:20:09.630942Z'
 authors:
 - Nadia Boukhelifa
 - Anastasia Bezerianos

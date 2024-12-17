@@ -2,7 +2,7 @@
 title: Functional Verification of DMA Controllers
 date: '2011-04-01'
 draft: true
-publishDate: '2024-12-17T15:42:07.289365Z'
+publishDate: '2024-12-17T17:20:22.383668Z'
 authors:
 - Michelangelo Grosso
 - Wilson Javier Perez Holguin

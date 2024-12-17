@@ -2,7 +2,7 @@
 title: 'FoodMC: A European COST Action on Food Modelling'
 date: '2016-04-01'
 draft: true
-publishDate: '2024-12-17T15:41:52.233943Z'
+publishDate: '2024-12-17T17:20:09.352737Z'
 authors:
 - Alberto Tonda
 publication_types:

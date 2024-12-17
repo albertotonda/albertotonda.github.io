@@ -2,7 +2,7 @@
 title: A benchmark for cooperative coevolution
 date: '2012-11-01'
 draft: true
-publishDate: '2024-12-17T15:42:08.261836Z'
+publishDate: '2024-12-17T17:20:23.127517Z'
 authors:
 - Alberto Tonda
 - Evelyne Lutton

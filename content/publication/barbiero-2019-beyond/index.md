@@ -2,7 +2,7 @@
 title: Beyond coreset discovery
 date: '2019-07-01'
 draft: true
-publishDate: '2024-12-17T15:41:58.138081Z'
+publishDate: '2024-12-17T17:20:14.779725Z'
 authors:
 - Pietro Barbiero
 - Giovanni Squillero

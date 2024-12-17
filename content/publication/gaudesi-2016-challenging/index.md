@@ -2,7 +2,7 @@
 title: Challenging Anti-virus Through Evolutionary Malware Obfuscation
 date: '2016-01-01'
 draft: true
-publishDate: '2024-12-17T15:41:53.109906Z'
+publishDate: '2024-12-17T17:20:10.154740Z'
 authors:
 - Marco Gaudesi
 - Andrea Marcelli

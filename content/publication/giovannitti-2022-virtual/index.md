@@ -2,7 +2,7 @@
 title: A Virtual Sensor for Backlash in Robotic Manipulators
 date: '2022-04-01'
 draft: true
-publishDate: '2024-12-17T15:42:21.268634Z'
+publishDate: '2024-12-17T17:20:31.839450Z'
 authors:
 - Eliana Giovannitti
 - Sayyidshahab Nabavi

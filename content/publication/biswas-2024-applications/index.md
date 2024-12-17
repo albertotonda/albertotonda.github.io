@@ -2,7 +2,7 @@
 title: Applications of Nature-Inspired Computing and Optimization Techniques
 date: '2024-04-01'
 draft: true
-publishDate: '2024-12-17T15:41:40.689790Z'
+publishDate: '2024-12-17T17:19:58.066490Z'
 authors:
 - Anupam Biswas
 - Alberto Tonda

@@ -2,7 +2,7 @@
 title: 'Categorical Foundation of Explainable AI: A Unifying Theory'
 date: '2024-01-01'
 draft: true
-publishDate: '2024-12-17T15:42:06.204374Z'
+publishDate: '2024-12-17T17:20:21.387665Z'
 authors:
 - Francesco Giannini
 - Stefano Fioravanti
