@@ -11,6 +11,10 @@ log properly when ran from command line, and I need to understand what is going 
 import logging
 import os
 
+# this part here is a cut/paste/modify of import_bibtex from 'academic'
+# I had to port it here and modify it because YAML added an extra tag to
+# the 'index.md' pages, 'draft', and by default it is set to True, which makes
+# all pages unreadable by hugo websites (...)
 from academic.import_bibtex import import_bibtex
 
 logging.basicConfig(
@@ -40,7 +44,7 @@ if __name__ == "__main__" :
     
     bibtex_file = "publications.bib"
     output_folder = "content/publication/"
-    work_locally = False
+    work_locally = True
     
     # change working directory (the script has some issues if the target
     # directory is not exactly "content/publication" from working directory)

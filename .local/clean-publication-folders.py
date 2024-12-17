@@ -29,7 +29,7 @@ if __name__ == "__main__" :
             ]
         
         if len(other_files) > 0 :
-            print("Found a PDF in folder \"%s\"!" % d)
+            print("Found another file in folder \"%s\", it won't be deleted!" % d)
         else :
             # remove the directory
             shutil.rmtree(d, ignore_errors=True)

@@ -1,67 +1,43 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Deep Learning | Alberto Tonda</title>
-    <link>http://localhost:1313/tags/deep-learning/</link>
-      <atom:link href="http://localhost:1313/tags/deep-learning/index.xml" rel="self" type="application/rss+xml" />
-    <description>Deep Learning</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>http://localhost:1313/media/icon_hu13064559619334802728.png</url>
-      <title>Deep Learning</title>
-      <link>http://localhost:1313/tags/deep-learning/</link>
-    </image>
-    
-    <item>
-      <title>Deep learning in practice with pytorch</title>
-      <link>http://localhost:1313/teaching/deep-learning-in-practice-with-pytorch/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/teaching/deep-learning-in-practice-with-pytorch/</guid>
-      <description>&lt;p&gt;The aim of this class is to provide students with a hands-on approach to deep learning, exploring functionalities of the pytorch library. Different applications of deep learning to relational data such as images and time sequences will presented, including the description of architectures like convolutional neural networks, recurrent neural networks, autoencoders, and transformers.&lt;/p&gt;
-&lt;h2 id=&#34;summary-of-basic-machine-learning-concepts&#34;&gt;Summary of basic Machine Learning concepts&lt;/h2&gt;
-&lt;p&gt;The first session is an introduction to the class and a (relatively quick) summary of basic machine learning concepts that will be extensively used in the following.&lt;/p&gt;
-&lt;p&gt;Google Colaboratory notebook with exercises: (requires a Google account): 
-&lt;/p&gt;
-&lt;h2 id=&#34;basics-of-pytorch&#34;&gt;Basics of pytorch&lt;/h2&gt;
-&lt;p&gt;Introduction to basic concepts of pytorch. Tensors, Modules, Optimizers, Loss functions.&lt;/p&gt;
-&lt;p&gt;Google Colaboratory notebook with exercises: 
-&lt;/p&gt;
-&lt;h2 id=&#34;intermediate-pytorch-concepts&#34;&gt;Intermediate pytorch concepts&lt;/h2&gt;
-&lt;p&gt;Slightly more advanced pytorch concepts. Monitoring training performance, using Tensorboard, Stochastic gradient descent and derived techniques, Schedulers, Activation functions, Checkpointing.&lt;/p&gt;
-&lt;p&gt;Google Colaboratory notebook with exercises: 
-&lt;/p&gt;
-&lt;h2 id=&#34;convolutional-neural-networks&#34;&gt;Convolutional neural networks&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;Basics of Convolutional Neural Networks (CNNs): convolution, pooling, architectures, applications.&lt;/li&gt;
-&lt;li&gt;An example applied to RNA/cDNA for classification.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;Google Colaboratory notebook with exercises on CNNs: 
-&lt;/p&gt;
-&lt;h2 id=&#34;regularization-and-remarks&#34;&gt;Regularization and remarks&lt;/h2&gt;
-&lt;p&gt;Quick excerpt on regularization techniques and a first set of remarks on Deep Learning&lt;/p&gt;
-&lt;h2 id=&#34;visualization-techniques-for-cnns&#34;&gt;Visualization techniques for CNNs&lt;/h2&gt;
-&lt;p&gt;An overview of visualization techniques for CNNs.&lt;/p&gt;
-&lt;p&gt;Colaboratory notebook with exercises: 
-&lt;/p&gt;
-&lt;h2 id=&#34;embeddings&#34;&gt;Embeddings&lt;/h2&gt;
-&lt;p&gt;Basic notions of embeddings: what they are, and how to create them. Example of word embeddings with Word2Vec.&lt;/p&gt;
-&lt;h2 id=&#34;recurrent-neural-networks&#34;&gt;Recurrent neural networks&lt;/h2&gt;
-&lt;p&gt;Recurrent Neural Networks (RNNs) and more modern architectures, such as Long-Short-Term Memory Networks (LSTMs) and Gated Recurrent Units (GRUs).&lt;/p&gt;
-&lt;p&gt;Colaboratory notebook: 
-&lt;/p&gt;
-&lt;h2 id=&#34;sequence-to-sequence&#34;&gt;Sequence to sequence&lt;/h2&gt;
-&lt;p&gt;Introduction to the seq2seq architecture.&lt;/p&gt;
-&lt;p&gt;Colaboratory notebook with exercises: 
-&lt;/p&gt;
-&lt;h2 id=&#34;attention-and-transformers&#34;&gt;Attention and Transformers&lt;/h2&gt;
-&lt;p&gt;Attention module and Transformer architectures.&lt;/p&gt;
-&lt;h2 id=&#34;concept-bottleneck-models&#34;&gt;Concept bottleneck models&lt;/h2&gt;
-&lt;p&gt;Introduction to Concept Bottleneck Models and Concept Embedding Models.&lt;/p&gt;
-&lt;h2 id=&#34;relational-concept-bottleneck-models&#34;&gt;Relational concept bottleneck models&lt;/h2&gt;
-&lt;p&gt;Advanced seminar on relational concept bottleneck models, given by 
-.&lt;/p&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Deep Learning | Alberto Tonda</title><link>https://albertotonda.github.io/tags/deep-learning/</link><atom:link href="https://albertotonda.github.io/tags/deep-learning/index.xml" rel="self" type="application/rss+xml"/><description>Deep Learning</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate><image><url>https://albertotonda.github.io/media/icon_hu13064559619334802728.png</url><title>Deep Learning</title><link>https://albertotonda.github.io/tags/deep-learning/</link></image><item><title>Deep learning in practice with pytorch</title><link>https://albertotonda.github.io/teaching/deep-learning-in-practice-with-pytorch/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://albertotonda.github.io/teaching/deep-learning-in-practice-with-pytorch/</guid><description>&lt;p>The aim of this class is to provide students with a hands-on approach to deep learning, exploring functionalities of the pytorch library. Different applications of deep learning to relational data such as images and time sequences will presented, including the description of architectures like convolutional neural networks, recurrent neural networks, autoencoders, and transformers.&lt;/p>
+&lt;h2 id="summary-of-basic-machine-learning-concepts">Summary of basic Machine Learning concepts&lt;/h2>
+&lt;p>The first session is an introduction to the class and a (relatively quick) summary of basic machine learning concepts that will be extensively used in the following.&lt;/p>
+&lt;p>Google Colaboratory notebook with exercises: (requires a Google account):
+&lt;/p>
+&lt;h2 id="basics-of-pytorch">Basics of pytorch&lt;/h2>
+&lt;p>Introduction to basic concepts of pytorch. Tensors, Modules, Optimizers, Loss functions.&lt;/p>
+&lt;p>Google Colaboratory notebook with exercises:
+&lt;/p>
+&lt;h2 id="intermediate-pytorch-concepts">Intermediate pytorch concepts&lt;/h2>
+&lt;p>Slightly more advanced pytorch concepts. Monitoring training performance, using Tensorboard, Stochastic gradient descent and derived techniques, Schedulers, Activation functions, Checkpointing.&lt;/p>
+&lt;p>Google Colaboratory notebook with exercises:
+&lt;/p>
+&lt;h2 id="convolutional-neural-networks">Convolutional neural networks&lt;/h2>
+&lt;ol>
+&lt;li>Basics of Convolutional Neural Networks (CNNs): convolution, pooling, architectures, applications.&lt;/li>
+&lt;li>An example applied to RNA/cDNA for classification.&lt;/li>
+&lt;/ol>
+&lt;p>Google Colaboratory notebook with exercises on CNNs:
+&lt;/p>
+&lt;h2 id="regularization-and-remarks">Regularization and remarks&lt;/h2>
+&lt;p>Quick excerpt on regularization techniques and a first set of remarks on Deep Learning&lt;/p>
+&lt;h2 id="visualization-techniques-for-cnns">Visualization techniques for CNNs&lt;/h2>
+&lt;p>An overview of visualization techniques for CNNs.&lt;/p>
+&lt;p>Colaboratory notebook with exercises:
+&lt;/p>
+&lt;h2 id="embeddings">Embeddings&lt;/h2>
+&lt;p>Basic notions of embeddings: what they are, and how to create them. Example of word embeddings with Word2Vec.&lt;/p>
+&lt;h2 id="recurrent-neural-networks">Recurrent neural networks&lt;/h2>
+&lt;p>Recurrent Neural Networks (RNNs) and more modern architectures, such as Long-Short-Term Memory Networks (LSTMs) and Gated Recurrent Units (GRUs).&lt;/p>
+&lt;p>Colaboratory notebook:
+&lt;/p>
+&lt;h2 id="sequence-to-sequence">Sequence to sequence&lt;/h2>
+&lt;p>Introduction to the seq2seq architecture.&lt;/p>
+&lt;p>Colaboratory notebook with exercises:
+&lt;/p>
+&lt;h2 id="attention-and-transformers">Attention and Transformers&lt;/h2>
+&lt;p>Attention module and Transformer architectures.&lt;/p>
+&lt;h2 id="concept-bottleneck-models">Concept bottleneck models&lt;/h2>
+&lt;p>Introduction to Concept Bottleneck Models and Concept Embedding Models.&lt;/p>
+&lt;h2 id="relational-concept-bottleneck-models">Relational concept bottleneck models&lt;/h2>
+&lt;p>Advanced seminar on relational concept bottleneck models, given by
+.&lt;/p></description></item></channel></rss>
