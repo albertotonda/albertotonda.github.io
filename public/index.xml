@@ -37,21 +37,6 @@
     </item>
     
     <item>
-      <title>AI in gaming</title>
-      <link>http://localhost:1313/research/ai-games/</link>
-      <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/research/ai-games/</guid>
-      <description>&lt;p&gt;Since my Master, I developed an interest in AI applied to gaming. Games are an ideal benchmark for computational intelligence techniques, as creating an interesting opponent for humans requires software that is not only challenging, but also able to induce the tactics used by its adversaries. In this research line, I first worked on an AI able to model the opponent&amp;rsquo;s behavior in the iterated Prisoner&amp;rsquo;s Dilemma using EAs 
-, 
-, during my PhD co-supervision of Marco Gaudesi. I then tackled the automatic development of bots for the real-time strategy game StarCraft 
-, submitting the first participant to the Student StarCraft AI Competition being entirely designed by another algorithm. A few years ago I started an ongoing project on developing competitive AIs for HearthStone, a collectible card game played online 
-, 
-, 
-. In the scope of these activities, since 2017 I have been co-chairing the session dedicated to games in the EvoSTAR conference.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Invited talk on program synthesis</title>
       <link>http://localhost:1313/post/2024-11-25-irisa/</link>
       <pubDate>Mon, 25 Nov 2024 00:00:00 +0000</pubDate>
@@ -508,7 +493,7 @@
 
 
 
-&lt;div id=&#34;chart-598647321&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-567194283&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -526,7 +511,7 @@
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-598647321&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-567194283&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -1379,8 +1364,7 @@ Parallel 4   :         des6, after des4, 1d
       <guid>http://localhost:1313/post/2022-06-03-encals/</guid>
       <description>&lt;p&gt;On June 3rd, 2022, I had the pleasure of giving an invited talk at the first Non-Coding RNA in Motor Neuron Diseases (MND) and Amyothropic Lateral Sclerosis (ALS) International Symposium, a side event of the 
  in Edinburgh, Scotland, UK.&lt;/p&gt;
-&lt;p&gt;The subject of my talk was feature selection of microRNA biomarkers to help machine learning robustly classifying diseases. The application I presented is cancer classification, based on a 
-. The technique proposed in the study, Recursive Ensemble Feature Selection, can in principle be applied to datasets from other diseases, and during the symposium we discussed the possibility of applying it to an ALS dataset.&lt;/p&gt;
+&lt;p&gt;The subject of my talk was feature selection of microRNA biomarkers to help machine learning robustly classifying diseases. The application I presented is cancer classification, based on a 2020 work in cooperation with Alejandro Lopez-Rincon and several other authors&lt;!-- [2020 work in cooperation with Alejandro Lopez-Rincon and several other authors](/publication/lopezrincon-2020-machine/)--&gt;. The technique proposed in the study, Recursive Ensemble Feature Selection, can in principle be applied to datasets from other diseases, and during the symposium we discussed the possibility of applying it to an ALS dataset.&lt;/p&gt;
 &lt;p&gt;I would like to thank all the ENCALS organizing committee, and in particular 
 , for the kind invite and the productive interactions.&lt;/p&gt;
 </description>
