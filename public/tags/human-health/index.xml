@@ -1,31 +1,7 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Human Health | Alberto Tonda</title>
-    <link>http://localhost:1313/tags/human-health/</link>
-      <atom:link href="http://localhost:1313/tags/human-health/index.xml" rel="self" type="application/rss+xml" />
-    <description>Human Health</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 11 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>http://localhost:1313/media/icon_hu13064559619334802728.png</url>
-      <title>Human Health</title>
-      <link>http://localhost:1313/tags/human-health/</link>
-    </image>
-    
-    <item>
-      <title>AI for human health</title>
-      <link>http://localhost:1313/research/health/</link>
-      <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/research/health/</guid>
-      <description>&lt;p&gt;In recent years, my research activities have branched to the application of ML and EAs to bioinformatics, thanks to a long-standing collaboration with the University of Utrecht (The Netherlands), with the recent addition of partners from the University of Cambridge (UK). The case studies I tackled include automatic discovery of micro-RNA signatures for tumors 
-, 
-, 
-, batch correction of genomic datasets 
-, and automatic primer design for viruses, with a focus on SARS-CoV-2 
-, 
-. Following these activities, I joined COST Action CA18131 \emph{Statistical and Machine Learning Techniques in Human Microbiome Studies} (2019-2023), where I am currently one of the two representatives for France in the Management Committee.&lt;/p&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Human Health | Alberto Tonda</title><link>https://albertotonda.github.io/tags/human-health/</link><atom:link href="https://albertotonda.github.io/tags/human-health/index.xml" rel="self" type="application/rss+xml"/><description>Human Health</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 11 Dec 2024 00:00:00 +0000</lastBuildDate><image><url>https://albertotonda.github.io/media/icon_hu13064559619334802728.png</url><title>Human Health</title><link>https://albertotonda.github.io/tags/human-health/</link></image><item><title>AI for human health</title><link>https://albertotonda.github.io/research/health/</link><pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate><guid>https://albertotonda.github.io/research/health/</guid><description>&lt;p>In recent years, my research activities have branched to the application of ML and EAs to bioinformatics, thanks to a long-standing collaboration with the University of Utrecht (The Netherlands), with the recent addition of partners from the University of Cambridge (UK). The case studies I tackled include automatic discovery of micro-RNA signatures for tumors
+,
+,
+, batch correction of genomic datasets
+, and automatic primer design for viruses, with a focus on SARS-CoV-2
+,
+. Following these activities, I joined COST Action CA18131 \emph{Statistical and Machine Learning Techniques in Human Microbiome Studies} (2019-2023), where I am currently one of the two representatives for France in the Management Committee.&lt;/p></description></item></channel></rss>
