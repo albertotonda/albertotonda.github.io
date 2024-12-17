@@ -1,13 +1,12 @@
 ---
 title: 'FoodMC: A European COST Action on Food Modelling'
+date: '2016-04-01'
+draft: true
+publishDate: '2024-12-17T15:41:52.233943Z'
 authors:
 - Alberto Tonda
-date: '2016-04-01'
-publishDate: '2024-12-13T18:55:57.652292Z'
 publication_types:
-- paper-conference
-publication: '*Proceedings of FoodSIM 2016, 9th bi-annual International Conference
-  on Modelling and Simulation in Food Engineering*'
+- '1'
 abstract: 'Methodologies and tools from Maths and Computer Science (MCS) are emerging
   as key contributors to modernization and optimization of processes in various disciplines:
   the agri-food sector, however, is not a traditional domain of application for MCS,
@@ -18,4 +17,8 @@ abstract: 'Methodologies and tools from Maths and Computer Science (MCS) are eme
   originating at different sub-fields of MCS, from applied mathematical models to
   knowledge engineering, this COST Action will cover two main topics: understanding
   and controlling agri-food processes; and eco-design of agri-food products.'
+featured: false
+publication: '*Proceedings of FoodSIM 2016, 9th bi-annual International Conference
+  on Modelling and Simulation in Food Engineering*'
 ---
+

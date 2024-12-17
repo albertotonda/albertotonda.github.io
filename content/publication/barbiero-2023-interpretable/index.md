@@ -1,5 +1,8 @@
 ---
 title: Interpretable Neural-Symbolic Concept Reasoning
+date: '2023-07-01'
+draft: true
+publishDate: '2024-12-17T15:42:04.267127Z'
 authors:
 - Pietro Barbiero
 - Gabriele Ciravegna
@@ -11,11 +14,8 @@ authors:
 - Frederic Precioso
 - Mateja Jamnik
 - Giuseppe Marra
-date: '2023-07-01'
-publishDate: '2024-12-13T18:55:57.946982Z'
 publication_types:
-- paper-conference
-publication: '*Proceedings of the 40th International Conference on Machine Learning*'
+- '1'
 abstract: 'Deep learning methods are highly accurate, yet their opaque decision process
   prevents them from earning full human trust. Concept-based models aim to address
   this issue by learning tasks based on a set of human-understandable concepts. However,
@@ -31,4 +31,10 @@ abstract: 'Deep learning methods are highly accurate, yet their opaque decision 
   benchmarks (ii) discovers meaningful logic rules matching known ground truths even
   in the absence of concept supervision during training, and (iii), facilitates the
   generation of counterfactual examples providing the learnt rules as guidance.'
+featured: false
+publication: '*Proceedings of the 40th International Conference on Machine Learning*'
+links:
+- name: URL
+  url: https://proceedings.mlr.press/v202/barbiero23a.html
 ---
+

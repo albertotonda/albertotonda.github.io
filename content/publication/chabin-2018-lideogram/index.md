@@ -1,5 +1,8 @@
 ---
 title: 'LIDeOGraM: An Interactive Evolutionary Modelling Tool'
+date: '2018-01-01'
+draft: true
+publishDate: '2024-12-17T15:41:54.951215Z'
 authors:
 - Thomas Chabin
 - Marc Barnabé
@@ -10,12 +13,8 @@ authors:
 - Benjamin Lemaitre
 - Nathalie Perrot
 - Evelyne Lutton
-date: '2018-01-01'
-publishDate: '2024-12-13T18:55:57.721459Z'
 publication_types:
-- chapter
-publication: '*Lecture Notes in Computer Science*'
-doi: 10.1007/978-3-319-78133-4_14
+- '6'
 abstract: 'Building complex models from available data is a challenge in many domains,
   and in particular in food science. Numerical data are often not enough structured,
   or simply not enough to elucidate complex structures : human choices have thus a
@@ -30,7 +29,11 @@ abstract: 'Building complex models from available data is a challenge in many do
   production and stabilisation of lactic acid bacteria, which has several important
   practical applications, ranging from assessing the ecacy of new industrial methods,
   to proposing alternative sustainable systems of food production.'
+featured: false
+publication: '*Lecture Notes in Computer Science*'
+doi: 10.1007/978-3-319-78133-4_14
 links:
 - name: URL
   url: https://doi.org/10.1007/978-3-319-78133-4_14
 ---
+

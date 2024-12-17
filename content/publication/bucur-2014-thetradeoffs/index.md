@@ -1,18 +1,16 @@
 ---
 title: The tradeoffs between data delivery ratio and energy costs in wireless sensor
   networks
+date: '2014-01-01'
+draft: true
+publishDate: '2024-12-17T15:41:49.597245Z'
 authors:
 - Doina Bucur
 - Giovanni Iacca
 - Giovanni Squillero
 - Alberto Tonda
-date: '2014-01-01'
-publishDate: '2024-12-13T18:55:57.581727Z'
 publication_types:
-- paper-conference
-publication: '*Proceedings of the 2014 conference on Genetic and evolutionary computation
-  - GECCO ′14*'
-doi: 10.1145/2576768.2598384
+- '1'
 abstract: 'Wireless sensor network (WSN) routing protocols, e.g., the Collection Tree
   Protocol (CTP), are designed to adapt in an ad-hoc fashion to the quality of the
   environment. WSNs thus have high internal dynamics and complex global behavior.
@@ -29,7 +27,12 @@ abstract: 'Wireless sensor network (WSN) routing protocols, e.g., the Collection
   terms of these two performance factors. Eventually, Pareto fronts allow us to bound
   the state space of the WSN, a fact which provides essential knowledge to WSN protocol
   designers.'
+featured: false
+publication: '*Proceedings of the 2014 conference on Genetic and evolutionary computation
+  - GECCO ′14*'
+doi: 10.1145/2576768.2598384
 links:
 - name: URL
   url: https://doi.org/10.1145/2576768.2598384
 ---
+

@@ -1,17 +1,16 @@
 ---
 title: Towards Evolutionary Control Laws for Viability Problems
+date: '2023-01-01'
+draft: true
+publishDate: '2024-12-17T15:42:03.970272Z'
 authors:
 - Alberto Tonda
 - Isabelle Alvarez
 - Sophie Martin
 - Giovanni Squillero
 - Evelyne Lutton
-date: '2023-01-01'
-publishDate: '2024-12-13T18:55:57.939659Z'
 publication_types:
-- paper-conference
-publication: '*Proceedings of the Genetic and Evolutionary Computation Conference*'
-doi: 10.1145/3583131.3590415
+- '1'
 abstract: 'The mathematical theory of viability, developed to formalize problems related
   to natural and social phenomena, investigates the evolution of dynamical systems
   under constraints. A main objective of this theory is to design control laws to
@@ -29,7 +28,11 @@ abstract: 'The mathematical theory of viability, developed to formalize problems
   rewarded for keeping viable as many trajectories as possible, for as long as possible.
   The proposed approach is evaluated on established benchmarks for viability and delivers
   promising results.'
+featured: false
+publication: '*Proceedings of the Genetic and Evolutionary Computation Conference*'
+doi: 10.1145/3583131.3590415
 links:
 - name: URL
   url: https://doi.org/10.1145/3583131.3590415
 ---
+

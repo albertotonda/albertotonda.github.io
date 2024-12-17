@@ -1,16 +1,15 @@
 ---
 title: Automatic Generation of Software-based Functional Failing Test for Speed Debug
   and On-silicon Timing Verification
+date: '2011-12-01'
+draft: true
+publishDate: '2024-12-17T15:41:46.265179Z'
 authors:
 - Ernesto Sanchez
 - Giovanni Squillero
 - Alberto Tonda
-date: '2011-12-01'
-publishDate: '2024-12-13T18:55:57.498034Z'
 publication_types:
-- paper-conference
-publication: '*2011 12th International Workshop on Microprocessor Test and Verification*'
-doi: 10.1109/mtv.2011.19
+- '1'
 abstract: The 40 years since the appearance of the Intel 4004 deeply changed how microprocessors
   are designed. Today, essential steps in the validation process are performed relying
   on physical dices, analyzing the actual behavior under appropriate stimuli. This
@@ -20,7 +19,11 @@ abstract: The 40 years since the appearance of the Intel 4004 deeply changed how
   under examination and does not rely on information about its microarchitecture,
   nor does it require design-for-debug features. The experimental evaluation performed
   on a Intel Pentium Core i7-950 demonstrates the feasibility of the approach.
+featured: false
+publication: '*2011 12th International Workshop on Microprocessor Test and Verification*'
+doi: 10.1109/mtv.2011.19
 links:
 - name: URL
   url: https://doi.org/10.1109/mtv.2011.19
 ---
+

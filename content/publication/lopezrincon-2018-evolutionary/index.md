@@ -1,6 +1,9 @@
 ---
 title: Evolutionary optimization of convolutional neural networks for cancer miRNA
   biomarkers classification
+date: '2018-04-01'
+draft: true
+publishDate: '2024-12-17T15:42:12.726312Z'
 authors:
 - Alejandro Lopez-Rincon
 - Alberto Tonda
@@ -8,12 +11,8 @@ authors:
 - Olivier Schwander
 - Benjamin Piwowarski
 - Patrick Gallinari
-date: '2018-04-01'
-publishDate: '2024-12-13T18:55:58.154761Z'
 publication_types:
-- article-journal
-publication: '*Applied Soft Computing*'
-doi: 10.1016/j.asoc.2017.12.036
+- '2'
 abstract: Cancer diagnosis is currently undergoing a paradigm shift with the incorporation
   of molecular biomarkers as part of routine diagnostic panel. This breakthrough discovery
   directs researches to examine the role of microRNA in cancer, since its deregulation
@@ -29,7 +28,11 @@ abstract: Cancer diagnosis is currently undergoing a paradigm shift with the inc
   a meta-analysis on the dataset, identifying the classes on which the collective
   performance of the considered classifiers is less effective, and thus possibly singling
   out types of tumors for which biomarker tests might be less reliable.
+featured: false
+publication: '*Applied Soft Computing*'
+doi: 10.1016/j.asoc.2017.12.036
 links:
 - name: URL
   url: https://doi.org/10.1016/j.asoc.2017.12.036
 ---
+

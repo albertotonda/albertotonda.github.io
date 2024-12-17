@@ -1,18 +1,17 @@
 ---
 title: 'Automated Playtesting in Collectible Card Games Using Evolutionary Algorithms:
   A Case Study in HearthStone'
+date: '2018-08-01'
+draft: true
+publishDate: '2024-12-17T15:42:12.991434Z'
 authors:
 - Pablo García-Sánchez
 - Alberto Tonda
 - Antonio M. Mora
 - Giovanni Squillero
 - Juan Julián Merelo
-date: '2018-08-01'
-publishDate: '2024-12-13T18:55:58.162006Z'
 publication_types:
-- article-journal
-publication: '*Knowledge-Based Systems*'
-doi: 10.1016/j.knosys.2018.04.030
+- '2'
 abstract: 'Collectible card games have been among the most popular and profitable
   products of the entertainment industry since the early days of Magic: The GatheringTM
   in the nineties. Digital versions have also appeared, with HearthStone: Heroes of
@@ -39,7 +38,11 @@ abstract: 'Collectible card games have been among the most popular and profitabl
   the AI; the introduction of the new heuristic operator helps to improve the obtained
   solutions, and basing the study on the whole set of heroes shows its validity through
   the whole range of decks.'
+featured: false
+publication: '*Knowledge-Based Systems*'
+doi: 10.1016/j.knosys.2018.04.030
 links:
 - name: URL
   url: https://doi.org/10.1016/j.knosys.2018.04.030
 ---
+

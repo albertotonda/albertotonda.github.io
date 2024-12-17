@@ -1,5 +1,8 @@
 ---
 title: Design of specific primer sets for SARS-CoV-2 variants using evolutionary algorithms
+date: '2021-06-01'
+draft: true
+publishDate: '2024-12-17T15:42:01.652972Z'
 authors:
 - Alejandro Lopez Rincon
 - Carmina A. Perez Romero
@@ -8,12 +11,8 @@ authors:
 - Johan Garssen
 - Aletta D. Kraneveld
 - Alberto Tonda
-date: '2021-06-01'
-publishDate: '2024-12-13T18:55:57.883290Z'
 publication_types:
-- paper-conference
-publication: '*Proceedings of the Genetic and Evolutionary Computation Conference*'
-doi: 10.1145/3449639.3459359
+- '1'
 abstract: Primer sets are short DNA sequences of 18-22 base pairs, that can be used
   to verify the presence of a virus, and designed to attach to a specific part of
   a viral DNA. Designing a primer set requires choosing a region of DNA, avoiding
@@ -28,7 +27,11 @@ abstract: Primer sets are short DNA sequences of 18-22 base pairs, that can be u
   approach is proven able to uncover a specific primer set for the B.1.1.7 SARS-CoV-2
   variant. Only recently identified, B.1.1.7 is already considered potentially dangerous,
   as it presents a considerably higher transmissibility when compared to other variants.
+featured: false
+publication: '*Proceedings of the Genetic and Evolutionary Computation Conference*'
+doi: 10.1145/3449639.3459359
 links:
 - name: URL
   url: https://doi.org/10.1145/3449639.3459359
 ---
+

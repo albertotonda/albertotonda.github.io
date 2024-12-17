@@ -1,14 +1,13 @@
 ---
 title: 'Fundamental Flowers: Evolutionary Discovery of Coresets for Classification'
+date: '2019-01-01'
+draft: true
+publishDate: '2024-12-17T15:41:57.219696Z'
 authors:
 - Pietro Barbiero
 - Alberto Tonda
-date: '2019-01-01'
-publishDate: '2024-12-13T18:55:57.775841Z'
 publication_types:
-- chapter
-publication: '*Applications of Evolutionary Computation*'
-doi: 10.1007/978-3-030-16692-2_37
+- '6'
 abstract: In an optimization problem, a coreset can be defined as a subset of the
   input points, such that a good approximation to the optimization problem can be
   obtained by solving it directly on the coreset, instead of using the whole original
@@ -29,7 +28,11 @@ abstract: In an optimization problem, a coreset can be defined as a subset of th
   representing different compromises between compactness and performance, but that
   different coresets are identified for different classifiers, reinforcing the assumption
   that coresets might be closely linked to the specific application.
+featured: false
+publication: '*Applications of Evolutionary Computation*'
+doi: 10.1007/978-3-030-16692-2_37
 links:
 - name: URL
   url: https://doi.org/10.1007/978-3-030-16692-2_37
 ---
+

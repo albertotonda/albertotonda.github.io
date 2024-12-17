@@ -1,6 +1,9 @@
 ---
 title: Methodology for biomarker discovery with reproducibility in microbiome data
   using machine learning
+date: '2024-01-01'
+draft: true
+publishDate: '2024-12-17T15:42:26.781314Z'
 authors:
 - David Rojas-Velazquez
 - Sarah Kidwai
@@ -9,12 +12,8 @@ authors:
 - Daniel Oberski
 - Johan Garssen
 - Alejandro Lopez-Rincon
-date: '2024-01-01'
-publishDate: '2024-12-13T18:55:58.385512Z'
 publication_types:
-- article-journal
-publication: '*BMC Bioinformatics*'
-doi: 10.1186/s12859-024-05639-3
+- '2'
 abstract: 'Background: In recent years, human microbiome studies have received increasing
   attention as this field is considered a potential source for clinical applications.
   With the advancements in omics technologies and AI, research focused on the discovery
@@ -43,7 +42,11 @@ abstract: 'Background: In recent years, human microbiome studies have received i
   achieved higher accuracy compared to other feature selection methods. This methodology
   is a first approach to increase reproducibility, to provide robust and reliable
   results.'
+featured: false
+publication: '*BMC Bioinformatics*'
+doi: 10.1186/s12859-024-05639-3
 links:
 - name: URL
   url: http://dx.doi.org/10.1186/s12859-024-05639-3
 ---
+

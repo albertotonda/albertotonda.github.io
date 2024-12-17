@@ -20,8 +20,6 @@
   abstract = {Caches are crucial components in modern processors (both stand-alone or integrated into SoCs) and their test is a challenging task, especially when addressing complex and high-frequency devices. While the test of the memory array within the cache is usually accomplished resorting to BIST circuitry implementing March test inspired solutions, testing the cache controller logic poses some specific issues, mainly stemming from its limited accessibility. One possible solution consists in letting the processor execute suitable test programs, allowing the detection of possible faults by looking at the results they produce. In this paper we face the issue of generating suitable programs for testing the replacement logic in set-associative caches that implement a deterministic replacement policy. A test program generation approach based on modeling the replacement mechanism as a finite state machine (FSM) is proposed. Experimental results with a cache implementing a LRU policy are provided to assess the effectiveness of the method.}
 }
 
-%%% CONTINUE THE PROCESS OF ADDING ABSTRACTS AND REVISING NAMING CONVENTION ABOVE THIS LINE
-
 @inproceedings{gandini2009automatic,
   doi = {10.1145/1569901.1570238},
   url = {https://doi.org/10.1145/1569901.1570238},
@@ -91,7 +89,7 @@
   abstract = {Electronic Noses (ENs) might represent a simple, fast, high sample throughput and economic alternative to conventional analytical instruments. However, gas sensors drift still limits the EN adoption in real industrial setups due to high recalibration effort and cost. In fact, pattern recognition (PaRC) models built in the training phase become useless after a period of time, in some cases a few weeks. Although algorithms to mitigate the drift date back to the early 90 this is still a challenging issue for the chemical sensor community. Among other approaches, adaptive drift correction methods adjust the PaRC model in parallel with data acquisition without need of periodic calibration. Self‐Organizing Maps (SOMs) and Adaptive Resonance Theory (ART) networks have been already tested in the past with fair success. This paper presents and discusses an original methodology based on a Covariance Matrix Adaptation Evolution Strategy (CMA‐ES), suited for stochastic optimization of complex problems.}
 }
 
-@inproceedings{sanchez2011group, % Sanchez2011a
+@inproceedings{sanchez2011group,
   doi = {10.1109/cec.2011.5949951},
   url = {https://doi.org/10.1109/cec.2011.5949951},
   year = {2011},
@@ -103,7 +101,7 @@
   abstract = {A huge number of optimization problems, in the CAD area as well as in many other fields, require a solution composed by a set of structurally homogeneous elements. Each element tackles a subset of the original task, and they cumulatively solve the whole problem. Sub-tasks, however, have exactly the same structure, and the splitting is completely arbitrary. Even the number of sub-tasks is not known and cannot be determined a-priori. Individual elements are structurally homogeneous, and their contribution to the main solution can be evaluated separately. We propose an evolutionary algorithm able to optimize groups of individuals for solving this class of problems. An individual of the best solution may be sub-optimal when considered alone, but the set of individuals cumulatively represent the optimal group able to completely solve the whole problem. Results of preliminary experiments show that our algorithm performs better than other techniques commonly applied in the CAD field.}
 }
 
-@incollection{sanchez2011evolution, % was Sanchez2011b
+@incollection{sanchez2011evolution,
   doi = {10.1007/978-3-642-20520-0_17},
   url = {https://doi.org/10.1007/978-3-642-20520-0_17},
   year = {2011},
@@ -115,7 +113,7 @@
   abstract = {Microprocessor testing is becoming a challenging task, due to the increasing complexity of modern architectures. Nowadays, most architectures are tackled with a combination of scan chains and Software-Based Self-Test (SBST) methodologies. Among SBST techniques, evolutionary feedback-based ones prove effective in microprocessor testing: their main disadvantage, however, is the considerable time required to generate suitable test programs. A novel evolutionary-based approach, able to appreciably reduce the generation time, is presented. The proposed method exploits a high-level representation of the architecture under test and a dynamically built Finite State Machine (FSM) model to assess fault coverage without resorting to time-expensive simulations on low-level models. Experimental results, performed on an OpenRISC processor, show that the resulting test obtains a nearly complete fault coverage against the targeted fault model.}
 }
 
-@inproceedings{sanchez2011evolutionary, % was Sanchez2011c
+@inproceedings{sanchez2011evolutionary,
   doi = {10.1145/2001858.2001985},
   url = {https://doi.org/10.1145/2001858.2001985},
   year = {2011},
@@ -126,7 +124,7 @@
   abstract = {The incessant progress in manufacturing technology is posing new challenges to microprocessor designers. Nowadays, comprehensive verification of a chip can only be performed after tape-out, when the first silicon prototypes are available. Several activities that were originally supposed to be part of the pre-silicon design phase are migrating to this post-silicon time as well. The short paper describes a post-silicon methodology that can be exploited to devise functional failing tests. Such tests are essential to analyze and debug speed paths during verification, speed-stepping, and other critical activities. The proposed methodology is based on the Genetic Programming paradigm, and exploits a versatile toolkit named μGP. The paper demonstrates that an evolutionary algorithm can successfully tackle a significant and still open industrial problem. Moreover, it shows how to take into account complex hardware characteristics and architectural details of such complex devices.}
 }
 
-@inproceedings{sanchez2011onthefunctional, % was Sanchez2011d
+@inproceedings{sanchez2011onthefunctional,
   doi = {10.1109/vlsisoc.2011.6081650},
   url = {https://doi.org/10.1109/vlsisoc.2011.6081650},
   year = {2011},
@@ -138,7 +136,7 @@
   abstract = {Branch Prediction Units (BPUs) are highly efficient modules that can significantly decrease the negative impact of branches in superscalar and RISC processors. Traditional test solutions, mainly based on scan test, are often inadequate to tackle the complexity of these architectures, especially when dealing with delay faults that require at-speed stimuli application. Moreover, scan test does not represent a viable solution when Incoming Inspection or on-line test are considered. In this paper a functional approach targeting BPU test is proposed, allowing to generate a suitable test program whose effectiveness is independent on the specific implementation of the BPU. The effectiveness of the approach is validated on a Branch History Table (BHT) resorting to an open-source computer architecture simulator and to an ad hoc developed HDL testbench. Experimental results show that the proposed method is able to thoroughly test the BHT, reaching complete static fault coverage.}
 }
 
-@inproceedings{sanchez2011postsilicon, % was Sanchez2011e
+@inproceedings{sanchez2011postsilicon,
   doi = {10.1109/vlsisoc.2011.6081667},
   url = {https://doi.org/10.1109/vlsisoc.2011.6081667},
   year = {2011},
@@ -459,7 +457,6 @@
   BOOKTITLE = {{Proceedings of FoodSIM 2016, 9th bi-annual International Conference on Modelling and Simulation in Food Engineering
 }},
   ADDRESS = {Ghent, Belgium},
-%  PAGES = {np},
   YEAR = {2016},
   MONTH = Apr,
   abstract = {Building in-silico decision making systems is essential in the food domain, albeit highly difficult. This task strongly relies on multidisciplinary research and in particular on advanced techniques from artificial intelligence. The success of such systems depends on how well they cope with the complex properties of food processes, such as the large variety of interacting components including those related to human expertise; and their dynamic, non-linear, multi-scale, uncertain and non-equilibrium behaviors. Robust stochastic optimization techniques, evolutionary computation and in particular Interactive Evolutionary Computation (IEC) seem to be a fruitful framework for developing food science models. A Human-Centered approach to Interactive Evolutionary Computation is discussed in this paper as a possible pertinent way to cope with challenges related to human factors in this context.}
@@ -874,8 +871,6 @@ abstract = {This paper investigates to what extent food safety is perceived as a
   abstract = {We propose an unsupervised, model-agnostic, wrapper method for feature selection. We assume that if a feature can be predicted using the others, it adds little information to the problem, and therefore could be removed without impairing the performance of whatever model will be eventually built. The proposed method iteratively identifies and removes predictable, or nearly-predictable, redundant features, allowing to trade-off complexity with expected quality. The approach do not rely on target labels nor values, and the model used to identify predictable features is not related to the final use of the feature set. Therefore, it can be used for supervised, unsupervised, or semi-supervised problems, or even as a safe, pre-processing step to improve the quality of the results of other feature selection techniques. Experimental results against state-of-the-art feature-selection algorithms show satisfying performance on several non-trivial benchmarks.}
 }
 
-%% 2023
-
 @incollection{zhang2023mapelites,
     doi = {10.1007/978-3-031-29573-7_6},
     url = {https://doi.org/10.1007/978-3-031-29573-7_6},
@@ -906,7 +901,7 @@ abstract="Nature-inspired optimization Algorithms (NIOAs) are nowadays a popular
 isbn="978-981-99-0835-6"
 }
 
-@InProceedings{10.1007/978-3-031-30229-9_45,
+@InProceedings{rojasvelazquez2023multiobjective,
 author="Rojas-Velazquez, David
 and Tonda, Alberto
 and Rodriguez-Guerra, Itzel
@@ -915,7 +910,7 @@ and Lopez-Rincon, Alejandro",
 editor="Correia, Jo{\~a}o
 and Smith, Stephen
 and Qaddoura, Raneem",
-title="Multi-objective Evolutionary Discretization of Gene Expression Profiles: Application to COVID-19 Severity Prediction",
+title="Multi-objective Evolutionary Discretization of Gene Expression Profiles: Application to COVID-19 Severity Prediction",
 booktitle="Applications of Evolutionary Computation",
 year="2023",
 publisher="Springer Nature Switzerland",
@@ -955,6 +950,7 @@ series = {GECCO '23}
   month = Jul,
   dates = 	 {23--29 Jul},
   publisher =    {PMLR},
+  url = {https://proceedings.mlr.press/v202/barbiero23a.html},
   abstract = 	 {Deep learning methods are highly accurate, yet their opaque decision process prevents them from earning full human trust. Concept-based models aim to address this issue by learning tasks based on a set of human-understandable concepts. However, state-of-the-art concept-based models rely on high-dimensional concept embedding representations which lack a clear semantic meaning, thus questioning the interpretability of their decision process. To overcome this limitation, we propose the Deep Concept Reasoner (DCR), the first interpretable concept-based model that builds upon concept embeddings. In DCR, neural networks do not make task predictions directly, but they build syntactic rule structures using concept embeddings. DCR then executes these rules on meaningful concept truth degrees to provide a final interpretable and semantically-consistent prediction in a differentiable manner. Our experiments show that DCR: (i) improves up to +25\% w.r.t. state-of-the-art interpretable concept-based models on challenging benchmarks (ii) discovers meaningful logic rules matching known ground truths even in the absence of concept supervision during training, and (iii), facilitates the generation of counterfactual examples providing the learnt rules as guidance.}
 }
 
@@ -970,6 +966,7 @@ series = {GECCO '23}
   month = Jul,
   dates = 	 {3--5 Jul},
   publisher =    {CEUR},
+  url = {https://ceur-ws.org/Vol-3432/paper41.pdf},
   issn = {1613-0073}
 }
 
@@ -977,6 +974,8 @@ series = {GECCO '23}
   title = {Bayesian Optimization for the Inverse Problem in Electrocardiography},
   booktitle = {2023 IEEE Symposium Series on Computational Intelligence (SSCI)},
   publisher = {IEEE},
+  doi={10.1109/SSCI52147.2023.10371791},
+  url={https://ieeexplore.ieee.org/document/10371791},
   author = {Lopez-Rincon,  Alejandro and Rojas-Velazquez,  David and Garssen,  Johan and van der Laan,  Sander W. and Oberski,  Daniel and Tonda,  Alberto},
   year = {2023},
   month = dec,
@@ -991,6 +990,7 @@ isbn = {9798400704956},
 publisher = {Association for Computing Machinery},
 address = {New York, NY, USA},
 doi = {10.1145/3638530.3654230},
+url = {https://doi.org/10.1145/3638530.3654230},
 abstract = {This paper presents a proof of concept for a novel evolutionary methodology inspired by core knowledge. This theory describes human cognition as a small set of innate abilities combined through compositionality. The proposed approach generates predictive descriptions of the interaction between elements in simple 2D videos. It exploits well-known strategies, such as image segmentation, object detection, simple laws of physics (kinematics and dynamics), and evolving rules, including high-level classes and their interactions. The experimental evaluation focuses on two classic video games, Pong and Arkanoid. Analyzing a small number of raw video frames, the methodology identifies objects, classes, and rules, creating a compact, high-level, predictive description of the interactions between the elements in the videos.},
 booktitle = {Proceedings of the Genetic and Evolutionary Computation Conference Companion},
 pages = {259–262},
@@ -1004,6 +1004,8 @@ author = {Chen, Mathilde and Makowski, David and Tonda, Alberto},
 title = {Multi-Objective Optimization for Large-scale Allocation of Soybean Crops},
 year = {2024},
 isbn = {9798400704949},
+url = {https://doi.org/10.1145/3638529.3654026},
+doi = {10.1145/3638529.3654026},
 publisher = {Association for Computing Machinery},
 address = {New York, NY, USA},
 abstract = {The optimal allocation of crops to different parcels of land is a problem of paramount practical importance, not only to improve production, but also to address the challenges posed by climate change. However, this optimization problem is inherently complex, characterized by a vast search space that renders traditional optimization techniques impractical without oversimplified assumptions. Compounding this challenge, climate change introduces conflicting objectives, as solutions aiming to just maximize total yield may be more susceptible to extreme weather events, and thus obtain more unpredictable year-by-year outcomes. In order to tackle this complex optimization problem, we propose a multi-objective approach, simultaneously maximizing the overall yield, minimizing the year-on-year yield variance, and minimizing the total cultivated surface. The approach exploits an established multi-objective evolutionary algorithm, and employs a machine learning model able to predict yield from weather and soil conditions, trained on historical data, making it possible to tackle allocation problems of large size. An experimental evaluation focusing on the allocation of soybean crops in the European continent for the years 2000-2023 shows that the proposed methodology is able to identify different trade-offs between the conflicting objectives, that an expert analysis later reveals to be realistic and meaningful for driving stakeholder decisions.},
@@ -1019,6 +1021,8 @@ author = {Squillero, Giovanni and Tonda, Alberto and Masetta, Dimitri and Sacche
 title = {Byron: A Fuzzer for Turing-complete Test Programs},
 year = {2024},
 isbn = {9798400704956},
+url = {https://doi.org/10.1145/3638530.3664136},
+doi = {10.1145/3638530.3664136},
 publisher = {Association for Computing Machinery},
 address = {New York, NY, USA},
 abstract = {This paper describes Byron, an evolutionary fuzzer of assembly-language programs for the test and verification of programmable devices. Candidate solutions are internally encoded as typed, directed multigraphs, that is, graphs where multiple edges can connect the same pair of vertexes, with an added layer that defines the type of information vertexes can hold, and constraints the possible kinds of edges. Multiple genetic operators and a self-adaptation mechanism make the tool ready to tackle industrial problems.},
@@ -1030,23 +1034,17 @@ series = {GECCO '24 Companion}
 }
 
 @inproceedings{giannini2024categorical,
-author={Giannini, Francesco
-and Fioravanti, Stefano
-and Barbiero, Pietro
-and Tonda, Alberto
-and Li{\`o}, Pietro
-and Di Lavore, Elena},
-editor={Longo, Luca
-and Lapuschkin, Sebastian
-and Seifert, Christin},
-title={Categorical Foundation of Explainable AI: A Unifying Theory},
-booktitle={Explainable Artificial Intelligence},
-year={2024},
-publisher={Springer Nature Switzerland},
-address={Cham},
-pages={185--206},
-abstract={Explainable AI (XAI) aims to address the human need for safe and reliable AI systems. However, numerous surveys emphasize the absence of a sound mathematical formalization of key XAI notions---remarkably including the term ``explanation'', which still lacks a precise definition. To bridge this gap, this paper introduces a unifying mathematical framework allowing the rigorous definition of key XAI notions and processes, using the well-funded formalism of Category theory. In particular, we show that the introduced framework allows us to: (i) model existing learning schemes and architectures in both XAI and AI in general, (ii) formally define the term ``explanation'', (iii) establish a theoretical basis for XAI taxonomies, and (iv) analyze commonly overlooked aspects of explaining methods. As a consequence, the proposed categorical framework represents a significant step towards a sound theoretical foundation of explainable AI by providing an unambiguous language to describe and model concepts, algorithms, and systems, thus also promoting research in XAI and collaboration between researchers from diverse fields, such as computer science, cognitive science, and abstract mathematics.},
-isbn={978-3-031-63800-8}
+  author       = {Francesco Giannini and Stefano Fioravanti and Pietro Barbiero and Alberto Tonda and Pietro Li{\`{o}} and Elena Di Lavore},
+  editor       = {Luca Longo and Sebastian Lapuschkin and Christin Seifert},
+  title        = {Categorical Foundation of Explainable {AI:} {A} Unifying Theory},
+  booktitle    = {Explainable Artificial Intelligence - Second World Conference, xAI 2024, Valletta, Malta, July 17-19, 2024, Proceedings, Part {III}},
+  series       = {Communications in Computer and Information Science},
+  volume       = {2155},
+  pages        = {185--206},
+  publisher    = {Springer},
+  year         = {2024},
+  url          = {https://doi.org/10.1007/978-3-031-63800-8\_10},
+  doi          = {10.1007/978-3-031-63800-8\_10},
 }
 
 @inproceedings{ruedaarango2024image,
@@ -1056,6 +1054,7 @@ isbn={978-3-031-63800-8}
   year={2024},
   pages={1-7},
   doi={10.1109/HSI61632.2024.10613596},
+  url={https://ieeexplore.ieee.org/document/10613596},
   abstract={Interactive Evolutionary Systems (IES) can generate several designs based on a handful of input parameters. Never-theless, the choice of the parameters is an open problem and it is limited to a few evaluations as they require human input. As a solution, Bayesian Optimization (BO) can be used to tune IES parameters. BO is a statistical method that efficiently models and optimizes expensive black-box derivative-free functions in few evaluations. In the context of creative IES, such as image generators, it can be used in conjunction with user preferences to optimize a complex-structured input space, such as variations of artistic images with uniqueness and creativity that follow the original concept and the artistic intention. Therefore, for this objective, we propose an implementation of BOIES with a metric based on user preferences that interactively evaluates a batch of images to evolve a set of parameters in Stable Diffusion to create variations with a given human-made artwork. Our results proved better than baseline, and against generated images using Neural Style Transfer (NST). The resulting images were consistent in terms of uniqueness, quality, and following a given concept.}
 }
 
@@ -1068,6 +1067,7 @@ isbn={978-3-031-63800-8}
   number={},
   pages={1-7},
   doi={10.1109/HSI61632.2024.10613568},
+  url={https://ieeexplore.ieee.org/document/10613568},
   abstract={Inflammatory Bowel Disease (IBD), that includes Crohn's disease (CD) and Ulcerative Colitis (UC), is a global health concern due to the increasing number of cases. Diagnosing IBD is a challenging task due to a considerable number of clinical factors. Delayed or inaccurate IBD diagnosis can worsen the disease and complicate achieving remission, therefore, early diagnosis and prompt treatment are crucial. In this study, we adapted a methodology to analyze 16s rRNA (18,758 features) to analyze mRNA (54,675 features) that consists of three phases: 1) preprocessing, 2) feature selection, and 3) testing. We applied this methodology for analyzing mRNA datasets from the Gene Expression Omnibus (GEO) repository, aiming to discover possible biomarkers for IBD diagnosis. We experimented with three datasets, using one dataset for feature (gene) selection and we tested the results in the other two. We compared results with those obtained from other feature selection methods, such as the F-score-based K-Best and random selection. The Area Under the Curve (AUC) was used to measure the diagnostic accuracy and as a metric to compare results between the methodology and other feature selection methods. The Matthews Correlation Coefficient (MCC) was used as an additional metric to evaluate the performance of the methodology and for comparison with other feature selection methods.}
 }
 

@@ -1,15 +1,15 @@
 ---
 title: Applications of Nature-Inspired Computing and Optimization Techniques
+date: '2024-04-01'
+draft: true
+publishDate: '2024-12-17T15:41:40.689790Z'
 authors:
 - Anupam Biswas
 - Alberto Tonda
 - Ripon Patgiri
 - Krishn Kumar Mishra
-date: '2024-04-01'
-publishDate: '2024-12-13T18:55:57.391371Z'
 publication_types:
-- book
-publication: '*Elsevier*'
+- '5'
 abstract: 'Advances in Computers, Volume 135 highlights advances in the field, with
   this new volume, Applications of Nature-inspired Computing and Optimization Techniques
   presenting interesting chapters on a variety of timely topics, including A Brief
@@ -30,8 +30,10 @@ abstract: 'Advances in Computers, Volume 135 highlights advances in the field, w
   computational costs, tuning, and control of parameters - Comprises some of the major
   applications of different domains - Presents application specific studies, incorporating
   ways of designing objective functions, solution representation, and constraint handling'
+featured: false
+publication: '*Elsevier*'
 links:
 - name: URL
-  url: 
-    https://shop.elsevier.com/books/applications-of-nature-inspired-computing-and-optimization-techniques/biswas/978-0-323-95768-7
+  url: https://shop.elsevier.com/books/applications-of-nature-inspired-computing-and-optimization-techniques/biswas/978-0-323-95768-7
 ---
+

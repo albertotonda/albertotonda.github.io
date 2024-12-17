@@ -1,5 +1,8 @@
 ---
 title: Cross-European Initial Survey on the Use of Mathematical Models in Food Industry
+date: '2019-11-01'
+draft: true
+publishDate: '2024-12-17T15:42:14.957437Z'
 authors:
 - Ilija Djekic
 - Alen Mujčinović
@@ -19,12 +22,8 @@ authors:
 - Urška Vrabič Brodnjak
 - Maria Charalambides
 - Alberto Tonda
-date: '2019-11-01'
-publishDate: '2024-12-13T18:55:58.199656Z'
 publication_types:
-- article-journal
-publication: '*Journal of Food Engineering*'
-doi: 10.1016/j.jfoodeng.2019.06.007
+- '2'
 abstract: Mathematical modelling plays an important role in food engineering having
   various mathematical models tailored for different food topics. However, mathematical
   models are followed by limited information on their application in food companies.
@@ -38,7 +37,11 @@ abstract: Mathematical modelling plays an important role in food engineering hav
   are positioned at the higher level of knowledge and use of available models. Similar
   pattern was observed at the micro level showing that small or medium sized companies
   exhibit lack of knowledge, resources and limiting usage of models.
+featured: false
+publication: '*Journal of Food Engineering*'
+doi: 10.1016/j.jfoodeng.2019.06.007
 links:
 - name: URL
   url: https://doi.org/10.1016/j.jfoodeng.2019.06.007
 ---
+

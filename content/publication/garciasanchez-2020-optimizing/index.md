@@ -1,16 +1,15 @@
 ---
 title: Optimizing HearthStone Agents Using an Evolutionary Algorithm
+date: '2020-01-01'
+draft: true
+publishDate: '2024-12-17T15:42:16.997766Z'
 authors:
 - Pablo García-Sánchez
 - Alberto Tonda
 - Antonio J. Fernández-Leiva
 - Carlos Cotta
-date: '2020-01-01'
-publishDate: '2024-12-13T18:55:58.237338Z'
 publication_types:
-- article-journal
-publication: '*Knowledge-Based Systems*'
-doi: 10.1016/j.knosys.2019.105032
+- '2'
 abstract: Digital collectible card games are not only a growing part of the video
   game industry, but also an interesting research area for the field of computational
   intelligence. This game genre allows researchers to deal with hidden information,
@@ -25,7 +24,11 @@ abstract: Digital collectible card games are not only a growing part of the vide
   techniques that attempted to take into account future game states, such as Monte-Carlo
   Tree search. This outcome shows how evolutionary computation could represent a considerable
   advantage in developing AIs for collectible card games such as Hearthstone.
+featured: false
+publication: '*Knowledge-Based Systems*'
+doi: 10.1016/j.knosys.2019.105032
 links:
 - name: URL
   url: https://doi.org/10.1016/j.knosys.2019.105032
 ---
+

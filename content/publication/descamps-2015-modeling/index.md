@@ -1,6 +1,9 @@
 ---
 title: Modeling Competition Phenomena in a Dairy Oil-in-water Emulsion Using Hybrid
   Kinetic Monte Carlo Simulations
+date: '2015-01-01'
+draft: true
+publishDate: '2024-12-17T15:41:50.122521Z'
 authors:
 - Etienne Descamps
 - Alberto Tonda
@@ -8,12 +11,8 @@ authors:
 - Ioan Cristian Trelea
 - Evelyne Lutton
 - Nathalie Méjean-Perrot
-date: '2015-01-01'
-publishDate: '2024-12-13T18:55:57.595861Z'
 publication_types:
-- paper-conference
-publication: '*Proceedings of the 6th International Symposium on Delivery of Functionality
-  in Complex Food Systems 2015*'
+- '1'
 abstract: The design of models for dairy products raises a series of difficult issues.
   For instance, considering dairy oil in water emulsions stabilized with milk proteins,
   texture depends in a non-trivial manner on the initial concentration and type of
@@ -33,4 +32,8 @@ abstract: The design of models for dairy products raises a series of difficult i
   In the proposed methodology, computational efficiency is provided by performing
   appropriate simplifications along the simulation process thanks to an ODE-based
   continuous mean field formulation.
+featured: false
+publication: '*Proceedings of the 6th International Symposium on Delivery of Functionality
+  in Complex Food Systems 2015*'
 ---
+

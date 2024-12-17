@@ -1,6 +1,9 @@
 ---
 title: A Decision-Support System to Predict Grape Berry Quality and Wine Potential
   for a Chenin Vineyard
+date: '2022-09-01'
+draft: true
+publishDate: '2024-12-17T15:42:21.759598Z'
 authors:
 - Nathalie Mejean Perrot
 - Alberto Tonda
@@ -10,12 +13,8 @@ authors:
 - Etienne Goulet
 - Laurence Guerin
 - Daniel Picque
-date: '2022-09-01'
-publishDate: '2024-12-13T18:55:58.310075Z'
 publication_types:
-- article-journal
-publication: '*Computers and Electronics in Agriculture*'
-doi: https://doi.org/10.1016/j.compag.2022.107167
+- '2'
 abstract: Grape berry ripening is a complex process, and predicting the quality of
   wine starting from the ripening kinetics of grape berries is a challenging task.
   To tackle this problem, we present a decision-support system based on coupling expert
@@ -32,7 +31,11 @@ abstract: Grape berry ripening is a complex process, and predicting the quality 
   trajectory described by wine experts and formalized mathematically. From this comparison,
   it is possible to anticipate drifts in wine sensory quality right from the step
   of grape ripening.
+featured: false
+publication: '*Computers and Electronics in Agriculture*'
+doi: https://doi.org/10.1016/j.compag.2022.107167
 links:
 - name: URL
   url: https://www.sciencedirect.com/science/article/pii/S0168169922004847
 ---
+

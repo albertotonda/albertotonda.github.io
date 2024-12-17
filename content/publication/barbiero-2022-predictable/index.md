@@ -1,15 +1,14 @@
 ---
 title: 'Predictable Features Elimination: An Unsupervised Approach to Feature Selection'
+date: '2022-01-01'
+draft: true
+publishDate: '2024-12-17T15:42:02.781104Z'
 authors:
 - Pietro Barbiero
 - Giovanni Squillero
 - Alberto Tonda
-date: '2022-01-01'
-publishDate: '2024-12-13T18:55:57.911181Z'
 publication_types:
-- chapter
-publication: '*Machine Learning,  Optimization,  and Data Science*'
-doi: 10.1007/978-3-030-95467-3_29
+- '6'
 abstract: We propose an unsupervised, model-agnostic, wrapper method for feature selection.
   We assume that if a feature can be predicted using the others, it adds little information
   to the problem, and therefore could be removed without impairing the performance
@@ -22,7 +21,11 @@ abstract: We propose an unsupervised, model-agnostic, wrapper method for feature
   quality of the results of other feature selection techniques. Experimental results
   against state-of-the-art feature-selection algorithms show satisfying performance
   on several non-trivial benchmarks.
+featured: false
+publication: '*Machine Learning,  Optimization,  and Data Science*'
+doi: 10.1007/978-3-030-95467-3_29
 links:
 - name: URL
   url: https://doi.org/10.1007/978-3-030-95467-3_29
 ---
+

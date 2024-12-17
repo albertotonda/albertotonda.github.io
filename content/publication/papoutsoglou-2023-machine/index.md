@@ -1,5 +1,8 @@
 ---
 title: 'Machine learning approaches in microbiome research: challenges and best practices'
+date: '2023-09-01'
+draft: true
+publishDate: '2024-12-17T15:42:24.266768Z'
 authors:
 - Georgios Papoutsoglou
 - Sonia Tarazona
@@ -18,12 +21,8 @@ authors:
 - Andriy Temko
 - Marcus J. Claesson
 - Magali Berland
-date: '2023-09-01'
-publishDate: '2024-12-13T18:55:58.347290Z'
 publication_types:
-- article-journal
-publication: '*Frontiers in Microbiology*'
-doi: 10.3389/fmicb.2023.1261889
+- '2'
 abstract: Microbiome data predictive analysis within a machine learning (ML) workflow
   presents numerous domain-specific challenges involving preprocessing, feature selection,
   predictive modeling, performance estimation, model interpretation, and the extraction
@@ -42,7 +41,11 @@ abstract: Microbiome data predictive analysis within a machine learning (ML) wor
   Conditional Expectation (ICE) plots can yield interpretable results and offer biological
   insights. These findings are significant for clinicians and non-experts alike in
   translational applications.
+featured: false
+publication: '*Frontiers in Microbiology*'
+doi: 10.3389/fmicb.2023.1261889
 links:
 - name: URL
   url: https://doi.org/10.3389/fmicb.2023.1261889
 ---
+

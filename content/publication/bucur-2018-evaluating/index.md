@@ -1,19 +1,17 @@
 ---
 title: Evaluating surrogate models for multi-objective influence maximization in social
   networks
+date: '2018-07-01'
+draft: true
+publishDate: '2024-12-17T15:41:56.374127Z'
 authors:
 - Doina Bucur
 - Giovanni Iacca
 - Andrea Marcelli
 - Giovanni Squillero
 - Alberto Tonda
-date: '2018-07-01'
-publishDate: '2024-12-13T18:55:57.755868Z'
 publication_types:
-- paper-conference
-publication: '*Proceedings of the Genetic and Evolutionary Computation Conference
-  Companion*'
-doi: 10.1145/3205651.3208238
+- '1'
 abstract: 'One of the most relevant problems in social networks is influence maximization,
   that is the problem of finding the set of the most influential nodes in a network,
   for a given influence propagation model. As the problem is NP-hard, recent works
@@ -30,7 +28,12 @@ abstract: 'One of the most relevant problems in social networks is influence max
   models should be carefully considered before using them in influence maximization
   approaches, as the errors induced by these models are in some cases too big to benefit
   the algorithmic performance.'
+featured: false
+publication: '*Proceedings of the Genetic and Evolutionary Computation Conference
+  Companion*'
+doi: 10.1145/3205651.3208238
 links:
 - name: URL
   url: https://doi.org/10.1145/3205651.3208238
 ---
+

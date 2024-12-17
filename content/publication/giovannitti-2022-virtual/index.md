@@ -1,16 +1,15 @@
 ---
 title: A Virtual Sensor for Backlash in Robotic Manipulators
+date: '2022-04-01'
+draft: true
+publishDate: '2024-12-17T15:42:21.268634Z'
 authors:
 - Eliana Giovannitti
 - Sayyidshahab Nabavi
 - Giovanni Squillero
 - Alberto Tonda
-date: '2022-04-01'
-publishDate: '2024-12-13T18:55:58.302817Z'
 publication_types:
-- article-journal
-publication: '*Journal of Intelligent Manufacturing*'
-doi: 10.1007/s10845-022-01934-z
+- '2'
 abstract: Gear backlash is a quite serious problem in industrial robots, it causes
   vibrations and impairs the robot positioning accuracy. Backlash estimation allows
   targeted maintenance interventions, preserving robot performances and avoiding unforeseen
@@ -27,7 +26,11 @@ abstract: Gear backlash is a quite serious problem in industrial robots, it caus
   from robots installed in a production plant, demonstrate the efficacy of the technique.
   The approach is cost-effective, fast, and easily automatable, therefore convenient
   for the industrial world.
+featured: false
+publication: '*Journal of Intelligent Manufacturing*'
+doi: 10.1007/s10845-022-01934-z
 links:
 - name: URL
   url: https://doi.org/10.1007/s10845-022-01934-z
 ---
+

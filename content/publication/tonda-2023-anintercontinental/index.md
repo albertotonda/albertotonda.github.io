@@ -1,16 +1,15 @@
 ---
 title: An intercontinental machine learning analysis of factors explaining consumer
   awareness of food risk
+date: '2023-01-01'
+draft: true
+publishDate: '2024-12-17T15:42:23.765663Z'
 authors:
 - Alberto Tonda
 - Christian Reynolds
 - Rallou Thomopoulos
-date: '2023-01-01'
-publishDate: '2024-12-13T18:55:58.339536Z'
 publication_types:
-- article-journal
-publication: '*Future Foods*'
-doi: https://doi.org/10.1016/j.fufo.2023.100233
+- '2'
 abstract: Food safety is a common concern at the household level, with important variations
   across different countries and cultures. Nevertheless, identifying the factors that
   best explain similarities and differences in consumer awareness pertaining to this
@@ -32,7 +31,11 @@ abstract: Food safety is a common concern at the household level, with important
   to indicate that people who are most concerned about food safety are also those
   who are highly aware of environmental and nutritional impacts of food, hinting at
   differences in food education as a possible underlying explanation for the data.
+featured: false
+publication: '*Future Foods*'
+doi: https://doi.org/10.1016/j.fufo.2023.100233
 links:
 - name: URL
   url: https://www.sciencedirect.com/science/article/pii/S2666833523000199
 ---
+

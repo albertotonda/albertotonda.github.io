@@ -1,6 +1,9 @@
 ---
 title: A Semi-automatic Modeling Approach for the Production and Freeze-drying of
   Lactic Acid Bacteria
+date: '2018-01-01'
+draft: true
+publishDate: '2024-12-17T15:41:56.128696Z'
 authors:
 - Thomas Chabin
 - Marc Barnabé
@@ -11,12 +14,8 @@ authors:
 - Hélène Velly
 - Evelyne Lutton
 - Nathalie Méjean-Perrot
-date: '2018-01-01'
-publishDate: '2024-12-13T18:55:57.749161Z'
 publication_types:
-- paper-conference
-publication: '*Proceedings of FoodSIM 2018, 10th bi-annual International Conference
-  on Modelling and Simulation in Food Engineering*'
+- '1'
 abstract: 'The production system of freeze-dried lactic acid bacteria involves several
   processes, but its impact on bacteria resistance is still not well understood. This
   system can be defined as a complex one since it depends on multiple scales: the
@@ -26,4 +25,8 @@ abstract: 'The production system of freeze-dried lactic acid bacteria involves s
   it contributes to insight formulation and rapid hypothesis testing. New results
   show that LIDEOGRAM is able to produce more robust modelling hypotheses when experts
   can interact and revisit the genomic data preprocessing.'
+featured: false
+publication: '*Proceedings of FoodSIM 2018, 10th bi-annual International Conference
+  on Modelling and Simulation in Food Engineering*'
 ---
+

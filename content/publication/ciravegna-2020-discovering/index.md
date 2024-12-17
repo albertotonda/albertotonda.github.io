@@ -1,17 +1,16 @@
 ---
 title: Discovering Hierarchical Neural Archetype Sets
+date: '2020-07-01'
+draft: true
+publishDate: '2024-12-17T15:41:58.687965Z'
 authors:
 - Gabriele Ciravegna
 - Pietro Barbiero
 - Giansalvo Cirrincione
 - Giovanni Squillero
 - Alberto Tonda
-date: '2020-07-01'
-publishDate: '2024-12-13T18:55:57.811304Z'
 publication_types:
-- chapter
-publication: '*Progresses in Artificial Intelligence and Neural Systems*'
-doi: 10.1007/978-981-15-5093-5_24
+- '6'
 abstract: In the field of machine learning, coresets are defined as subsets of the
   training set that can be used to obtain a good approximation of the behavior that
   a given algorithm would have on the whole training set. Advantages of using coresets
@@ -27,7 +26,11 @@ abstract: In the field of machine learning, coresets are defined as subsets of t
   Experimental results on several benchmarks show that the proposed approach is competitive
   with traditional coreset discovery techniques, delivering results with higher accuracy,
   and showing a greater ability to generalize to unseen test data.
+featured: false
+publication: '*Progresses in Artificial Intelligence and Neural Systems*'
+doi: 10.1007/978-981-15-5093-5_24
 links:
 - name: URL
   url: https://doi.org/10.1007/978-981-15-5093-5_24
 ---
+

@@ -1,18 +1,17 @@
 ---
 title: 'Food model exploration through evolutionary optimisation coupled with visualisation:
   Application to the prediction of a milk gel structure'
+date: '2014-10-01'
+draft: true
+publishDate: '2024-12-17T15:42:08.945904Z'
 authors:
 - Evelyne Lutton
 - Alberto Tonda
 - Sébastien Gaucel
 - Alain Riaublanc
 - Nathalie Perrot
-date: '2014-10-01'
-publishDate: '2024-12-13T18:55:58.067415Z'
 publication_types:
-- article-journal
-publication: '*Innovative Food Science & Emerging Technologies*'
-doi: 10.1016/j.ifset.2014.02.003
+- '2'
 abstract: 'Obtaining reliable in-silico food models is fundamental for a better understanding
   of these systems. The complex phenomena involved in these real-world processes reflect
   in the intricate structure of models, so that thoroughly exploring their behaviour
@@ -40,7 +39,11 @@ abstract: 'Obtaining reliable in-silico food models is fundamental for a better 
   processing. In order to reach this objective, it is mandatory to use innovative
   strategies, exploiting the most recent advances in cognitive and complex system
   sciences.'
+featured: false
+publication: '*Innovative Food Science & Emerging Technologies*'
+doi: 10.1016/j.ifset.2014.02.003
 links:
 - name: URL
   url: https://doi.org/10.1016/j.ifset.2014.02.003
 ---
+

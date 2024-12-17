@@ -1,16 +1,15 @@
 ---
 title: A Memetic Approach to Bayesian Network Structure Learning
+date: '2013-01-01'
+draft: true
+publishDate: '2024-12-17T15:41:47.403935Z'
 authors:
 - Alberto Tonda
 - Evelyne Lutton
 - Giovanni Squillero
 - Pierre-Henri Wuillemin
-date: '2013-01-01'
-publishDate: '2024-12-13T18:55:57.526247Z'
 publication_types:
-- chapter
-publication: '*Applications of Evolutionary Computation*'
-doi: 10.1007/978-3-642-37192-9_11
+- '6'
 abstract: 'Bayesian networks are graphical statistical models that represent inference
   between data. For their effectiveness and versatility, they are widely adopted to
   represent knowledge in different domains. Several research lines address the NP-hard
@@ -21,7 +20,11 @@ abstract: 'Bayesian networks are graphical statistical models that represent inf
   power of an Evolutionary Algorithm with the speed of local search. Experimental
   results show that the proposed approach is able to outperform state-of-the-art heuristics
   on two well-studied benchmarks.'
+featured: false
+publication: '*Applications of Evolutionary Computation*'
+doi: 10.1007/978-3-642-37192-9_11
 links:
 - name: URL
   url: https://doi.org/10.1007/978-3-642-37192-9_11
 ---
+

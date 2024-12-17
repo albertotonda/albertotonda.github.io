@@ -1,15 +1,15 @@
 ---
 title: In-silico Predictions of Pepsin-released Peptides
+date: '2017-01-01'
+draft: true
+publishDate: '2024-12-17T15:41:53.896440Z'
 authors:
 - Alberto Tonda
 - Anita Grosvenor
 - Stefan Clerens
 - Steven Le Feunteun
-date: '2017-01-01'
-publishDate: '2024-12-13T18:55:57.693557Z'
 publication_types:
-- paper-conference
-publication: '*Proceedings of the International conference on Food Digestion 2017*'
+- '1'
 abstract: Pepsin is the first protease encountered within the digestive tract. Unlike
   other digestive proteases, its specificity is low. It is therefore particularly
   difficult to determine a priori which peptides will be released during gastric digestion.
@@ -31,4 +31,7 @@ abstract: Pepsin is the first protease encountered within the digestive tract. U
   a total of  ̃1500 predicted peptides). These first results illustrate that in silico
   modelling of pepsin hydrolysis is a promising approach to determine which peptides
   are likely to be released during gastric digestion of foods.
+featured: false
+publication: '*Proceedings of the International conference on Food Digestion 2017*'
 ---
+

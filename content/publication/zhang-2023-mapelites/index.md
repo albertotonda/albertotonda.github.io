@@ -1,5 +1,8 @@
 ---
 title: MAP-Elites with~Cosine-Similarity for~Evolutionary Ensemble Learning
+date: '2023-01-01'
+draft: true
+publishDate: '2024-12-17T15:42:03.168643Z'
 authors:
 - Hengzhe Zhang
 - Qi Chen
@@ -7,12 +10,8 @@ authors:
 - Bing Xue
 - Wolfgang Banzhaf
 - Mengjie Zhang
-date: '2023-01-01'
-publishDate: '2024-12-13T18:55:57.918084Z'
 publication_types:
-- chapter
-publication: '*Lecture Notes in Computer Science*'
-doi: 10.1007/978-3-031-29573-7_6
+- '6'
 abstract: Evolutionary ensemble learning methods with Genetic Programming have achieved
   remarkable results on regression and classification tasks by employing quality-diversity
   optimization techniques like MAP-Elites and Neuro-MAP-Elites. The MAP-Elites algorithm
@@ -27,7 +26,11 @@ abstract: Evolutionary ensemble learning methods with Genetic Programming have a
   method. Experimental results on 108 datasets show that combining principal component
   analysis using a cosine kernel with reference points significantly improves the
   performance of the MAP-Elites evolutionary ensemble learning algorithm.
+featured: false
+publication: '*Lecture Notes in Computer Science*'
+doi: 10.1007/978-3-031-29573-7_6
 links:
 - name: URL
   url: https://doi.org/10.1007/978-3-031-29573-7_6
 ---
+

@@ -1,16 +1,14 @@
 ---
 title: Beyond coreset discovery
+date: '2019-07-01'
+draft: true
+publishDate: '2024-12-17T15:41:58.138081Z'
 authors:
 - Pietro Barbiero
 - Giovanni Squillero
 - Alberto Tonda
-date: '2019-07-01'
-publishDate: '2024-12-13T18:55:57.796870Z'
 publication_types:
-- paper-conference
-publication: '*Proceedings of the Genetic and Evolutionary Computation Conference
-  Companion*'
-doi: 10.1145/3319619.3326789
+- '1'
 abstract: 'In machine learning a coreset is defined as a subset of the training set
   using which an algorithm obtains performances similar to what it would deliver if
   trained over the whole original data. Advantages of coresets include improving training
@@ -25,7 +23,12 @@ abstract: 'In machine learning a coreset is defined as a subset of the training 
   proposed approach is able to deliver results that allow a classifier to obtain lower
   error and better ability of generalizing on unseen data than state-of-the-art coreset
   discovery techniques.'
+featured: false
+publication: '*Proceedings of the Genetic and Evolutionary Computation Conference
+  Companion*'
+doi: 10.1145/3319619.3326789
 links:
 - name: URL
   url: https://doi.org/10.1145/3319619.3326789
 ---
+

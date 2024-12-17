@@ -1,15 +1,14 @@
 ---
 title: Anatomy of a portfolio optimizer under a limited budget constraint
+date: '2016-09-01'
+draft: true
+publishDate: '2024-12-17T15:42:10.702535Z'
 authors:
 - Igor Deplano
 - Giovanni Squillero
 - Alberto Tonda
-date: '2016-09-01'
-publishDate: '2024-12-13T18:55:58.105396Z'
 publication_types:
-- article-journal
-publication: '*Evolutionary Intelligence*'
-doi: 10.1007/s12065-016-0144-3
+- '2'
 abstract: Predicting the market’s behavior to profit from trading stocks is far from
   trivial. Such a task becomes even harder when investors do not have large amounts
   of money available, and thus cannot influence this complex system in any way. Machine
@@ -26,7 +25,11 @@ abstract: Predicting the market’s behavior to profit from trading stocks is fa
   data from June 2014 to July 2015 to validate it. Experimental results demonstrate
   that the presented tool is able to obtain a more than satisfying profit for the
   considered time frame.
+featured: false
+publication: '*Evolutionary Intelligence*'
+doi: 10.1007/s12065-016-0144-3
 links:
 - name: URL
   url: https://doi.org/10.1007/s12065-016-0144-3
 ---
+

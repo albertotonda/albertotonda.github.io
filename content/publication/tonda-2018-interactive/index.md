@@ -1,5 +1,8 @@
 ---
 title: Interactive Machine Learning for Applications in Food Science
+date: '2018-01-01'
+draft: true
+publishDate: '2024-12-17T15:41:41.237650Z'
 authors:
 - Alberto Tonda
 - Nadia Boukhelifa
@@ -8,12 +11,8 @@ authors:
 - Benoît Génot
 - Evelyne Lutton
 - Nathalie Perrot
-date: '2018-01-01'
-publishDate: '2024-12-13T18:55:57.405915Z'
 publication_types:
-- chapter
-publication: '*Human and Machine Learning*'
-doi: 10.1007/978-3-319-90403-0_22
+- '6'
 abstract: The apparent simplicity of food processes often hides complex systems, where
   physical, chemical and living organisms’ processes co-exist and interact to create
   the final product. Data can be plagued by uncertainty; heterogeneity of available
@@ -29,7 +28,11 @@ abstract: The apparent simplicity of food processes often hides complex systems,
   of combining machine learning and expert interaction. We show that expert knowledge
   can be integrated at different stages of the modelling process, either online or
   offline, to initialize, enrich or guide this process.
+featured: false
+publication: '*Human and Machine Learning*'
+doi: 10.1007/978-3-319-90403-0_22
 links:
 - name: URL
   url: https://doi.org/10.1007/978-3-319-90403-0_22
 ---
+

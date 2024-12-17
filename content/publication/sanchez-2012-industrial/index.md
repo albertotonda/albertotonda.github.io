@@ -1,15 +1,14 @@
 ---
 title: Industrial Applications of Evolutionary Algorithms
+date: '2012-01-01'
+draft: true
+publishDate: '2024-12-17T15:41:40.153588Z'
 authors:
 - Ernesto Sanchez
 - Giovanni Squillero
 - Alberto Tonda
-date: '2012-01-01'
-publishDate: '2024-12-13T18:55:57.377169Z'
 publication_types:
-- book
-publication: '*Springer Berlin Heidelberg*'
-doi: 10.1007/978-3-642-27467-1
+- '5'
 abstract: 'Industrial applications of evolutionary algorithms is intended as a resource
   for both experienced users of evolutionary algorithms and researchers that are beginning
   to approach these fascinating optimization techniques. Experienced users will find
@@ -29,7 +28,11 @@ abstract: 'Industrial applications of evolutionary algorithms is intended as a r
   The authors hope that this volume will help to expose the flexibility and efficiency
   of evolutionary techniques, encouraging more companies to adopt them; and that,
   most of all, you will enjoy your reading.'
+featured: false
+publication: '*Springer Berlin Heidelberg*'
+doi: 10.1007/978-3-642-27467-1
 links:
 - name: URL
   url: https://doi.org/10.1007/978-3-642-27467-1
 ---
+

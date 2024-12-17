@@ -5,9 +5,9 @@ authors:
 - Alberto Paolo Tonda
 - Ripon Patgiri
 date: '2024-01-01'
-publishDate: '2024-12-13T18:55:57.428185Z'
+publishDate: '2024-12-17T15:41:42.137764Z'
 publication_types:
-- chapter
+- '6'
 publication: '*Applications of Nature-Inspired Computing and Optimization Techniques*'
 doi: 10.1016/bs.adcom.2023.11.010
 abstract: This chapter provides preliminary details about nature-inspired computing
@@ -27,4 +27,5 @@ abstract: This chapter provides preliminary details about nature-inspired comput
 links:
 - name: URL
   url: http://dx.doi.org/10.1016/bs.adcom.2023.11.010
+featured: false
 ---

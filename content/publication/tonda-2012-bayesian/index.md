@@ -1,17 +1,16 @@
 ---
 title: Bayesian Network Structure Learning from Limited Datasets through Graph Evolution
+date: '2012-01-01'
+draft: true
+publishDate: '2024-12-17T15:41:46.593377Z'
 authors:
 - Alberto Paolo Tonda
 - Evelyne Lutton
 - Romain Reuillon
 - Giovanni Squillero
 - Pierre-Henri Wuillemin
-date: '2012-01-01'
-publishDate: '2024-12-13T18:55:57.504991Z'
 publication_types:
-- chapter
-publication: '*Lecture Notes in Computer Science*'
-doi: 10.1007/978-3-642-29139-5_22
+- '6'
 abstract: 'Bayesian networks are stochastic models, widely adopted to encode knowledge
   in several fields. One of the most interesting features of a Bayesian network is
   the possibility of learning its structure from a set of data, and subsequently use
@@ -30,7 +29,11 @@ abstract: 'Bayesian networks are stochastic models, widely adopted to encode kno
   Information Criterion, a well-studied metric of stochastic model performance. Experimental
   results show that the approach is able to outperform a state-of-the-art dependency-analysis
   algorithm, providing better models for small datasets.'
+featured: false
+publication: '*Lecture Notes in Computer Science*'
+doi: 10.1007/978-3-642-29139-5_22
 links:
 - name: URL
   url: https://doi.org/10.1007/978-3-642-29139-5_22
 ---
+

@@ -8,9 +8,9 @@ authors:
 - Alberto Tonda
 - Guillaume Delaplace
 date: '2024-05-01'
-publishDate: '2024-12-13T18:55:58.393593Z'
+publishDate: '2024-12-17T15:42:27.308856Z'
 publication_types:
-- article-journal
+- '2'
 publication: '*Food and Bioproducts Processing*'
 doi: 10.1016/j.fbp.2024.02.009
 abstract: 'Fouling is the unwanted accumulation of material on a processing surface
@@ -33,4 +33,5 @@ abstract: 'Fouling is the unwanted accumulation of material on a processing surf
 links:
 - name: URL
   url: http://dx.doi.org/10.1016/j.fbp.2024.02.009
+featured: false
 ---

@@ -1,5 +1,8 @@
 ---
 title: Image Generation with Interactive Evolutionary System using Bayesian Optimization
+date: '2024-01-01'
+draft: true
+publishDate: '2024-12-17T15:42:06.448808Z'
 authors:
 - Y. Dianey Rueda-Arango
 - David Rojas-Velazquez
@@ -7,12 +10,8 @@ authors:
 - Johan Garssen
 - Alberto Tonda
 - Alejandro Lopez-Rincon
-date: '2024-01-01'
-publishDate: '2024-12-13T18:55:58.000751Z'
 publication_types:
-- paper-conference
-publication: '*2024 16th International Conference on Human System Interaction (HSI)*'
-doi: 10.1109/HSI61632.2024.10613596
+- '1'
 abstract: Interactive Evolutionary Systems (IES) can generate several designs based
   on a handful of input parameters. Never-theless, the choice of the parameters is
   an open problem and it is limited to a few evaluations as they require human input.
@@ -28,4 +27,11 @@ abstract: Interactive Evolutionary Systems (IES) can generate several designs ba
   Our results proved better than baseline, and against generated images using Neural
   Style Transfer (NST). The resulting images were consistent in terms of uniqueness,
   quality, and following a given concept.
+featured: false
+publication: '*2024 16th International Conference on Human System Interaction (HSI)*'
+doi: 10.1109/HSI61632.2024.10613596
+links:
+- name: URL
+  url: https://ieeexplore.ieee.org/document/10613596
 ---
+

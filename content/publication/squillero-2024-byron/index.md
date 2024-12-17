@@ -6,9 +6,9 @@ authors:
 - Dimitri Masetta
 - Marco Sacchet
 date: '2024-01-01'
-publishDate: '2024-12-13T18:55:57.981409Z'
+publishDate: '2024-12-17T15:42:05.778788Z'
 publication_types:
-- paper-conference
+- '1'
 publication: '*Proceedings of the Genetic and Evolutionary Computation Conference
   Companion*'
 abstract: This paper describes Byron, an evolutionary fuzzer of assembly-language
@@ -18,4 +18,9 @@ abstract: This paper describes Byron, an evolutionary fuzzer of assembly-languag
   type of information vertexes can hold, and constraints the possible kinds of edges.
   Multiple genetic operators and a self-adaptation mechanism make the tool ready to
   tackle industrial problems.
+featured: false
+doi: 10.1145/3638530.3664136
+links:
+- name: URL
+  url: https://doi.org/10.1145/3638530.3664136
 ---

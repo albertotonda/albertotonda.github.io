@@ -1,5 +1,8 @@
 ---
 title: Modelling Processes and Products in the Cereal Chain
+date: '2021-01-01'
+draft: true
+publishDate: '2024-12-17T15:42:18.793218Z'
 authors:
 - Otilia Carvalho
 - Maria N. Charalambides
@@ -21,12 +24,8 @@ authors:
 - Fabrizio Sarghini
 - Pasquale Trematerra
 - Alberto Tonda
-date: '2021-01-01'
-publishDate: '2024-12-13T18:55:58.266406Z'
 publication_types:
-- article-journal
-publication: '*Foods*'
-doi: 10.3390/foods10010082
+- '2'
 abstract: In recent years, modelling techniques have become more frequently adopted
   in the field of food processing, especially for cereal-based products, which are
   among the most consumed foods in the world. Predictive models and simulations make
@@ -40,7 +39,11 @@ abstract: In recent years, modelling techniques have become more frequently adop
   issued from a networking project including researchers from over 30 different countries,
   aims at presenting the current state of the art in each domain, showing common trends
   and synergies, to finally suggest promising future venues for research.
+featured: false
+publication: '*Foods*'
+doi: 10.3390/foods10010082
 links:
 - name: URL
   url: https://doi.org/10.3390/foods10010082
 ---
+

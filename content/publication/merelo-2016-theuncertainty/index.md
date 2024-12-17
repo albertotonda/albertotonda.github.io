@@ -1,6 +1,9 @@
 ---
 title: 'The Uncertainty Quandary: A Study in the Context of the Evolutionary Optimization
   in Games and Other Uncertain Environments'
+date: '2016-01-01'
+draft: true
+publishDate: '2024-12-17T15:42:00.733916Z'
 authors:
 - Juan J. Merelo
 - Federico Liberatore
@@ -14,12 +17,8 @@ authors:
 - Alberto Tonda
 - Paloma de las Cuevas
 - Pedro A. Castillo
-date: '2016-01-01'
-publishDate: '2024-12-13T18:55:57.860002Z'
 publication_types:
-- chapter
-publication: '*Transactions on Computational Collective Intelligence XXIV*'
-doi: 10.1007/978-3-662-53525-7_3
+- '6'
 abstract: In many optimization processes, the fitness or the considered measure of
   goodness for the candidate solutions presents uncertainty, that is, it yields different
   values when repeatedly measured, due to the nature of the evaluation process or
@@ -44,7 +43,11 @@ abstract: In many optimization processes, the fitness or the considered measure 
   generation across them, and that, in general, this kind of behavior will have to
   be taken into account to adequately address uncertainty in fitness in evolutionary
   algorithms.
+featured: false
+publication: '*Transactions on Computational Collective Intelligence XXIV*'
+doi: 10.1007/978-3-662-53525-7_3
 links:
 - name: URL
   url: https://doi.org/10.1007/978-3-662-53525-7_3
 ---
+

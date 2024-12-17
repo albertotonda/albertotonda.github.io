@@ -1,15 +1,14 @@
 ---
 title: Evolving Individual Behavior in a Multi-agent Traffic Simulator
+date: '2010-01-01'
+draft: true
+publishDate: '2024-12-17T15:41:43.466814Z'
 authors:
 - Ernesto Sanchez
 - Giovanni Squillero
 - Alberto Tonda
-date: '2010-01-01'
-publishDate: '2024-12-13T18:55:57.463202Z'
 publication_types:
-- chapter
-publication: '*Applications of Evolutionary Computation*'
-doi: 10.1007/978-3-642-12239-2_2
+- '6'
 abstract: In this paper, we illustrate the use of evolutionary agents in a multi-agent
   system designed to describe the behavior of car drivers. Each agent has the selfish
   objective to reach its destination in the shortest time possible, and a preference
@@ -21,7 +20,11 @@ abstract: In this paper, we illustrate the use of evolutionary agents in a multi
   all the car drivers in the map leads the agents to obtain a better performance,
   thanks to the evolution of their behavior. Even the system as a whole gains some
   benefits from the evolution of the agents' individual choices.
+featured: false
+publication: '*Applications of Evolutionary Computation*'
+doi: 10.1007/978-3-642-12239-2_2
 links:
 - name: URL
   url: https://doi.org/10.1007/978-3-642-12239-2_2
 ---
+

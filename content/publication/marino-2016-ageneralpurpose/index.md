@@ -1,15 +1,14 @@
 ---
 title: A General-Purpose Framework for Genetic Improvement
+date: '2016-01-01'
+draft: true
+publishDate: '2024-12-17T15:41:53.357400Z'
 authors:
 - Francesco Marino
 - Giovanni Squillero
 - Alberto Tonda
-date: '2016-01-01'
-publishDate: '2024-12-13T18:55:57.679477Z'
 publication_types:
-- chapter
-publication: '*Parallel Problem Solving from Nature – PPSN XIV*'
-doi: 10.1007/978-3-319-45823-6_32
+- '6'
 abstract: 'Genetic Improvement is an evolutionary-based technique. Despite its relatively
   recent introduction, several successful applications have been already reported
   in the scientific literature: it has been demonstrated able to modify the code complex
@@ -22,7 +21,11 @@ abstract: 'Genetic Improvement is an evolutionary-based technique. Despite its r
   coupled with Genetic Programming, that can be easily adapted to different programming
   languages and objective. In a preliminary evaluation, the framework efficiently
   optimizes the code of the md5 hash function in C, Java, and Python.'
+featured: false
+publication: '*Parallel Problem Solving from Nature – PPSN XIV*'
+doi: 10.1007/978-3-319-45823-6_32
 links:
 - name: URL
   url: https://doi.org/10.1007/978-3-319-45823-6_32
 ---
+

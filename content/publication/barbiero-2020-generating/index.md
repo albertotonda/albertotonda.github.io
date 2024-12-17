@@ -1,17 +1,16 @@
 ---
 title: Generating Neural Archetypes to Instruct Fast and Interpretable Decisions
+date: '2020-01-01'
+draft: true
+publishDate: '2024-12-17T15:41:57.469730Z'
 authors:
 - Pietro Barbiero
 - Gabriele Ciravegna
 - Giansalvo Cirrincione
 - Alberto Tonda
 - Giovanni Squillero
-date: '2020-01-01'
-publishDate: '2024-12-13T18:55:57.783193Z'
 publication_types:
-- chapter
-publication: '*Advances in Intelligent Systems and Computing*'
-doi: 10.1007/978-3-030-38227-8_6
+- '6'
 abstract: In the field of artificial intelligence, agents learn how to take decisions
   by fitting their parameters on a set of samples called training set. Similarly,
   a core set is a subset of the training samples such that, if an agent exploits this
@@ -23,7 +22,11 @@ abstract: In the field of artificial intelligence, agents learn how to take deci
   hierarchical neural network for archetype discovery. Experiments show how the use
   of archetypes allows both ML agents to make fast and accurate predictions and human
   experts to make sense of such decisions by analyzing few important samples.
+featured: false
+publication: '*Advances in Intelligent Systems and Computing*'
+doi: 10.1007/978-3-030-38227-8_6
 links:
 - name: URL
   url: https://doi.org/10.1007/978-3-030-38227-8_6
 ---
+

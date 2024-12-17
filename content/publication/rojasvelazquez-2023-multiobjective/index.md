@@ -1,17 +1,17 @@
 ---
-title: 'Multi-objective Evolutionary Discretization of Gene Expression Profiles: Application
-  to COVID-19 Severity Prediction'
+title: 'Multi-objective Evolutionary Discretization of Gene Expression Profiles: Application
+  to COVID-19 Severity Prediction'
+date: '2023-01-01'
+draft: true
+publishDate: '2024-12-17T15:42:03.716208Z'
 authors:
 - David Rojas-Velazquez
 - Alberto Tonda
 - Itzel Rodriguez-Guerra
 - Aletta D. Kraneveld
 - Alejandro Lopez-Rincon
-date: '2023-01-01'
-publishDate: '2024-12-13T18:55:57.932209Z'
 publication_types:
-- paper-conference
-publication: '*Applications of Evolutionary Computation*'
+- '1'
 abstract: 'Machine learning models can use information from gene expressions in patients
   to efficiently predict the severity of symptoms for several diseases. Medical experts,
   however, still need to understand the reasoning behind the predictions before trusting
@@ -33,4 +33,7 @@ abstract: 'Machine learning models can use information from gene expressions in 
   on statistical analysis and are more generally valid than those obtained through
   single-objective optimization, but that the candidate Pareto-optimal solutions preserve
   the sense-making that practitioners find necessary to trust the results.'
+featured: false
+publication: '*Applications of Evolutionary Computation*'
 ---
+

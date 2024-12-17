@@ -1,6 +1,9 @@
 ---
 title: Scientific Challenges in Performing Life-Cycle Assessment in the Food Supply
   Chain
+date: '2019-08-01'
+draft: true
+publishDate: '2024-12-17T15:42:16.239305Z'
 authors:
 - Ilija Djekic
 - Milica Pojić
@@ -9,12 +12,8 @@ authors:
 - Danijela Bursać Kovačević
 - Anet Režek-Jambrak
 - Igor Tomasevic
-date: '2019-08-01'
-publishDate: '2024-12-13T18:55:58.222320Z'
 publication_types:
-- article-journal
-publication: '*Foods*'
-doi: 10.3390/foods8080301
+- '2'
 abstract: 'This paper gives an overview of scientific challenges that occur when performing
   life-cycle assessment (LCA) in the food supply chain. In order to evaluate these
   risks, the Failure Mode and Effect Analysis tool has been used. Challenges related
@@ -27,7 +26,11 @@ abstract: 'This paper gives an overview of scientific challenges that occur when
   sound sensitivity analysis should be performed to check how stable calculations
   and results are. Identified challenges pave the way for improving LCA of food supply
   chains in order to enable comparison of results.'
+featured: false
+publication: '*Foods*'
+doi: 10.3390/foods8080301
 links:
 - name: URL
   url: https://doi.org/10.3390/foods8080301
 ---
+

@@ -1,14 +1,14 @@
 ---
 title: Multi-Objective Optimization for Large-scale Allocation of Soybean Crops
+date: '2024-01-01'
+draft: true
+publishDate: '2024-12-17T15:42:05.479082Z'
 authors:
 - Mathilde Chen
 - David Makowski
 - Alberto Tonda
-date: '2024-01-01'
-publishDate: '2024-12-13T18:55:57.973856Z'
 publication_types:
-- paper-conference
-publication: '*Proceedings of the Genetic and Evolutionary Computation Conference*'
+- '1'
 abstract: The optimal allocation of crops to different parcels of land is a problem
   of paramount practical importance, not only to improve production, but also to address
   the challenges posed by climate change. However, this optimization problem is inherently
@@ -27,4 +27,11 @@ abstract: The optimal allocation of crops to different parcels of land is a prob
   methodology is able to identify different trade-offs between the conflicting objectives,
   that an expert analysis later reveals to be realistic and meaningful for driving
   stakeholder decisions.
+featured: false
+publication: '*Proceedings of the Genetic and Evolutionary Computation Conference*'
+doi: 10.1145/3638529.3654026
+links:
+- name: URL
+  url: https://doi.org/10.1145/3638529.3654026
 ---
+

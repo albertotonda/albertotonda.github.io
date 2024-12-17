@@ -1,5 +1,8 @@
 ---
 title: Bayesian Optimization for the Inverse Problem in Electrocardiography
+date: '2023-12-01'
+draft: true
+publishDate: '2024-12-17T15:42:04.924337Z'
 authors:
 - Alejandro Lopez-Rincon
 - David Rojas-Velazquez
@@ -7,11 +10,8 @@ authors:
 - Sander W. van der Laan
 - Daniel Oberski
 - Alberto Tonda
-date: '2023-12-01'
-publishDate: '2024-12-13T18:55:57.960279Z'
 publication_types:
-- paper-conference
-publication: '*2023 IEEE Symposium Series on Computational Intelligence (SSCI)*'
+- '1'
 abstract: The inverse problem in electrocardiography is an illposed problem where
   the objective is to reconstruct the electrical activity of the epicardial surface
   of the heart, given the electrical activity on the thorax’ surface. In the forward
@@ -28,4 +28,11 @@ abstract: The inverse problem in electrocardiography is an illposed problem wher
   CMA-ES-based Bayesian optimization technique, that can deliver good results even
   with a reduced number of function evaluations. Experiments show that the proposed
   approach can deliver improved results for in-silico simulations.
+featured: false
+publication: '*2023 IEEE Symposium Series on Computational Intelligence (SSCI)*'
+doi: 10.1109/SSCI52147.2023.10371791
+links:
+- name: URL
+  url: https://ieeexplore.ieee.org/document/10371791
 ---
+

@@ -1,17 +1,16 @@
 ---
 title: 'The impact of topology on energy consumption for collection tree protocols:
   An experimental assessment through evolutionary computation'
+date: '2014-03-01'
+draft: true
+publishDate: '2024-12-17T15:42:08.693809Z'
 authors:
 - Doina Bucur
 - Giovanni Iacca
 - Giovanni Squillero
 - Alberto Tonda
-date: '2014-03-01'
-publishDate: '2024-12-13T18:55:58.059849Z'
 publication_types:
-- article-journal
-publication: '*Applied Soft Computing*'
-doi: 10.1016/j.asoc.2013.12.002
+- '2'
 abstract: 'The analysis of worst-case behavior in wireless sensor networks is an extremely
   difficult task, due to the complex interactions that characterize the dynamics of
   these systems. In this paper, we present a new methodology for analyzing the performance
@@ -31,7 +30,11 @@ abstract: 'The analysis of worst-case behavior in wireless sensor networks is an
   topology examples. Both the proposed methodology and the specific results presented
   here – that is, the new topological metrics and the causal explanation – can be
   fruitfully reused in different contexts, even beyond wireless sensor networks.'
+featured: false
+publication: '*Applied Soft Computing*'
+doi: 10.1016/j.asoc.2013.12.002
 links:
 - name: URL
   url: https://doi.org/10.1016/j.asoc.2013.12.002
 ---
+

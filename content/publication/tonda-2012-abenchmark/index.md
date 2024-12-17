@@ -1,15 +1,14 @@
 ---
 title: A benchmark for cooperative coevolution
+date: '2012-11-01'
+draft: true
+publishDate: '2024-12-17T15:42:08.261836Z'
 authors:
 - Alberto Tonda
 - Evelyne Lutton
 - Giovanni Squillero
-date: '2012-11-01'
-publishDate: '2024-12-13T18:55:58.052605Z'
 publication_types:
-- article-journal
-publication: '*Memetic Computing*'
-doi: 10.1007/s12293-012-0095-x
+- '2'
 abstract: 'Cooperative co-evolution algorithms (CCEA) are a thriving sub-field of
   evolutionary computation. This class of algorithms makes it possible to exploit
   more efficiently the artificial Darwinist scheme, as soon as an optimisation problem
@@ -26,7 +25,11 @@ abstract: 'Cooperative co-evolution algorithms (CCEA) are a thriving sub-field o
   Allopatric Group Evolution, can be applied to the problem. Using a Classical Evolution
   approach as comparison, we analyse the behavior of each algorithm in detail, with
   respect to the size of the problem.'
+featured: false
+publication: '*Memetic Computing*'
+doi: 10.1007/s12293-012-0095-x
 links:
 - name: URL
   url: https://doi.org/10.1007/s12293-012-0095-x
 ---
+

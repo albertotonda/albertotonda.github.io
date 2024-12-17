@@ -1,12 +1,16 @@
 ---
 title: Modelling Approaches for Sustainable Insect Production Chains
+date: '2020-01-01'
+draft: true
+publishDate: '2024-12-17T15:41:37.173765Z'
 authors:
 - Sergeiy Smetana
 - Alberto Tonda
 - Alexander Mathys
-date: '2020-01-01'
-publishDate: '2024-12-13T18:55:57.306877Z'
 publication_types:
-- paper-conference
+- '1'
+abstract: ''
+featured: false
 publication: '*EAAP Annual Meeting 2020*'
 ---
+

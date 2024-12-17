@@ -1,5 +1,8 @@
 ---
 title: Towards Multi-Objective Optimization of Sustainable Insect Production Chains
+date: '2022-01-01'
+draft: true
+publishDate: '2024-12-17T15:42:01.922358Z'
 authors:
 - Nisrine Mouhrim
 - Sergiy Smetana
@@ -8,13 +11,8 @@ authors:
 - Ashley Green
 - Daniela Peguero
 - Alberto Tonda
-date: '2022-01-01'
-publishDate: '2024-12-13T18:55:57.890584Z'
 publication_types:
-- paper-conference
-publication: '*Proceedings of the Genetic and Evolutionary Computation Conference
-  Companion*'
-doi: 10.1145/3520304.3528898
+- '1'
 abstract: 'Due to the relatively recent history of industrial insect farming, there
   are still no extensive studies on the optimization of insect production chains.
   In this context, the present work aims to be a first step in filling this gap. A
@@ -27,7 +25,12 @@ abstract: 'Due to the relatively recent history of industrial insect farming, th
   insect production chains. Future works will take into account more extensive models,
   able to simulate scenarios in different European countries, and include parts of
   the chain such as transportation of goods to and from the production facilities.'
+featured: false
+publication: '*Proceedings of the Genetic and Evolutionary Computation Conference
+  Companion*'
+doi: 10.1145/3520304.3528898
 links:
 - name: URL
   url: https://doi.org/10.1145/3520304.3528898
 ---
+

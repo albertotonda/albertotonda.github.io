@@ -1,18 +1,17 @@
 ---
 title: Optimizing groups of colluding strong attackers in mobile urban communication
   networks with evolutionary algorithms
+date: '2016-03-01'
+draft: true
+publishDate: '2024-12-17T15:42:09.708534Z'
 authors:
 - Doina Bucur
 - Giovanni Iacca
 - Marco Gaudesi
 - Giovanni Squillero
 - Alberto Tonda
-date: '2016-03-01'
-publishDate: '2024-12-13T18:55:58.082929Z'
 publication_types:
-- article-journal
-publication: '*Applied Soft Computing*'
-doi: 10.1016/j.asoc.2015.11.024
+- '2'
 abstract: 'In novel forms of the Social Internet of Things, any mobile user within
   communication range may help routing messages for another user in the network. The
   resulting message delivery rate depends both on the users’ mobility patterns and
@@ -29,7 +28,11 @@ abstract: 'In novel forms of the Social Internet of Things, any mobile user with
   produces attack patterns that greatly lower network performance with respect to
   previous studies on the subject, as the evolutionary core is able to exploit the
   specific weaknesses of each target configuration.'
+featured: false
+publication: '*Applied Soft Computing*'
+doi: 10.1016/j.asoc.2015.11.024
 links:
 - name: URL
   url: https://doi.org/10.1016/j.asoc.2015.11.024
 ---
+

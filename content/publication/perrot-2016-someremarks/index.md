@@ -1,6 +1,9 @@
 ---
 title: Some remarks on computational approaches towards sustainable complex agri-food
   systems
+date: '2016-02-01'
+draft: true
+publishDate: '2024-12-17T15:42:10.259010Z'
 authors:
 - Nathalie Perrot
 - Hugo De Vries
@@ -13,12 +16,8 @@ authors:
 - Paul Bourgine
 - Erik van der Linden
 - Monique A. V. Axelos
-date: '2016-02-01'
-publishDate: '2024-12-13T18:55:58.097399Z'
 publication_types:
-- article-journal
-publication: '*Trends in Food Science & Technology*'
-doi: 10.1016/j.tifs.2015.10.003
+- '2'
 abstract: 'Background: Agri-food is one of the most important sectors of the industry
   in Europe and potentially a major contributor to the global warming. Sustainability
   issues in this context pose a huge challenge for several reasons: the variety of
@@ -42,7 +41,11 @@ abstract: 'Background: Agri-food is one of the most important sectors of the ind
   computational intensive methods, formal reasoning and the experts of the different
   fields. Some future research directions are proposed, involving all those dimensions:
   mathematical resilience, human-machine interactive learning and optimization techniques.'
+featured: false
+publication: '*Trends in Food Science & Technology*'
+doi: 10.1016/j.tifs.2015.10.003
 links:
 - name: URL
   url: https://doi.org/10.1016/j.tifs.2015.10.003
 ---
+

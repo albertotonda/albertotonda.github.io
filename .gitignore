@@ -1,3 +1,4 @@
 
 /.vs
 .hugo_build.lock
+/.local/content

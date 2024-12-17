@@ -1,6 +1,9 @@
 ---
 title: A robust mRNA signature obtained via recursive ensemble feature selection predicts
   the responsiveness of omalizumab in moderate‐to‐severe asthma
+date: '2023-11-01'
+draft: true
+publishDate: '2024-12-17T15:42:25.277635Z'
 authors:
 - Sarah Kidwai
 - Pietro Barbiero
@@ -12,12 +15,8 @@ authors:
 - Daniel L. Oberski
 - Aletta D. Kraneveld
 - Alejandro Lopez‐Rincon
-date: '2023-11-01'
-publishDate: '2024-12-13T18:55:58.362754Z'
 publication_types:
-- article-journal
-publication: '*Clinical and Translational Allergy*'
-doi: 10.1002/clt2.12306
+- '2'
 abstract: 'Background: Not being well controlled by therapy with inhaled corticosteroids
   and long-acting β2 agonist bronchodilators is a major concern for severe-asthma
   patients. The current treatment option for these patients is the use of biologicals
@@ -36,7 +35,11 @@ abstract: 'Background: Not being well controlled by therapy with inhaled cortico
   found 4 identical genes with REFS: CCDC113, SLC26A8 PPP1R3D and LOC100131780. Literature
   research showed that the 4 identified responsiveness predicting genes are associated
   with mucosal immunity, cell metabolism, and airway remodeling.'
+featured: false
+publication: '*Clinical and Translational Allergy*'
+doi: 10.1002/clt2.12306
 links:
 - name: URL
   url: http://dx.doi.org/10.1002/clt2.12306
 ---
+

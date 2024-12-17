@@ -1,16 +1,15 @@
 ---
 title: 'Looking for Archetypes: Applying Game Data Mining to Hearthstone Decks'
+date: '2022-05-01'
+draft: true
+publishDate: '2024-12-17T15:42:20.737480Z'
 authors:
 - Antonio M. Mora
 - Alberto Tonda
 - Antonio J. Fernández-Ares
 - Pablo García-Sánchez
-date: '2022-05-01'
-publishDate: '2024-12-13T18:55:58.295414Z'
 publication_types:
-- article-journal
-publication: '*Entertainment Computing*'
-doi: https://doi.org/10.1016/j.entcom.2022.100498
+- '2'
 abstract: Digital Collectible Cards Games such as Hearthstone have become a very prolific
   test-bed for Artificial Intelligence algorithms. The main researches have focused
   on the implementation of autonomous agents (bots) able to effectively play the game.
@@ -29,7 +28,11 @@ abstract: Digital Collectible Cards Games such as Hearthstone have become a very
   and visualization, the obtained results can be applied to improve Hearthstone Bots’
   behaviour, e.g. predicting opponent’s actions after identifying a specific archetype
   in his/her deck.
+featured: false
+publication: '*Entertainment Computing*'
+doi: https://doi.org/10.1016/j.entcom.2022.100498
 links:
 - name: URL
   url: https://www.sciencedirect.com/science/article/pii/S1875952122000222
 ---
+

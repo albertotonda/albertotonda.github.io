@@ -1,15 +1,14 @@
 ---
 title: 'VALIS: an Evolutionary Classification Algorithm'
+date: '2018-08-01'
+draft: true
+publishDate: '2024-12-17T15:42:13.316547Z'
 authors:
 - Peter Karpov
 - Giovanni Squillero
 - Alberto Tonda
-date: '2018-08-01'
-publishDate: '2024-12-13T18:55:58.169912Z'
 publication_types:
-- article-journal
-publication: '*Genetic Programming and Evolvable Machines*'
-doi: 10.1007/s10710-018-9331-6
+- '2'
 abstract: VALIS is an effective and robust classification algorithm with a focus on
   understandability. Its name stems from Vote-ALlocating Immune System, as it evolves
   a population of artificial antibodies that can bind to the input data, and performs
@@ -22,7 +21,11 @@ abstract: VALIS is an effective and robust classification algorithm with a focus
   nine state-of-the-art classification algorithms on six popular benchmark problems;
   results demonstrate that it is competitive with well-established black-box techniques,
   and superior in specific corner cases.
+featured: false
+publication: '*Genetic Programming and Evolvable Machines*'
+doi: 10.1007/s10710-018-9331-6
 links:
 - name: URL
   url: https://doi.org/10.1007/s10710-018-9331-6
 ---
+

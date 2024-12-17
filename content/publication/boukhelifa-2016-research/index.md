@@ -1,16 +1,16 @@
 ---
 title: Research Prospects in the Design and Evaluation of Interactive Evolutionary
   Systems for Art and Science
+date: '2016-01-01'
+draft: true
+publishDate: '2024-12-17T15:41:52.474509Z'
 authors:
 - Nadia Boukhelifa
 - Anastasia Bezerianos
 - Alberto Tonda
 - Evelyne Lutton
-date: '2016-01-01'
-publishDate: '2024-12-13T18:55:57.658812Z'
 publication_types:
-- paper-conference
-publication: '*CHI workshop on Human Centred Machine Learning*'
+- '1'
 abstract: We report on our experience in designing and evaluating emphseven applications
   from emphseven different domains using an interactive evolutionary approach. We
   conducted extensive evaluations for some of these applications, both quantitative
@@ -22,4 +22,7 @@ abstract: We report on our experience in designing and evaluating emphseven appl
   ``user-bottleneck'' effects.  We discuss research opportunities requiring human-computer
   interaction methodologies in order to support both the visible and hidden roles
   that humans play in interactive evolutionary computation and  machine learning.
+featured: false
+publication: '*CHI workshop on Human Centred Machine Learning*'
 ---
+

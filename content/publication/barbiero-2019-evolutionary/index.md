@@ -1,16 +1,14 @@
 ---
 title: Evolutionary discovery of coresets for classification
+date: '2019-07-01'
+draft: true
+publishDate: '2024-12-17T15:41:58.395359Z'
 authors:
 - Pietro Barbiero
 - Giovanni Squillero
 - Alberto Tonda
-date: '2019-07-01'
-publishDate: '2024-12-13T18:55:57.803908Z'
 publication_types:
-- paper-conference
-publication: '*Proceedings of the Genetic and Evolutionary Computation Conference
-  Companion*'
-doi: 10.1145/3319619.3326846
+- '1'
 abstract: When a machine learning algorithm is able to obtain the same performance
   given a complete training set, and a small subset of samples from the same training
   set, the subset is termed coreset. As using a coreset improves training speed and
@@ -27,7 +25,12 @@ abstract: When a machine learning algorithm is able to obtain the same performan
   benchmarks show that the proposed approach is able to identify candidate coresets
   with better accuracy and generality than state-of-the-art coreset discovery algorithms
   found in literature.
+featured: false
+publication: '*Proceedings of the Genetic and Evolutionary Computation Conference
+  Companion*'
+doi: 10.1145/3319619.3326846
 links:
 - name: URL
   url: https://doi.org/10.1145/3319619.3326846
 ---
+

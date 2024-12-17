@@ -1,6 +1,9 @@
 ---
 title: Classification and Specific Primer Design for Accurate Detection of SARS-CoV-2
   Using Deep Learning
+date: '2021-01-01'
+draft: true
+publishDate: '2024-12-17T15:42:19.275537Z'
 authors:
 - Alejandro Lopez-Rincon
 - Alberto Tonda
@@ -11,12 +14,8 @@ authors:
 - Eric Claassen
 - Johan Garssen
 - Aletta D. Kraneveld
-date: '2021-01-01'
-publishDate: '2024-12-13T18:55:58.274080Z'
 publication_types:
-- article-journal
-publication: '*Scientific Reports*'
-doi: 10.1038/s41598-020-80363-5
+- '2'
 abstract: In this paper, deep learning is coupled with explainable artificial intelligence
   techniques for the discovery of representative genomic sequences in SARS-CoV-2.
   A convolutional neural network classifier is first trained on 553 sequences from
@@ -36,7 +35,11 @@ abstract: In this paper, deep learning is coupled with explainable artificial in
   effective results in a minimal amount of time. Considering the possibility of future
   pandemics, these characteristics are invaluable to promptly create specific detection
   methods for diagnostics.
+featured: false
+publication: '*Scientific Reports*'
+doi: 10.1038/s41598-020-80363-5
 links:
 - name: URL
   url: https://doi.org/10.1038/s41598-020-80363-5
 ---
+

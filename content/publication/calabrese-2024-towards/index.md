@@ -1,18 +1,16 @@
 ---
 title: Towards an Evolutionary Approach for Exploting Core Knowledge in Artificial
   Intelligence
+date: '2024-01-01'
+draft: true
+publishDate: '2024-12-17T15:42:05.236513Z'
 authors:
 - Andrea Calabrese
 - Stefano Quer
 - Giovanni Squillero
 - Alberto Tonda
-date: '2024-01-01'
-publishDate: '2024-12-13T18:55:57.967271Z'
 publication_types:
-- paper-conference
-publication: '*Proceedings of the Genetic and Evolutionary Computation Conference
-  Companion*'
-doi: 10.1145/3638530.3654230
+- '1'
 abstract: This paper presents a proof of concept for a novel evolutionary methodology
   inspired by core knowledge. This theory describes human cognition as a small set
   of innate abilities combined through compositionality. The proposed approach generates
@@ -24,4 +22,12 @@ abstract: This paper presents a proof of concept for a novel evolutionary method
   frames, the methodology identifies objects, classes, and rules, creating a compact,
   high-level, predictive description of the interactions between the elements in the
   videos.
+featured: false
+publication: '*Proceedings of the Genetic and Evolutionary Computation Conference
+  Companion*'
+doi: 10.1145/3638530.3654230
+links:
+- name: URL
+  url: https://doi.org/10.1145/3638530.3654230
 ---
+

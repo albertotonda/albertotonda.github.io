@@ -1,16 +1,15 @@
 ---
 title: Learning Dynamical Systems Using Standard Symbolic Regression
+date: '2014-01-01'
+draft: true
+publishDate: '2024-12-17T15:41:48.957438Z'
 authors:
 - Sébastien Gaucel
 - Maarten Keijzer
 - Evelyne Lutton
 - Alberto Tonda
-date: '2014-01-01'
-publishDate: '2024-12-13T18:55:57.567955Z'
 publication_types:
-- chapter
-publication: '*Lecture Notes in Computer Science*'
-doi: 10.1007/978-3-662-44303-3_3
+- '6'
 abstract: 'Symbolic regression has many successful applications in learning free-form
   regular equations from data. Trying to apply the same approach to differential equations
   is the logical next step: so far, however, results have not matched the quality
@@ -26,7 +25,11 @@ abstract: 'Symbolic regression has many successful applications in learning free
   of computational effort, when compared to existing ad-hoc solutions for the same
   purpose. Experimental results show the efficacy of the proposed approach on an instance
   of the Lotka-Volterra model.'
+featured: false
+publication: '*Lecture Notes in Computer Science*'
+doi: 10.1007/978-3-662-44303-3_3
 links:
 - name: URL
   url: https://doi.org/10.1007/978-3-662-44303-3_3
 ---
+

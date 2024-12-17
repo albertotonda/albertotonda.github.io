@@ -1,6 +1,9 @@
 ---
 title: Increasing pattern recognition accuracy for chemical sensing by evolutionary
   based drift compensation
+date: '2011-10-01'
+draft: true
+publishDate: '2024-12-17T15:42:07.714419Z'
 authors:
 - S. Di Carlo
 - M. Falasconi
@@ -8,12 +11,8 @@ authors:
 - A. Scionti
 - G. Squillero
 - A. Tonda
-date: '2011-10-01'
-publishDate: '2024-12-13T18:55:58.038224Z'
 publication_types:
-- article-journal
-publication: '*Pattern Recognition Letters*'
-doi: 10.1016/j.patrec.2011.05.019
+- '2'
 abstract: Artificial olfaction systems, which mimic human olfaction by using arrays
   of gas chemical sensors combined with pattern recognition methods, represent a potentially
   low-cost tool in many areas of industry such as perfumery, food and drink production,
@@ -27,7 +26,11 @@ abstract: Artificial olfaction systems, which mimic human olfaction by using arr
   correct raw sensors’ measures thus mitigating the negative effects of the drift.
   The method learns the optimal correction strategy without the use of models or other
   hypotheses on the behavior of the physical chemical sensors.
+featured: false
+publication: '*Pattern Recognition Letters*'
+doi: 10.1016/j.patrec.2011.05.019
 links:
 - name: URL
   url: https://doi.org/10.1016/j.patrec.2011.05.019
 ---
+

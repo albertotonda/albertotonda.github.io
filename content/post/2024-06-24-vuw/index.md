@@ -1,6 +1,6 @@
 ---
-title: Visiting Victoria University, Wellington
-summary: I had the pleasure of visiting the Centre for Data Science and	Artificial Intelligence at VUW, New Zealand
+title: Visiting Victoria University, NZ
+summary: I had the pleasure of visiting the Centre for Data Science and	Artificial Intelligence in Wellington, New Zealand
 date: 2024-06-24
 authors:
   - admin

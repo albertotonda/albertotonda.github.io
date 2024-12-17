@@ -1,5 +1,8 @@
 ---
 title: Multiscale modeling for bioresources and bioproducts
+date: '2018-04-01'
+draft: true
+publishDate: '2024-12-17T15:42:11.719422Z'
 authors:
 - M. Barnabé
 - N. Blanc
@@ -15,12 +18,8 @@ authors:
 - F. Radjai
 - T. Ruiz
 - A. Tonda
-date: '2018-04-01'
-publishDate: '2024-12-13T18:55:58.131844Z'
 publication_types:
-- article-journal
-publication: '*Innovative Food Science & Emerging Technologies*'
-doi: 10.1016/j.ifset.2017.09.015
+- '2'
 abstract: 'Designing and processing complex matter and materials are key objectives
   of bioresource and bioproduct research. Modeling approaches targeting such systems
   have to account for their two main sources of complexity: their intrinsic multi-scale
@@ -39,7 +38,11 @@ abstract: 'Designing and processing complex matter and materials are key objecti
   and correlations from huge datasets built from experiments at different length scales
   and in heterogeneous conditions. These predictive methods are illustrated in the
   context of cheese ripening, grape maturity prediction and bacterial production.'
+featured: false
+publication: '*Innovative Food Science & Emerging Technologies*'
+doi: 10.1016/j.ifset.2017.09.015
 links:
 - name: URL
   url: https://doi.org/10.1016/j.ifset.2017.09.015
 ---
+

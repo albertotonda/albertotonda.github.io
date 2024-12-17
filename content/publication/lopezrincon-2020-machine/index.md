@@ -1,6 +1,9 @@
 ---
 title: Machine Learning-Based Ensemble Recursive Feature Selection of Circulating
   miRNAs for Cancer Tumor Classification
+date: '2020-07-01'
+draft: true
+publishDate: '2024-12-17T15:42:18.303600Z'
 authors:
 - Alejandro Lopez-Rincon
 - Lucero Mendoza-Maldonado
@@ -9,12 +12,8 @@ authors:
 - Aletta D. Kraneveld
 - Johan Garssen
 - Alberto Tonda
-date: '2020-07-01'
-publishDate: '2024-12-13T18:55:58.258639Z'
 publication_types:
-- article-journal
-publication: '*Cancers*'
-doi: 10.3390/cancers12071785
+- '2'
 abstract: Circulating microRNAs (miRNA) are small noncoding RNA molecules that can
   be detected in bodily fluids without the need for major invasive procedures on patients.
   miRNAs have shown great promise as biomarkers for tumors to both assess their presence
@@ -38,7 +37,11 @@ abstract: Circulating microRNAs (miRNA) are small noncoding RNA molecules that c
   task, with the aim to distinguish triple negative breast cancer from other subtypes
   of breast cancer. Overall, the presented methodology proves to be effective and
   compares favorably to other state-of-the-art feature selection methods.
+featured: false
+publication: '*Cancers*'
+doi: 10.3390/cancers12071785
 links:
 - name: URL
   url: https://doi.org/10.3390/cancers12071785
 ---
+

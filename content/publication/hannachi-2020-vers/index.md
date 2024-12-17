@@ -1,5 +1,8 @@
 ---
 title: Vers une Action Collective à l'Échelle des Paysages
+date: '2020-04-01'
+draft: true
+publishDate: '2024-12-17T15:42:20.255802Z'
 authors:
 - Mourad Hannachi
 - Véronique Souchère
@@ -25,9 +28,10 @@ authors:
 - Marc Declemy
 - Bruno Chauvel
 - Anne-Sophie Walker
-date: '2020-04-01'
-publishDate: '2024-12-13T18:55:58.288738Z'
 publication_types:
-- article-journal
+- '2'
+abstract: ''
+featured: false
 publication: '*Phytoma. La Défense des Végétaux*'
 ---
+

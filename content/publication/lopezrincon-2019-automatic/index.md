@@ -1,18 +1,17 @@
 ---
 title: Automatic Discovery of 100-miRNA Signature for Cancer Classification Using
   Ensemble Feature Selection
+date: '2019-09-01'
+draft: true
+publishDate: '2024-12-17T15:42:16.738071Z'
 authors:
 - Alejandro Lopez-Rincon
 - Marlet Martinez-Archundia
 - Gustavo U. Martinez-Ruiz
 - Alexander Schoenhuth
 - Alberto Tonda
-date: '2019-09-01'
-publishDate: '2024-12-13T18:55:58.229464Z'
 publication_types:
-- article-journal
-publication: '*BMC Bioinformatics*'
-doi: 10.1186/s12859-019-3050-8
+- '2'
 abstract: 'Background: MicroRNAs (miRNAs) are noncoding RNA molecules heavily involved
   in human tumors, in which few of them circulating the human body. Finding a tumor-associated
   signature of miRNA, that is, the minimum miRNA entities to be measured for discriminating
@@ -38,7 +37,11 @@ abstract: 'Background: MicroRNAs (miRNAs) are noncoding RNA molecules heavily in
   a bibliographic analysis confirms that 77 out of the 100 miRNAs in the signature
   appear in lists of circulating miRNAs used in cancer studies, in stem-loop or mature-sequence
   form. The remaining 23 miRNAs offer potentially promising avenues for future research.'
+featured: false
+publication: '*BMC Bioinformatics*'
+doi: 10.1186/s12859-019-3050-8
 links:
 - name: URL
   url: https://doi.org/10.1186/s12859-019-3050-8
 ---
+

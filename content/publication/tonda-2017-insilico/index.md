@@ -1,17 +1,16 @@
 ---
 title: 'In silico modeling of protein hydrolysis by endoproteases: a case study on
   pepsin digestion of bovine lactoferrin'
+date: '2017-01-01'
+draft: true
+publishDate: '2024-12-17T15:42:11.976785Z'
 authors:
 - Alberto Tonda
 - Anita Grosvenor
 - Stefan Clerens
 - Steven Le Feunteun
-date: '2017-01-01'
-publishDate: '2024-12-13T18:55:58.139622Z'
 publication_types:
-- article-journal
-publication: '*Food & Function*'
-doi: 10.1039/c7fo00830a
+- '2'
 abstract: This paper presents a novel model of protein hydrolysis and release of peptides
   by endoproteases. It requires the amino-acid sequence of the protein substrate to
   run, and makes use of simple Monte-Carlo in silico simulations to qualitatively
@@ -31,7 +30,11 @@ abstract: This paper presents a novel model of protein hydrolysis and release of
   The presented methodology has the advantage of being applicable not only to different
   proteins, but to different enzymes as well, as long as cleavage frequency data are
   available.
+featured: false
+publication: '*Food & Function*'
+doi: 10.1039/c7fo00830a
 links:
 - name: URL
   url: https://doi.org/10.1039/c7fo00830a
 ---
+

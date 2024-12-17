@@ -1,6 +1,9 @@
 ---
 title: Modelling Asthma Patients' Responsiveness to Treatment Using Feature Selection
   and Evolutionary Computation
+date: '2021-01-01'
+draft: true
+publishDate: '2024-12-17T15:42:00.979169Z'
 authors:
 - Alejandro Lopez-Rincon
 - Daphne S. Roozendaal
@@ -10,12 +13,8 @@ authors:
 - Paula Perez-Pardo
 - Aletta D. Kraneveld
 - Alberto Tonda
-date: '2021-01-01'
-publishDate: '2024-12-13T18:55:57.867940Z'
 publication_types:
-- chapter
-publication: '*Applications of Evolutionary Computation*'
-doi: 10.1007/978-3-030-72699-7_23
+- '6'
 abstract: 'For several medical treatments, it is possible to observe transcriptional
   variations in gene expressions between responders and non-responders. Modelling
   the correlation between such variations and the patient’s response to drugs as a
@@ -37,7 +36,11 @@ abstract: 'For several medical treatments, it is possible to observe transcripti
   5 genes (out of 28,402) that are transcriptionally relevant to predict treatment
   outcomes, and to deliver a compact mathematical model that is able to explain the
   interaction between the different genes involved.'
+featured: false
+publication: '*Applications of Evolutionary Computation*'
+doi: 10.1007/978-3-030-72699-7_23
 links:
 - name: URL
   url: https://doi.org/10.1007/978-3-030-72699-7_23
 ---
+

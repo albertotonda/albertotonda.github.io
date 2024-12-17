@@ -205,10 +205,10 @@
     </item>
     
     <item>
-      <title>Multi-objective Evolutionary Discretization of Gene Expression Profiles: Application to COVID-19 Severity Prediction</title>
-      <link>http://localhost:1313/publication/10-1007-978-3-031-30229-9-45/</link>
+      <title>Multi-objective Evolutionary Discretization of Gene Expression Profiles: Application to COVID-19 Severity Prediction</title>
+      <link>http://localhost:1313/publication/rojasvelazquez-2023-multiobjective/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/10-1007-978-3-031-30229-9-45/</guid>
+      <guid>http://localhost:1313/publication/rojasvelazquez-2023-multiobjective/</guid>
       <description></description>
     </item>
     
@@ -341,6 +341,14 @@
     </item>
     
     <item>
+      <title>Design of Specific Primer Sets for the Detection of B.1.1.7, B.1.351, P.1, B.1.617.2 and B.1.1.519 Variants of SARS-CoV-2 using Artificial Intelligence</title>
+      <link>http://localhost:1313/publication/lopezrincon-2021-designpreprint/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/lopezrincon-2021-designpreprint/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Modelling Asthma Patients&#39; Responsiveness to Treatment Using Feature Selection and Evolutionary Computation</title>
       <link>http://localhost:1313/publication/lopezrincon-2021-modelling/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
@@ -465,14 +473,6 @@
       <link>http://localhost:1313/publication/barbiero-2020-modeling/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/barbiero-2020-modeling/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Modelling Approaches for Sustainable Insect Production Chains</title>
-      <link>http://localhost:1313/publication/smetana-2020-modelling/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/smetana-2020-modelling/</guid>
       <description></description>
     </item>
     
@@ -1126,9 +1126,9 @@
     
     <item>
       <title>On the Functional Test of Branch Prediction Units Based on the Branch History Table Architecture</title>
-      <link>http://localhost:1313/publication/sanchez-2011-onthefunctional/</link>
+      <link>http://localhost:1313/publication/sanchez-2012-onthefunctional/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/sanchez-2011-onthefunctional/</guid>
+      <guid>http://localhost:1313/publication/sanchez-2012-onthefunctional/</guid>
       <description></description>
     </item>
     
@@ -1145,6 +1145,30 @@
       <link>http://localhost:1313/publication/dicarlo-2011-increasing/</link>
       <pubDate>Sat, 01 Oct 2011 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/dicarlo-2011-increasing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the functional test of Branch Prediction Units based on Branch History Table</title>
+      <link>http://localhost:1313/publication/sanchez-2011-onthefunctional/</link>
+      <pubDate>Sat, 01 Oct 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/sanchez-2011-onthefunctional/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Post-silicon failing-test generation through evolutionary computation</title>
+      <link>http://localhost:1313/publication/sanchez-2011-postsilicon/</link>
+      <pubDate>Sat, 01 Oct 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/sanchez-2011-postsilicon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Group evolution: Emerging synergy through a coordinated effort</title>
+      <link>http://localhost:1313/publication/sanchez-2011-group/</link>
+      <pubDate>Wed, 01 Jun 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/sanchez-2011-group/</guid>
       <description></description>
     </item>
     
@@ -1177,6 +1201,22 @@
       <link>http://localhost:1313/publication/dicarlo-2011-covariance/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/dicarlo-2011-covariance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evolution of Test Programs Exploiting a FSM Processor Model</title>
+      <link>http://localhost:1313/publication/sanchez-2011-evolution/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/sanchez-2011-evolution/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evolutionary failing-test generation for modern microprocessors</title>
+      <link>http://localhost:1313/publication/sanchez-2011-evolutionary/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/sanchez-2011-evolutionary/</guid>
       <description></description>
     </item>
     

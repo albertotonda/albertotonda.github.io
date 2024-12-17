@@ -1,16 +1,14 @@
 ---
 title: Batch correction of genomic data in chronic fatigue syndrome using CMA-ES
+date: '2020-07-01'
+draft: true
+publishDate: '2024-12-17T15:41:59.790627Z'
 authors:
 - Alejandro Lopez Rincon
 - Aletta D. Kraneveld
 - Alberto Tonda
-date: '2020-07-01'
-publishDate: '2024-12-13T18:55:57.838993Z'
 publication_types:
-- paper-conference
-publication: '*Proceedings of the 2020 Genetic and Evolutionary Computation Conference
-  Companion*'
-doi: 10.1145/3377929.3389947
+- '1'
 abstract: 'Modern genomic sequencing machines can measure thousands of probes from
   different specimens. Nevertheless, theoretically comparable datasets can show considerably
   distinguishable properties, depending on both platform and specimen, a phenomenon
@@ -28,7 +26,12 @@ abstract: 'Modern genomic sequencing machines can measure thousands of probes fr
   from different specimens, remarkably improves the performance of classifiers on
   the task of diagnosing Chronic Fatigue. The presented results are an important steppingstone
   towards a reliable diagnostic test for this syndrome.'
+featured: false
+publication: '*Proceedings of the 2020 Genetic and Evolutionary Computation Conference
+  Companion*'
+doi: 10.1145/3377929.3389947
 links:
 - name: URL
   url: https://doi.org/10.1145/3377929.3389947
 ---
+

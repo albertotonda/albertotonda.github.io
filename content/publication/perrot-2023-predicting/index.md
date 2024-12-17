@@ -1,18 +1,17 @@
 ---
 title: 'Predicting odor profile of food from its chemical composition: Towards an
   approach based on artificial intelligence and flavorists expertise'
+date: '2023-01-01'
+draft: true
+publishDate: '2024-12-17T15:42:25.802812Z'
 authors:
 - N. Mejean Perrot
 - Alice Roche
 - Alberto Tonda
 - Evelyne Lutton
 - Thierry Thomas-Danguin
-date: '2023-01-01'
-publishDate: '2024-12-13T18:55:58.370472Z'
 publication_types:
-- article-journal
-publication: '*Mathematical Biosciences and Engineering*'
-doi: 10.3934/mbe.2023908
+- '2'
 abstract: Odor is central to food quality. Still, a major challenge is to understand
   how the odorants present in a given food contribute to its specific odor profile,
   and how to predict this olfactory outcome from the chemical composition. In this
@@ -37,7 +36,11 @@ abstract: Odor is central to food quality. Still, a major challenge is to unders
   in odorants was available. The results showed that the model can predict the perceptual
   outcome of food odor with a certain level of accuracy, and may also provide insights
   into combinations of odorants not mentioned by the experts.
+featured: false
+publication: '*Mathematical Biosciences and Engineering*'
+doi: 10.3934/mbe.2023908
 links:
 - name: URL
   url: http://dx.doi.org/10.3934/mbe.2023908
 ---
+

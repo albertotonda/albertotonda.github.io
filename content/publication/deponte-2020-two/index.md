@@ -1,6 +1,9 @@
 ---
 title: Two Complementary Methods for the Computational Modeling of Cleaning Processes
   in Food Industry
+date: '2020-04-01'
+draft: true
+publishDate: '2024-12-17T15:42:17.739717Z'
 authors:
 - Hannes Deponte
 - Alberto Tonda
@@ -9,12 +12,8 @@ authors:
 - Guillaume Delaplace
 - Wolfgang Augustin
 - Stephan Scholl
-date: '2020-04-01'
-publishDate: '2024-12-13T18:55:58.250807Z'
 publication_types:
-- article-journal
-publication: '*Computers & Chemical Engineering*'
-doi: 10.1016/j.compchemeng.2020.106733
+- '2'
 abstract: Insufficient cleaning in the food industry can create serious hygienic risks.
   However, when attempting to avoid these risks, food-processing plants frequently
   tend to clean for too long, at extremely high temperatures, or with too many chemicals,
@@ -40,7 +39,11 @@ abstract: Insufficient cleaning in the food industry can create serious hygienic
   the resulting equations can be compared and similarities are found. Both methods
   are deemed applicable for the computational modeling of cleaning processes in food
   industry.
+featured: false
+publication: '*Computers & Chemical Engineering*'
+doi: 10.1016/j.compchemeng.2020.106733
 links:
 - name: URL
   url: https://doi.org/10.1016/j.compchemeng.2020.106733
 ---
+

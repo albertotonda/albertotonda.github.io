@@ -1,15 +1,14 @@
 ---
 title: Virtual Measurement of the Backlash Gap in Industrial Manipulators
+date: '2020-01-01'
+draft: true
+publishDate: '2024-12-17T15:41:58.934661Z'
 authors:
 - Eliana Giovannitti
 - Giovanni Squillero
 - Alberto Tonda
-date: '2020-01-01'
-publishDate: '2024-12-13T18:55:57.818555Z'
 publication_types:
-- chapter
-publication: '*Communications in Computer and Information Science*'
-doi: 10.1007/978-3-030-37838-7_17
+- '6'
 abstract: Industrial manipulators are robots used to replace humans in dangerous or
   repetitive tasks. Also, these devices are often used for applications where high
   precision and accuracy is required. The increase of backlash caused by wear, that
@@ -21,7 +20,11 @@ abstract: Industrial manipulators are robots used to replace humans in dangerous
   increase of backlash in a robot joint transmission. The peculiarity of this method
   is that it only requires measurements from the motor encoder. Experimental evaluation
   on a real-world test case demonstrates the effectiveness of the approach.
+featured: false
+publication: '*Communications in Computer and Information Science*'
+doi: 10.1007/978-3-030-37838-7_17
 links:
 - name: URL
   url: https://doi.org/10.1007/978-3-030-37838-7_17
 ---
+

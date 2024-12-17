@@ -1,6 +1,9 @@
 ---
 title: Review on environmental models in the food chain - Current status and future
   perspectives
+date: '2018-03-01'
+draft: true
+publishDate: '2024-12-17T15:42:12.283022Z'
 authors:
 - Ilija Djekic
 - Neus Sanjuán
@@ -11,12 +14,8 @@ authors:
 - Eugen Pop
 - Rallou Thomopoulos
 - Alberto Tonda
-date: '2018-03-01'
-publishDate: '2024-12-13T18:55:58.147147Z'
 publication_types:
-- article-journal
-publication: '*Journal of Cleaner Production*'
-doi: 10.1016/j.jclepro.2017.11.241
+- '2'
 abstract: Diversity of food systems and their interaction with the environment has
   become a research topic for many years. Scientists use various models to explain
   environmental issues of food systems. This paper gives an overview of main streams
@@ -36,7 +35,11 @@ abstract: Diversity of food systems and their interaction with the environment h
   emerging challenges related to environmental impacts of novel food processing technologies,
   innovative food packaging and changes in diets and food consumption in connection
   with climate and environmental changes.
+featured: false
+publication: '*Journal of Cleaner Production*'
+doi: 10.1016/j.jclepro.2017.11.241
 links:
 - name: URL
   url: https://doi.org/10.1016/j.jclepro.2017.11.241
 ---
+

@@ -1,5 +1,8 @@
 ---
 title: 'Multi-Criteria Reverse Engineering for Food: Genesis and Ongoing Advances'
+date: '2019-01-01'
+draft: true
+publishDate: '2024-12-17T15:42:14.710444Z'
 authors:
 - R. Thomopoulos
 - C. Baudrit
@@ -15,12 +18,8 @@ authors:
 - F. Taillandier
 - T. Thomas-Danguin
 - A. Tonda
-date: '2019-01-01'
-publishDate: '2024-12-13T18:55:58.192045Z'
 publication_types:
-- article-journal
-publication: '*Food Engineering Reviews*'
-doi: 10.1007/s12393-018-9186-x
+- '2'
 abstract: Multi-criteria reverse engineering (MRE) has arisen from the cross-fertilization
   of advances in mathematics and shifts in social demand. MRE, thus, marks a progressive
   switch (a) from empirical to formal approaches able to simultaneously factor in
@@ -37,7 +36,11 @@ abstract: Multi-criteria reverse engineering (MRE) has arisen from the cross-fer
   similar approaches used in sectors other than food. Building on this extensive review,
   we sketch out some guidelines on approaches to be used in future MRE applications
   in food, working up from the problem statement.
+featured: false
+publication: '*Food Engineering Reviews*'
+doi: 10.1007/s12393-018-9186-x
 links:
 - name: URL
   url: https://doi.org/10.1007/s12393-018-9186-x
 ---
+

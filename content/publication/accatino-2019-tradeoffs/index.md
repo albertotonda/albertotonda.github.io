@@ -1,17 +1,16 @@
 ---
 title: Trade-offs and Synergies Between Livestock Production and Other Ecosystem Services
+date: '2019-01-01'
+draft: true
+publishDate: '2024-12-17T15:42:13.757044Z'
 authors:
 - Francesco Accatino
 - Alberto Tonda
 - Camille Dross
 - François Léger
 - Muriel Tichit
-date: '2019-01-01'
-publishDate: '2024-12-13T18:55:58.176979Z'
 publication_types:
-- article-journal
-publication: '*Agricultural Systems*'
-doi: 10.1016/j.agsy.2018.08.002
+- '2'
 abstract: One of the biggest challenges today is to satisfy an increasing food demand
   while preserving ecosystem services. Farming systems have a huge impact on land
   cover and land use, it is therefore vital to understand how land cover and land
@@ -39,7 +38,11 @@ abstract: One of the biggest challenges today is to satisfy an increasing food d
   could be softened through intensified use of cultivated land and spatial segregation
   of livestock production. The synergies could be enhanced only through major grassland
   expansion.
+featured: false
+publication: '*Agricultural Systems*'
+doi: 10.1016/j.agsy.2018.08.002
 links:
 - name: URL
   url: https://doi.org/10.1016/j.agsy.2018.08.002
 ---
+

@@ -1,17 +1,16 @@
 ---
 title: An Intercontinental Machine Learning Analysis of Factors Explaining Consumer
   Awareness About Food Risk
+date: '2022-04-01'
+draft: true
+publishDate: '2024-12-17T15:42:02.480264Z'
 authors:
 - Alberto Tonda
 - Christian Reynolds
 - Nisrine Mouhrim
 - Rallou Thomopoulos
-date: '2022-04-01'
-publishDate: '2024-12-13T18:55:57.904668Z'
 publication_types:
-- chapter
-publication: '*Proceedings of FoodSIM 2022, 12th bi-annual International Conference
-  on Modelling and Simulation in Food Engineering*'
+- '6'
 abstract: This paper investigates to what extent food safety is perceived as a concern
   at the household level in different countries. It aims to identify the factors that
   best explain food safety concern, among the various food-related questions asked
@@ -21,4 +20,8 @@ abstract: This paper investigates to what extent food safety is perceived as a c
   beef and chicken meat. These results tend to indicate that people who are most concerned
   about food safety are also those who are best aware of environmental and nutritional
   impacts of food.
+featured: false
+publication: '*Proceedings of FoodSIM 2022, 12th bi-annual International Conference
+  on Modelling and Simulation in Food Engineering*'
 ---
+

@@ -1,18 +1,17 @@
 ---
 title: A Framework for Automated Detection of Power-related Software Errors in Industrial
   Verification Processes
+date: '2010-11-01'
+draft: true
+publishDate: '2024-12-17T15:42:06.994323Z'
 authors:
 - Stefano Gandini
 - Walter Ruzzarin
 - Ernesto Sanchez
 - Giovanni Squillero
 - Alberto Tonda
-date: '2010-11-01'
-publishDate: '2024-12-13T18:55:58.023480Z'
 publication_types:
-- article-journal
-publication: '*Journal of Electronic Testing*'
-doi: 10.1007/s10836-010-5184-5
+- '2'
 abstract: The complexity of cell phones is continually increasing, with regards to
   both hardware and software parts. As many complex devices, their components are
   usually designed and verified separately by specialized teams of engineers and programmers.
@@ -28,7 +27,11 @@ abstract: The complexity of cell phones is continually increasing, with regards 
   framework, two out of three critical from the power consumption point of view, thus
   enabling Motorola to further improve its verification plans. Details of the tests
   and experimental results are presented.
+featured: false
+publication: '*Journal of Electronic Testing*'
+doi: 10.1007/s10836-010-5184-5
 links:
 - name: URL
   url: https://doi.org/10.1007/s10836-010-5184-5
 ---
+

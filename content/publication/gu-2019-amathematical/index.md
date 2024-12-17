@@ -1,17 +1,16 @@
 ---
 title: A Mathematical Model for the Prediction of the Whey Protein Fouling Mass in
   a Pilot Scale Plate Heat Exchanger
+date: '2019-12-01'
+draft: true
+publishDate: '2024-12-17T15:42:15.278002Z'
 authors:
 - Yingying Gu
 - Laurent Bouvier
 - Alberto Tonda
 - Guillaume Delaplace
-date: '2019-12-01'
-publishDate: '2024-12-13T18:55:58.207368Z'
 publication_types:
-- article-journal
-publication: '*Food Control*'
-doi: 10.1016/j.foodcont.2019.106729
+- '2'
 abstract: A better understanding of protein fouling during the thermal treatment of
   whey protein concentrate (WPC) solutions is critical for better fouling control.
   In order to understand the impact of various parameters on the total whey protein
@@ -28,7 +27,11 @@ abstract: A better understanding of protein fouling during the thermal treatment
   This model has allowed us to provide guidelines as to how the above parameters influence
   fouling within the plate heat exchanger, as well as empirical correlations for predicting
   such fouling development.
+featured: false
+publication: '*Food Control*'
+doi: 10.1016/j.foodcont.2019.106729
 links:
 - name: URL
   url: https://doi.org/10.1016/j.foodcont.2019.106729
 ---
+

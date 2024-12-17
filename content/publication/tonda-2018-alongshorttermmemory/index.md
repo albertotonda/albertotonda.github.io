@@ -1,14 +1,13 @@
 ---
 title: A Long-Short-Term Memory Network Model for Biscuit Baking
+date: '2018-01-01'
+draft: true
+publishDate: '2024-12-17T15:41:55.472728Z'
 authors:
 - Alberto Tonda
 - Nathalie Méjean-Perrot
-date: '2018-01-01'
-publishDate: '2024-12-13T18:55:57.735699Z'
 publication_types:
-- paper-conference
-publication: '*Proceedings of FoodSIM 2018, 10th bi-annual International Conference
-  on Modelling and Simulation in Food Engineering*'
+- '1'
 abstract: Long-Short-Term Memory (LSTM) networks are a relatively recent addition
   to the field of Artificial Neural Networks (ANNs). LSTM networks are specifically
   tailored for machine learning of time series, where the outputs of a system are
@@ -20,4 +19,8 @@ abstract: Long-Short-Term Memory (LSTM) networks are a relatively recent additio
   how the proposed LSTM network can correctly predict unseen values. Remarkably, the
   network is also able to reproduce a dynamic behavior up to variations that might
   be overlooked as noise.
+featured: false
+publication: '*Proceedings of FoodSIM 2018, 10th bi-annual International Conference
+  on Modelling and Simulation in Food Engineering*'
 ---
+

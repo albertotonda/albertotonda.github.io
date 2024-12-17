@@ -1,5 +1,8 @@
 ---
 title: Automatic Generation of On-Line Test Programs through a Cooperation Scheme
+date: '2012-12-01'
+draft: true
+publishDate: '2024-12-17T15:41:46.857308Z'
 authors:
 - Lyl Mercedes Ciganda
 - Marco Gaudesi
@@ -7,13 +10,8 @@ authors:
 - Ernesto Sanchez
 - Giovanni Squillero
 - Alberto Tonda
-date: '2012-12-01'
-publishDate: '2024-12-13T18:55:57.512326Z'
 publication_types:
-- paper-conference
-publication: '*2012 13th International Workshop on Microprocessor Test and Verification
-  (MTV)*'
-doi: 10.1109/mtv.2012.17
+- '1'
 abstract: Test programs for Software-based Self-Test (SBST) can be exploited during
   the mission phase of microprocessor-based systems to periodically assess hardware
   integrity. However, several additional constraints must be imposed due to the coexistence
@@ -25,7 +23,12 @@ abstract: Test programs for Software-based Self-Test (SBST) can be exploited dur
   values on two different modules of a MIPS-like processor core. These two case studies
   demonstrate the effectiveness of the technique and the low human effort required
   for its implementation.
+featured: false
+publication: '*2012 13th International Workshop on Microprocessor Test and Verification
+  (MTV)*'
+doi: 10.1109/mtv.2012.17
 links:
 - name: URL
   url: https://doi.org/10.1109/mtv.2012.17
 ---
+

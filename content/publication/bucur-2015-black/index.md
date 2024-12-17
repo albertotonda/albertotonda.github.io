@@ -1,17 +1,16 @@
 ---
 title: 'Black Holes and Revelations: Using Evolutionary Algorithms to Uncover Vulnerabilities
   in Disruption-Tolerant Networks'
+date: '2015-01-01'
+draft: true
+publishDate: '2024-12-17T15:41:50.649583Z'
 authors:
 - Doina Bucur
 - Giovanni Iacca
 - Giovanni Squillero
 - Alberto Tonda
-date: '2015-01-01'
-publishDate: '2024-12-13T18:55:57.609630Z'
 publication_types:
-- chapter
-publication: '*Applications of Evolutionary Computation*'
-doi: 10.1007/978-3-319-16549-3_3
+- '6'
 abstract: A challenging aspect in open ad hoc networks is their resilience against
   malicious agents. This is especially true in complex, urban-scale scenarios where
   numerous moving agents carry mobile devices that create a peer-to-peer network without
@@ -26,7 +25,11 @@ abstract: A challenging aspect in open ad hoc networks is their resilience again
   disruption-tolerant network in the city of Venice. By evolving malicious agents,
   we uncover situations where even a single attacker can hamper the network performance,
   and we correlate the performance decay to the number of malicious agents.
+featured: false
+publication: '*Applications of Evolutionary Computation*'
+doi: 10.1007/978-3-319-16549-3_3
 links:
 - name: URL
   url: https://doi.org/10.1007/978-3-319-16549-3_3
 ---
+

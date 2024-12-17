@@ -1,15 +1,14 @@
 ---
 title: Balancing User Interaction and Control in BNSL
+date: '2014-01-01'
+draft: true
+publishDate: '2024-12-17T15:41:48.437663Z'
 authors:
 - Alberto Tonda
 - Andre Spritzer
 - Evelyne Lutton
-date: '2014-01-01'
-publishDate: '2024-12-13T18:55:57.554029Z'
 publication_types:
-- chapter
-publication: '*Lecture Notes in Computer Science*'
-doi: 10.1007/978-3-319-11683-9_17
+- '6'
 abstract: 'In this paper we present a study based on an evolutionary framework to
   explore what would be a reasonable compromise between interaction and automated
   optimisation in finding possible solutions for a complex problem, namely the learning
@@ -27,7 +26,11 @@ abstract: 'In this paper we present a study based on an evolutionary framework t
   Preliminary user tests were able to show that despite still requiring some improvements
   with regards to its efficiency, the proposed approach indeed achieves its goal of
   delivering satisfying results for an expert user.'
+featured: false
+publication: '*Lecture Notes in Computer Science*'
+doi: 10.1007/978-3-319-11683-9_17
 links:
 - name: URL
   url: https://doi.org/10.1007/978-3-319-11683-9_17
 ---
+

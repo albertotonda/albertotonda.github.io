@@ -1,16 +1,15 @@
 ---
 title: A Novel Outlook on Feature Selection as a Multi-objective Problem
+date: '2020-01-01'
+draft: true
+publishDate: '2024-12-17T15:41:59.217484Z'
 authors:
 - Pietro Barbiero
 - Evelyne Lutton
 - Giovanni Squillero
 - Alberto Tonda
-date: '2020-01-01'
-publishDate: '2024-12-13T18:55:57.825326Z'
 publication_types:
-- chapter
-publication: '*Lecture Notes in Computer Science*'
-doi: 10.1007/978-3-030-45715-0_6
+- '6'
 abstract: Feature selection is the process of choosing, or removing, features to obtain
   the most informative feature subset of minimal size. Such subsets are used to improve
   performance of machine learning algorithms and enable human understanding of the
@@ -32,7 +31,11 @@ abstract: Feature selection is the process of choosing, or removing, features to
   classification dataset, that cannot be exhaustively analyzed, show that our approach
   is able to find more optimal feature subsets than state-of-the-art feature selection
   algorithms.
+featured: false
+publication: '*Lecture Notes in Computer Science*'
+doi: 10.1007/978-3-030-45715-0_6
 links:
 - name: URL
   url: https://doi.org/10.1007/978-3-030-45715-0_6
 ---
+

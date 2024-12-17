@@ -1,5 +1,8 @@
 ---
 title: Optimization models for sustainable insect production chains
+date: '2023-11-01'
+draft: true
+publishDate: '2024-12-17T15:42:26.303716Z'
 authors:
 - N. Mouhrim
 - D.A. Peguero
@@ -10,12 +13,8 @@ authors:
 - A. Tonda
 - A. Mathys
 - S. Smetana
-date: '2023-11-01'
-publishDate: '2024-12-13T18:55:58.378200Z'
 publication_types:
-- article-journal
-publication: '*Journal of Insects as Food and Feed*'
-doi: 10.1163/23524588-20230148
+- '2'
 abstract: Insect value chains are a complex system with non-linear links between many
   economic, environmental, and social variables. Multi-objective optimization (MOO)
   algorithms for finding optimal options for complex system functioning can provide
@@ -31,7 +30,11 @@ abstract: Insect value chains are a complex system with non-linear links between
   To determine the framework’s applicability and the specific MOO algorithms that
   can perform the function, modeling and further testing on real insect production
   chains would be necessary for the intended objectives.
+featured: false
+publication: '*Journal of Insects as Food and Feed*'
+doi: 10.1163/23524588-20230148
 links:
 - name: URL
   url: http://dx.doi.org/10.1163/23524588-20230148
 ---
+

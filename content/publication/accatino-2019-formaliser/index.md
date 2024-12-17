@@ -1,15 +1,14 @@
 ---
 title: Formaliser la Durabilité des Paysages Agricoles Comme un Problème Multi-objectif
+date: '2019-01-01'
+draft: true
+publishDate: '2024-12-17T15:41:41.565936Z'
 authors:
 - Francesco Accatino
 - Alberto Tonda
 - Muriel Tichit
-date: '2019-01-01'
-publishDate: '2024-12-13T18:55:57.413315Z'
 publication_types:
-- chapter
-publication: '*Paysage, biodiversité fonctionnelle et santé des plantes, Ed. Quae,
-  Ed. educagri*'
+- '6'
 abstract: This chapter, published in a French book, explores the sustainability of
   agricultural landscapes by conceptualizing it as a multi-objective optimization
   problem. Agricultural landscapes, characterized by diverse land uses and ecosystem
@@ -34,7 +33,11 @@ abstract: This chapter, published in a French book, explores the sustainability 
   the exploration of alternative landscape configurations. Integrating these insights
   with participatory approaches ensures practical and socially acceptable solutions
   for sustainable landscape management.
+featured: false
+publication: '*Paysage, biodiversité fonctionnelle et santé des plantes, Ed. Quae,
+  Ed. educagri*'
 links:
 - name: URL
   url: https://hal.archives-ouvertes.fr/hal-02482110
 ---
+

@@ -1,5 +1,8 @@
 ---
 title: Automatic detection of software defects
+date: '2009-01-01'
+draft: true
+publishDate: '2024-12-17T15:41:42.930811Z'
 authors:
 - Sergio Gandini
 - Danilo Ravotto
@@ -7,13 +10,8 @@ authors:
 - Ernesto Sanchez
 - Giovanni Squillero
 - Alberto Tonda
-date: '2009-01-01'
-publishDate: '2024-12-13T18:55:57.449111Z'
 publication_types:
-- paper-conference
-publication: '*Proceedings of the 11th Annual conference on Genetic and evolutionary
-  computation - GECCO ′09*'
-doi: 10.1145/1569901.1570238
+- '1'
 abstract: Mobile phones are becoming more and more complex devices, both from the
   hardware and from the software point of view. Consequently, their various parts
   are often developed separately. Each sub-system or application may be worked out
@@ -27,7 +25,12 @@ abstract: Mobile phones are becoming more and more complex devices, both from th
   with Politecnico di Torino. We demonstrate that our approach is effective by detecting
   three distinct software misbehaviours that escape all traditional tests. The paper
   details the methodology, tests and results.
+featured: false
+publication: '*Proceedings of the 11th Annual conference on Genetic and evolutionary
+  computation - GECCO ′09*'
+doi: 10.1145/1569901.1570238
 links:
 - name: URL
   url: https://doi.org/10.1145/1569901.1570238
 ---
+

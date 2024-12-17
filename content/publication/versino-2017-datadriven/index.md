@@ -1,15 +1,14 @@
 ---
 title: Data driven modeling of plastic deformation
+date: '2017-05-01'
+draft: true
+publishDate: '2024-12-17T15:42:11.253901Z'
 authors:
 - Daniele Versino
 - Alberto Tonda
 - Curt A. Bronkhorst
-date: '2017-05-01'
-publishDate: '2024-12-13T18:55:58.124515Z'
 publication_types:
-- article-journal
-publication: '*Computer Methods in Applied Mechanics and Engineering*'
-doi: 10.1016/j.cma.2017.02.016
+- '2'
 abstract: In this paper the application of machine learning techniques for the development
   of constitutive material models is being investigated. A flow stress model, for
   strain rates ranging from 10^−4 to 10^12 (quasi-static to highly dynamic), and temperatures
@@ -26,7 +25,11 @@ abstract: In this paper the application of machine learning techniques for the d
   pointing to a potential means for both rapid prototyping in future model development,
   as well as the use of machine learning in capturing more data as a guide for more
   advanced model development.
+featured: false
+publication: '*Computer Methods in Applied Mechanics and Engineering*'
+doi: 10.1016/j.cma.2017.02.016
 links:
 - name: URL
   url: https://doi.org/10.1016/j.cma.2017.02.016
 ---
+

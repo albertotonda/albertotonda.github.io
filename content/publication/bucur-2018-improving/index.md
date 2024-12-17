@@ -1,17 +1,16 @@
 ---
 title: Improving Multi-objective Evolutionary Influence Maximization in Social Networks
+date: '2018-01-01'
+draft: true
+publishDate: '2024-12-17T15:41:55.224710Z'
 authors:
 - Doina Bucur
 - Giovanni Iacca
 - Andrea Marcelli
 - Giovanni Squillero
 - Alberto Tonda
-date: '2018-01-01'
-publishDate: '2024-12-13T18:55:57.728716Z'
 publication_types:
-- chapter
-publication: '*Applications of Evolutionary Computation*'
-doi: 10.1007/978-3-319-77538-8_9
+- '6'
 abstract: In the context of social networks, maximizing influence means contacting
   the largest possible number of nodes starting from a set of seed nodes, and assuming
   a model for influence propagation. The real-world applications of influence maximization
@@ -24,7 +23,11 @@ abstract: In the context of social networks, maximizing influence means contacti
   tested on three publicly available real-world networks, where we show that the evolutionary
   algorithm is able to improve upon the solutions found by the heuristics, while also
   converging faster than an evolutionary algorithm started from scratch.
+featured: false
+publication: '*Applications of Evolutionary Computation*'
+doi: 10.1007/978-3-319-77538-8_9
 links:
 - name: URL
   url: https://doi.org/10.1007/978-3-319-77538-8_9
 ---
+

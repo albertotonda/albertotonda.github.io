@@ -1,14 +1,18 @@
 ---
 title: Data Mining of Deck Archetypes in Hearthstone
+date: '2020-01-01'
+draft: true
+publishDate: '2024-12-17T15:41:37.672742Z'
 authors:
 - Pablo Garcia-Sanchez
 - Antonio Fernandez-Ares
 - Alberto Tonda
 - Antonio Mora
-date: '2020-01-01'
-publishDate: '2024-12-13T18:55:57.322370Z'
 publication_types:
-- paper-conference
+- '1'
+abstract: ''
+featured: false
 publication: '*Proceedings of CoSECiVi 2020, VI Congreso de la Sociedad Española para
   las Ciencias del Videojuego*'
 ---
+

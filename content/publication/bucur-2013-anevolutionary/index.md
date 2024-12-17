@@ -1,17 +1,16 @@
 ---
 title: An Evolutionary Framework for Routing Protocol Analysis in Wireless Sensor
   Networks
+date: '2013-01-01'
+draft: true
+publishDate: '2024-12-17T15:41:47.680827Z'
 authors:
 - Doina Bucur
 - Giovanni Iacca
 - Giovanni Squillero
 - Alberto Tonda
-date: '2013-01-01'
-publishDate: '2024-12-13T18:55:57.533060Z'
 publication_types:
-- chapter
-publication: '*Applications of Evolutionary Computation*'
-doi: 10.1007/978-3-642-37192-9_1
+- '6'
 abstract: Wireless Sensor Networks (WSNs) are widely adopted for applications ranging
   from surveillance to environmental monitoring. While powerful and relatively inexpensive,
   they are subject to behavioural faults which make them unreliable. Due to the complex
@@ -25,7 +24,11 @@ abstract: Wireless Sensor Networks (WSNs) are widely adopted for applications ra
   topologies plagued by excessive energy depletion over one or more nodes, and thus
   could be used as an offline debugging tool to understand and correct the issues
   before network deployment and during the development of new protocols.
+featured: false
+publication: '*Applications of Evolutionary Computation*'
+doi: 10.1007/978-3-642-37192-9_1
 links:
 - name: URL
   url: https://doi.org/10.1007/978-3-642-37192-9_1
 ---
+

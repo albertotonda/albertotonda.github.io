@@ -1,18 +1,16 @@
 ---
 title: Evolutionary optimization of wetlands design
+date: '2013-01-01'
+draft: true
+publishDate: '2024-12-17T15:41:47.152176Z'
 authors:
 - Marco Gaudesi
 - Andrea Marion
 - Tommaso Musner
 - Giovanni Squillero
 - Alberto Tonda
-date: '2013-01-01'
-publishDate: '2024-12-13T18:55:57.519321Z'
 publication_types:
-- paper-conference
-publication: '*Proceedings of the 28th Annual ACM Symposium on Applied Computing -
-  SAC ′13*'
-doi: 10.1145/2480362.2480400
+- '1'
 abstract: 'Wetlands are artificial ponds, designed to filter and purify running water
   through the contact with plant stems and roots. Wetland layouts are traditionally
   designed by experts through a laborious and time-consuming procedure: in principle,
@@ -25,7 +23,12 @@ abstract: 'Wetlands are artificial ponds, designed to filter and purify running 
   show that the results obtained by the proposed approach are qualitatively comparable
   with those provided by experts, despite the complete absence of human intervention
   during the optimization process.'
+featured: false
+publication: '*Proceedings of the 28th Annual ACM Symposium on Applied Computing -
+  SAC ′13*'
+doi: 10.1145/2480362.2480400
 links:
 - name: URL
   url: https://doi.org/10.1145/2480362.2480400
 ---
+

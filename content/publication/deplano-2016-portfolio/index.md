@@ -1,15 +1,14 @@
 ---
 title: Portfolio Optimization,  a Decision-Support Methodology for Small Budgets
+date: '2016-01-01'
+draft: true
+publishDate: '2024-12-17T15:41:52.766751Z'
 authors:
 - Igor Deplano
 - Giovanni Squillero
 - Alberto Tonda
-date: '2016-01-01'
-publishDate: '2024-12-13T18:55:57.665380Z'
 publication_types:
-- chapter
-publication: '*Applications of Evolutionary Computation*'
-doi: 10.1007/978-3-319-31204-0_5
+- '6'
 abstract: Several machine learning paradigms have been applied to financial forecasting,
   attempting to predict the market’s behavior, with the final objective of profiting
   from trading shares. While anticipating the performance of such a complex system
@@ -23,7 +22,11 @@ abstract: Several machine learning paradigms have been applied to financial fore
   information from January 2000 to June 2010 to train the framework, and data from
   July 2010 to August 2011 to validate it. The presented tool is finally proven able
   to obtain a more than satisfying profit for the considered time frame.
+featured: false
+publication: '*Applications of Evolutionary Computation*'
+doi: 10.1007/978-3-319-31204-0_5
 links:
 - name: URL
   url: https://doi.org/10.1007/978-3-319-31204-0_5
 ---
+

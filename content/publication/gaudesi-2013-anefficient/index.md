@@ -1,16 +1,14 @@
 ---
 title: An efficient distance metric for linear genetic programming
+date: '2013-01-01'
+draft: true
+publishDate: '2024-12-17T15:41:48.194038Z'
 authors:
 - Marco Gaudesi
 - Giovanni Squillero
 - Alberto Tonda
-date: '2013-01-01'
-publishDate: '2024-12-13T18:55:57.547002Z'
 publication_types:
-- paper-conference
-publication: '*Proceeding of the fifteenth annual conference on Genetic and evolutionary
-  computation conference - GECCO ′13*'
-doi: 10.1145/2463372.2463495
+- '1'
 abstract: 'Defining a distance measure over the individuals in the population of an
   Evolutionary Algorithm can be exploited for several applications, ranging from diversity
   preservation to balancing exploration and exploitation. When individuals are encoded
@@ -25,7 +23,12 @@ abstract: 'Defining a distance measure over the individuals in the population of
   has a strong correlation with phenotype-level problem-specific distance measures
   in two problems where individuals represent string of bits and Assembly-language
   programs, respectively.'
+featured: false
+publication: '*Proceeding of the fifteenth annual conference on Genetic and evolutionary
+  computation conference - GECCO ′13*'
+doi: 10.1145/2463372.2463495
 links:
 - name: URL
   url: https://doi.org/10.1145/2463372.2463495
 ---
+

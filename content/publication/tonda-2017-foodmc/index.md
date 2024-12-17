@@ -1,13 +1,12 @@
 ---
 title: 'FoodMC: a COST Action to Promote Modeling in Food Science and Industry'
+date: '2017-01-01'
+draft: true
+publishDate: '2024-12-17T15:41:54.700763Z'
 authors:
 - Alberto Tonda
-date: '2017-01-01'
-publishDate: '2024-12-13T18:55:57.714861Z'
 publication_types:
-- paper-conference
-publication: '*Proceedings of the IOBC conference on Integrated Protection of Stored
-  Products*'
+- '1'
 abstract: 'Methodologies and tools from Maths and Computer Science (MCS) are emerging
   as key contributors to modernization and optimization of processes in various disciplines:
   the agri-food sector, however, is not a traditional domain of application for MCS,
@@ -21,4 +20,8 @@ abstract: 'Methodologies and tools from Maths and Computer Science (MCS) are eme
   of existence, COST Action FoodMC helped fund several international collaborations
   between European researchers, fostered the drafting of survey papers on food modelling,
   organized meetings for discussion, and co-funded a training school.'
+featured: false
+publication: '*Proceedings of the IOBC conference on Integrated Protection of Stored
+  Products*'
 ---
+

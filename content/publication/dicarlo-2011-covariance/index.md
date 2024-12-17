@@ -1,6 +1,9 @@
 ---
 title: Covariance Matrix Adaptation Evolutionary Strategy for Drift Correction of
   Electronic Nose Data
+date: '2011-01-01'
+draft: true
+publishDate: '2024-12-17T15:41:44.344865Z'
 authors:
 - Stefano Di Carlo
 - Matteo Falasconi
@@ -10,13 +13,8 @@ authors:
 - Giovanni Squillero
 - Alberto Tonda
 - Perena Gouma
-date: '2011-01-01'
-publishDate: '2024-12-13T18:55:57.483968Z'
 publication_types:
-- paper-conference
-publication: '*Proceedings of International Symposium on Olfaction and Electronic
-  Nose 2011*'
-doi: 10.1063/1.3626293
+- '1'
 abstract: Electronic Noses (ENs) might represent a simple, fast, high sample throughput
   and economic alternative to conventional analytical instruments. However, gas sensors
   drift still limits the EN adoption in real industrial setups due to high recalibration
@@ -30,7 +28,12 @@ abstract: Electronic Noses (ENs) might represent a simple, fast, high sample thr
   paper presents and discusses an original methodology based on a Covariance Matrix
   Adaptation Evolution Strategy (CMA‐ES), suited for stochastic optimization of complex
   problems.
+featured: false
+publication: '*Proceedings of International Symposium on Olfaction and Electronic
+  Nose 2011*'
+doi: 10.1063/1.3626293
 links:
 - name: URL
   url: https://doi.org/10.1063/1.3626293
 ---
+

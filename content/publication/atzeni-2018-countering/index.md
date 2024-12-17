@@ -1,6 +1,9 @@
 ---
 title: 'Countering Android Malware: A Scalable Semi-Supervised Approach for Family-Signature
   Generation'
+date: '2018-01-01'
+draft: true
+publishDate: '2024-12-17T15:42:14.252650Z'
 authors:
 - Andrea Atzeni
 - Fernando Diaz
@@ -8,12 +11,8 @@ authors:
 - Antonio Sanchez
 - Giovanni Squillero
 - Alberto Tonda
-date: '2018-01-01'
-publishDate: '2024-12-13T18:55:58.184854Z'
 publication_types:
-- article-journal
-publication: '*IEEE Access*'
-doi: 10.1109/access.2018.2874502
+- '2'
 abstract: Reducing the effort required by humans in countering malware is of utmost
   practical value. We describe a scalable, semi-supervised framework to dig into massive
   data sets of Android applications and identify new malware families. Until 2010,
@@ -28,7 +27,11 @@ abstract: Reducing the effort required by humans in countering malware is of utm
   of the approach running experiments on a database of 1.5 million Android applications.
   In 2018, the framework has been successfully deployed on Koodous, a collaborative
   anti-malware platform.
+featured: false
+publication: '*IEEE Access*'
+doi: 10.1109/access.2018.2874502
 links:
 - name: URL
   url: https://doi.org/10.1109/access.2018.2874502
 ---
+

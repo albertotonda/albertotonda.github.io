@@ -1,5 +1,8 @@
 ---
 title: Multi-objective Optimization for Sustainable Insect Chains
+date: '2021-01-01'
+draft: true
+publishDate: '2024-12-17T15:41:37.412911Z'
 authors:
 - Alberto Tonda
 - Ashley Green
@@ -7,9 +10,10 @@ authors:
 - Alexander Mathys
 - Daniela Peguero
 - Sergeiy Smetana
-date: '2021-01-01'
-publishDate: '2024-12-13T18:55:57.316175Z'
 publication_types:
-- paper-conference
+- '1'
+abstract: ''
+featured: false
 publication: '*EAAP Annual Meeting 2021*'
 ---
+

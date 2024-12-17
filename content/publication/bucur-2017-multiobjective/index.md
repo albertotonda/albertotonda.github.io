@@ -1,18 +1,17 @@
 ---
 title: Multi-objective Evolutionary Algorithms for Influence Maximization in Social
   Networks
+date: '2017-01-01'
+draft: true
+publishDate: '2024-12-17T15:41:54.173872Z'
 authors:
 - Doina Bucur
 - Giovanni Iacca
 - Andrea Marcelli
 - Giovanni Squillero
 - Alberto Tonda
-date: '2017-01-01'
-publishDate: '2024-12-13T18:55:57.700695Z'
 publication_types:
-- chapter
-publication: '*Applications of Evolutionary Computation*'
-doi: 10.1007/978-3-319-55849-3_15
+- '6'
 abstract: As the pervasiveness of social networks increases, new NPhard related problems
   become interesting for the optimization community. The objective of influence maximization
   is to contact the largest possible number of nodes in a network, starting from a
@@ -28,7 +27,11 @@ abstract: As the pervasiveness of social networks increases, new NPhard related 
   different influence propagation models, and compared against state-of-the-art heuristic
   algorithms. The results show that the proposed approach is almost always able to
   outperform the heuristics.
+featured: false
+publication: '*Applications of Evolutionary Computation*'
+doi: 10.1007/978-3-319-55849-3_15
 links:
 - name: URL
   url: https://doi.org/10.1007/978-3-319-55849-3_15
 ---
+
