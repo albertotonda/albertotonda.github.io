@@ -6,7 +6,7 @@
 # Website name
 title: Alberto Tonda
 # Website URL
-baseURL: '/'
+baseURL: 'https://albertotonda.github.io/'
 
 ############################
 ## LANGUAGE
