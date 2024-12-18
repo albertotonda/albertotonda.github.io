@@ -14,12 +14,11 @@ While generally effective, models obtained through ML are often black boxes, as 
 
 In my research, I tackled the question of obtaining human-readable data-driven models using different approaches.
 
-## White-box AI
-Some of my early works dealt with creating white-box, human-readable ML models such as systems of Ordinary Differential Equations  [[gaucel2014learning]]({{< relref "/publication/gaucel-2014-learning/index.md" >}}), generation of computer code for a specific task using Genetic Programming [[sanchez2011evolution]]({{<relref "/publication/sanchez-2011-evolution/index.md" >}}), or modeling the behavior of a player as a stochastic Finite State Machine [[gaudesi2014turan]]({{<relref "/publication/gaudesi-2014-turan/index.md" >}}), [[gaudesi2016exploiting]]({{<relref "/publication/gaudesi-2016-exploiting/index.md" >}}).
+<!-- ## White-box AI
+Some of my early works dealt with creating white-box, human-readable ML models such as systems of Ordinary Differential Equations  [[gaucel2014learning]]({{< relref "/publication/gaucel-2014-learning/index.md" >}}), generation of computer code for a specific task using Genetic Programming~\cite{sanchez2011evolution}, or modeling the behavior of a player as a stochastic Finite State Machine~\cite{gaudesi2014turan,gaudesi2016exploiting}.
 
-More recently, I worked on interpretable-by-design neuro-symbolic approaches [[barbiero2023interpretable]]({{<relref "/publication/barbiero-2023-interpretable/index.md" >}}), also contributing to proposing a more rigorous, measurable definition of _interpretability_ for AI systems [[giannini2024categorical]]({{<relref "/publication/giannini-2024-categorical/index.md" >}}).
+More recently, I worked on interpretable-by-design neuro-symbolic approaches~\cite{barbiero2023interpretable}, also contributing to proposing a more rigorous, measurable definition of _interpretability_ for AI systems~\cite{giannini2024categorical}.
 
-<!-- 
 ## Integration of expert knowledge in AI
 
 ## Feature selection

@@ -6,15 +6,15 @@ This script employs the 'academic' python module to automatically generate
 hugoblox-compatible pages from bibtex. I wrote this because the module does not
 log properly when ran from command line, and I need to understand what is going on
 
+WARNING: I discovered that the package on pip is tragically out of date. I should use
+whatever package the hugoblox people are employing.
+
 @author: Alberto
 """
 import logging
 import os
 
-# this part here is a cut/paste/modify of import_bibtex from 'academic'
-# I had to port it here and modify it because YAML added an extra tag to
-# the 'index.md' pages, 'draft', and by default it is set to True, which makes
-# all pages unreadable by hugo websites (...)
+# so, the issue is that the current 'academic' package makes 
 from academic.import_bibtex import import_bibtex
 
 logging.basicConfig(

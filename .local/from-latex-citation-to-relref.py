@@ -13,7 +13,7 @@ import re as regex
 
 if __name__ == "__main__" :
     
-    target_file = "../content/research/software-testing/index.md"
+    target_file = "../content/research/white-box-machine-learning/index.md"
     
     # read a file, then save a copy
     text = ""
