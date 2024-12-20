@@ -1,2 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Prize | Alberto Tonda</title><link>https://albertotonda.github.io/tags/prize/</link><atom:link href="https://albertotonda.github.io/tags/prize/index.xml" rel="self" type="application/rss+xml"/><description>Prize</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 13 Jul 2022 00:00:00 +0000</lastBuildDate><image><url>https://albertotonda.github.io/media/icon_hu13064559619334802728.png</url><title>Prize</title><link>https://albertotonda.github.io/tags/prize/</link></image><item><title>Silver medal at the HUMIES awards</title><link>https://albertotonda.github.io/post/2022-07-13-gecco-humies/</link><pubDate>Wed, 13 Jul 2022 00:00:00 +0000</pubDate><guid>https://albertotonda.github.io/post/2022-07-13-gecco-humies/</guid><description>&lt;p>On July 13th, 2022, I had the pleasure of receiving the Silver Medal at the HUMIES (
-) held in Boston, MA, USA. The prize was awarded for a human-competitive result obtained using evolutionary computation. My collaborators and I (Eric Claassen, Etienne Coz, Johan Garssen, Aletta D. Kraneveld, Alejandro Lopez Rincon, Lucero Mendoza Maldonado, Carmina A. Perez Romero, Patrick Tabeling, Jessica Vanhomwegen) worked on the automatic discovery of primers for virus, with a specific application to COVID-19.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Prize | Alberto Tonda</title>
+    <link>http://localhost:1313/tags/prize/</link>
+      <atom:link href="http://localhost:1313/tags/prize/index.xml" rel="self" type="application/rss+xml" />
+    <description>Prize</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 13 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu13064559619334802728.png</url>
+      <title>Prize</title>
+      <link>http://localhost:1313/tags/prize/</link>
+    </image>
+    
+    <item>
+      <title>Silver medal at the HUMIES awards</title>
+      <link>http://localhost:1313/post/2022-07-13-gecco-humies/</link>
+      <pubDate>Wed, 13 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/2022-07-13-gecco-humies/</guid>
+      <description>&lt;p&gt;On July 13th, 2022, I had the pleasure of receiving the Silver Medal at the HUMIES (
+) held in Boston, MA, USA. The prize was awarded for a human-competitive result obtained using evolutionary computation. My collaborators and I (Eric Claassen, Etienne Coz, Johan Garssen, Aletta D. Kraneveld, Alejandro Lopez Rincon, Lucero Mendoza Maldonado, Carmina A. Perez Romero, Patrick Tabeling, Jessica Vanhomwegen) worked on the automatic discovery of primers for virus, with a specific application to COVID-19.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
