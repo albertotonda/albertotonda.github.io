@@ -1,28 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Program Synthesis | Alberto Tonda</title>
-    <link>http://localhost:1313/tags/program-synthesis/</link>
-      <atom:link href="http://localhost:1313/tags/program-synthesis/index.xml" rel="self" type="application/rss+xml" />
-    <description>Program Synthesis</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 25 Nov 2024 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>http://localhost:1313/media/icon_hu13064559619334802728.png</url>
-      <title>Program Synthesis</title>
-      <link>http://localhost:1313/tags/program-synthesis/</link>
-    </image>
-    
-    <item>
-      <title>Invited talk on program synthesis</title>
-      <link>http://localhost:1313/post/2024-11-25-irisa/</link>
-      <pubDate>Mon, 25 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/2024-11-25-irisa/</guid>
-      <description>&lt;p&gt;The CNRS 
- (Institute of Research on Computer Science and Random Systems, IRISA) in Rennes, France, invited me to give a talk with the aim of establishing a contact between different communities working on program synthesis.&lt;/p&gt;
-&lt;h2 id=&#34;abstract-of-the-talk&#34;&gt;Abstract of the talk&lt;/h2&gt;
-&lt;p&gt;Evolutionary algorithms (EAs) are stochastic optimization techniques, designed to tackle objective functions for which other techniques fail (for example, due to the impossibility of computing derivatives, non-convexity of the function landscape, or sheer size of the search space). Genetic programming (GP) is a technique belonging to the field of EAs, designed to stochastically explore search spaces of complex structures, for example trees or graphs. Since these structures can be used to represent computer programs, GP has been successfully applied to the task of program synthesis since the early 2000s, automatically generating computer programs for specific applications. In this talk, I will briefly introduce EAs and GP, before going over the current state of the art in EA-based program synthesis, focusing in particular on strengths, limitations, and possible ways forward.&lt;/p&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Program Synthesis | Alberto Tonda</title><link>https://albertotonda.github.io/tags/program-synthesis/</link><atom:link href="https://albertotonda.github.io/tags/program-synthesis/index.xml" rel="self" type="application/rss+xml"/><description>Program Synthesis</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 25 Nov 2024 00:00:00 +0000</lastBuildDate><image><url>https://albertotonda.github.io/media/icon_hu13064559619334802728.png</url><title>Program Synthesis</title><link>https://albertotonda.github.io/tags/program-synthesis/</link></image><item><title>Invited talk on program synthesis</title><link>https://albertotonda.github.io/post/2024-11-25-irisa/</link><pubDate>Mon, 25 Nov 2024 00:00:00 +0000</pubDate><guid>https://albertotonda.github.io/post/2024-11-25-irisa/</guid><description>&lt;p>The CNRS
+(Institute of Research on Computer Science and Random Systems, IRISA) in Rennes, France, invited me to give a talk with the aim of establishing a contact between different communities working on program synthesis.&lt;/p>
+&lt;h2 id="abstract-of-the-talk">Abstract of the talk&lt;/h2>
+&lt;p>Evolutionary algorithms (EAs) are stochastic optimization techniques, designed to tackle objective functions for which other techniques fail (for example, due to the impossibility of computing derivatives, non-convexity of the function landscape, or sheer size of the search space). Genetic programming (GP) is a technique belonging to the field of EAs, designed to stochastically explore search spaces of complex structures, for example trees or graphs. Since these structures can be used to represent computer programs, GP has been successfully applied to the task of program synthesis since the early 2000s, automatically generating computer programs for specific applications. In this talk, I will briefly introduce EAs and GP, before going over the current state of the art in EA-based program synthesis, focusing in particular on strengths, limitations, and possible ways forward.&lt;/p></description></item></channel></rss>

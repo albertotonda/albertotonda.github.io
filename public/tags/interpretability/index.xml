@@ -1,57 +1,29 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Interpretability | Alberto Tonda</title>
-    <link>http://localhost:1313/tags/interpretability/</link>
-      <atom:link href="http://localhost:1313/tags/interpretability/index.xml" rel="self" type="application/rss+xml" />
-    <description>Interpretability</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 13 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>http://localhost:1313/media/icon_hu13064559619334802728.png</url>
-      <title>Interpretability</title>
-      <link>http://localhost:1313/tags/interpretability/</link>
-    </image>
-    
-    <item>
-      <title>Interpretable AI</title>
-      <link>http://localhost:1313/research/white-box-machine-learning/</link>
-      <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/research/white-box-machine-learning/</guid>
-      <description>&lt;p&gt;Artificial Intelligence (AI) is a vast field with a considerable number of different approaches, ranging from symbolic AI to reinforcement learning. Most of the recent, impressive successes of AI are based on machine learning (ML), techniques able to learn predictive models for a given phenomenon directly from data.&lt;/p&gt;
-&lt;p&gt;While generally effective, models obtained through ML are often black boxes, as it is practically impossible for humans to infer their decision processes, due to their sheer complexity. For applications in fields like health and food science, black-box models are impractical, as for domain experts it is unaccaptable to just apply a solution without understanding it.&lt;/p&gt;
-&lt;p&gt;In my research, I tackled the question of obtaining human-readable data-driven models using different approaches.&lt;/p&gt;
-&lt;h2 id=&#34;white-box-ai&#34;&gt;White-box AI&lt;/h2&gt;
-&lt;p&gt;Some of my early works dealt with creating white-box, human-readable ML models such as systems of Ordinary Differential Equations  
-, generation of computer code for a specific task using Genetic Programming 
-, or modeling the behavior of a player as a stochastic Finite State Machine 
-, 
-.&lt;/p&gt;
-&lt;p&gt;More recently, I worked on interpretable-by-design neuro-symbolic approaches 
-, also contributing to proposing a more rigorous, measurable definition of &lt;em&gt;interpretability&lt;/em&gt; for AI systems 
-.&lt;/p&gt;
-&lt;!-- 
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Interpretability | Alberto Tonda</title><link>https://albertotonda.github.io/tags/interpretability/</link><atom:link href="https://albertotonda.github.io/tags/interpretability/index.xml" rel="self" type="application/rss+xml"/><description>Interpretability</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 13 Dec 2024 00:00:00 +0000</lastBuildDate><image><url>https://albertotonda.github.io/media/icon_hu13064559619334802728.png</url><title>Interpretability</title><link>https://albertotonda.github.io/tags/interpretability/</link></image><item><title>Interpretable AI</title><link>https://albertotonda.github.io/research/white-box-machine-learning/</link><pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate><guid>https://albertotonda.github.io/research/white-box-machine-learning/</guid><description>&lt;p>Artificial Intelligence (AI) is a vast field with a considerable number of different approaches, ranging from symbolic AI to reinforcement learning. Most of the recent, impressive successes of AI are based on machine learning (ML), techniques able to learn predictive models for a given phenomenon directly from data.&lt;/p>
+&lt;p>While generally effective, models obtained through ML are often black boxes, as it is practically impossible for humans to infer their decision processes, due to their sheer complexity. For applications in fields like health and food science, black-box models are impractical, as for domain experts it is unaccaptable to just apply a solution without understanding it.&lt;/p>
+&lt;p>In my research, I tackled the question of obtaining human-readable data-driven models using different approaches.&lt;/p>
+&lt;h2 id="white-box-ai">White-box AI&lt;/h2>
+&lt;p>Some of my early works dealt with creating white-box, human-readable ML models such as systems of Ordinary Differential Equations
+, generation of computer code for a specific task using Genetic Programming
+, or modeling the behavior of a player as a stochastic Finite State Machine
+,
+.&lt;/p>
+&lt;p>More recently, I worked on interpretable-by-design neuro-symbolic approaches
+, also contributing to proposing a more rigorous, measurable definition of &lt;em>interpretability&lt;/em> for AI systems
+.&lt;/p>
+&lt;!--
 ## Integration of expert knowledge in AI
-
 ## Feature selection
 Another way of making a ML model understandable is by reducing the number of features (variables) that it can use to take a decision; however, removing information might impair the performance of the algorithm. This is the principle behind _feature selection_, a subdomain of AI focused on finding the minimal amount of necessary information for the algorithm.
-
 I developed novel techniques for unsupervised feature selection
-
-## Old text below this point --&gt;
-&lt;p&gt;Some of my early works dealt with 
-, and 
- 
- with 
-. More recently I investigated the relationships between 
-, and experimented with the translation of Explainable AI (XAI) techniques from the 
-. Furthermore, I explored different approaches to feature and sample selection, the process of identifying the most compact sect of meaningful information to explain a ML algorithm decisions on a target problem, often employing Evolutionary Algorithms (EAs), see for example 
-, 
-, 
-.&lt;/p&gt;
-&lt;p&gt;I am recognized as one of the experts of this niche combining EAs and ML, and as a consequence I co-organized tutorials on the subject in several specialized conferences (ACM GECCO, PPSN) plus an invited lecture in the summer school organized by 
- &lt;em&gt;Improving Applicability of Nature-Inspired Optimisation by Joining Theory and Practice&lt;/em&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
+## Old text below this point -->
+&lt;p>Some of my early works dealt with
+, and
+with
+. More recently I investigated the relationships between
+, and experimented with the translation of Explainable AI (XAI) techniques from the
+. Furthermore, I explored different approaches to feature and sample selection, the process of identifying the most compact sect of meaningful information to explain a ML algorithm decisions on a target problem, often employing Evolutionary Algorithms (EAs), see for example
+,
+,
+.&lt;/p>
+&lt;p>I am recognized as one of the experts of this niche combining EAs and ML, and as a consequence I co-organized tutorials on the subject in several specialized conferences (ACM GECCO, PPSN) plus an invited lecture in the summer school organized by
+&lt;em>Improving Applicability of Nature-Inspired Optimisation by Joining Theory and Practice&lt;/em>.&lt;/p></description></item></channel></rss>
