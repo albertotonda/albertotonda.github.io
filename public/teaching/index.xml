@@ -1,4 +1,37 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Teaching | Alberto Tonda</title><link>https://albertotonda.github.io/teaching/</link><atom:link href="https://albertotonda.github.io/teaching/index.xml" rel="self" type="application/rss+xml"/><description>Teaching</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate><image><url>https://albertotonda.github.io/media/icon_hu13064559619334802728.png</url><title>Teaching</title><link>https://albertotonda.github.io/teaching/</link></image><item><title>Deep learning in practice with pytorch</title><link>https://albertotonda.github.io/teaching/deep-learning-in-practice-with-pytorch/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://albertotonda.github.io/teaching/deep-learning-in-practice-with-pytorch/</guid><description>&lt;p>The aim of this class is to provide students with a hands-on approach to deep learning, exploring functionalities of the pytorch library. Different applications of deep learning to relational data such as images and time sequences will presented, including the description of architectures like convolutional neural networks, recurrent neural networks, autoencoders, and transformers.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Teaching | Alberto Tonda</title><link>https://albertotonda.github.io/teaching/</link><atom:link href="https://albertotonda.github.io/teaching/index.xml" rel="self" type="application/rss+xml"/><description>Teaching</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 07 Apr 2025 00:00:00 +0000</lastBuildDate><image><url>https://albertotonda.github.io/media/icon_hu_426aaca0d42cf8d6.png</url><title>Teaching</title><link>https://albertotonda.github.io/teaching/</link></image><item><title>Optimization algorithms for artificial intelligence</title><link>https://albertotonda.github.io/teaching/optimization-algorithms-for-artificial-intelligence/</link><pubDate>Mon, 07 Apr 2025 00:00:00 +0000</pubDate><guid>https://albertotonda.github.io/teaching/optimization-algorithms-for-artificial-intelligence/</guid><description>&lt;p>The aim of this class is to provide Ph.D. students with an overview of modern optimization algorithms, highlighting strengths and weaknesses of each method. Students will discover that optimization can be applied to continuous or discrete numerical values, and even to more complex and expressive structures, such as trees or graphs.&lt;/p>
+&lt;h2 id="introduction-to-the-class">Introduction to the class&lt;/h2>
+&lt;p>
+&lt;br>
+&lt;/p>
+&lt;h2 id="continuous-optimization">Continuous optimization&lt;/h2>
+&lt;p>
+&lt;br>
+&lt;/p>
+&lt;h2 id="linear-programming-and-discrete-optimization">Linear programming and discrete optimization&lt;/h2>
+&lt;p>
+&lt;br>
+&lt;br>
+&lt;/p>
+&lt;h2 id="multi-objective-optimization">Multi-objective optimization&lt;/h2>
+&lt;p>
+&lt;br>
+&lt;/p>
+&lt;h2 id="optimization-of-complex-structures">Optimization of complex structures&lt;/h2>
+&lt;p>
+&lt;br>
+&lt;/p>
+&lt;h2 id="advanced-optimization-techniques">Advanced optimization techniques&lt;/h2>
+&lt;p>
+&lt;/p>
+&lt;h2 id="optimization-in-machine-learning">Optimization in machine learning&lt;/h2>
+&lt;p>
+&lt;br>
+&lt;br>
+&lt;/p>
+&lt;h2 id="hyperparameter-optimization-and-automl">Hyperparameter optimization and AutoML&lt;/h2>
+&lt;p>
+&lt;br>
+&lt;/p></description></item><item><title>Deep learning in practice with pytorch</title><link>https://albertotonda.github.io/teaching/deep-learning-in-practice-with-pytorch/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://albertotonda.github.io/teaching/deep-learning-in-practice-with-pytorch/</guid><description>&lt;p>The aim of this class is to provide students with a hands-on approach to deep learning, exploring functionalities of the pytorch library. Different applications of deep learning to relational data such as images and time sequences will presented, including the description of architectures like convolutional neural networks, recurrent neural networks, autoencoders, and transformers.&lt;/p>
 &lt;h2 id="summary-of-basic-machine-learning-concepts">Summary of basic Machine Learning concepts&lt;/h2>
 &lt;p>The first session is an introduction to the class and a (relatively quick) summary of basic machine learning concepts that will be extensively used in the following.&lt;/p>
 &lt;p>Google Colaboratory notebook with exercises: (requires a Google account):
@@ -40,37 +73,4 @@
 &lt;p>Introduction to Concept Bottleneck Models and Concept Embedding Models.&lt;/p>
 &lt;h2 id="relational-concept-bottleneck-models">Relational concept bottleneck models&lt;/h2>
 &lt;p>Advanced seminar on relational concept bottleneck models, given by
-.&lt;/p></description></item><item><title>Optimization algorithms for artificial intelligence</title><link>https://albertotonda.github.io/teaching/optimization-algorithms-for-artificial-intelligence/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://albertotonda.github.io/teaching/optimization-algorithms-for-artificial-intelligence/</guid><description>&lt;p>The aim of this class is to provide Ph.D. students with an overview of modern optimization algorithms, highlighting strengths and weaknesses of each method. Students will discover that optimization can be applied to continuous or discrete numerical values, and even to more complex and expressive structures, such as trees or graphs.&lt;/p>
-&lt;h2 id="introduction-to-the-class">Introduction to the class&lt;/h2>
-&lt;p>
-&lt;br>
-&lt;/p>
-&lt;h2 id="continuous-optimization">Continuous optimization&lt;/h2>
-&lt;p>
-&lt;br>
-&lt;/p>
-&lt;h2 id="linear-programming-and-discrete-optimization">Linear programming and discrete optimization&lt;/h2>
-&lt;p>
-&lt;br>
-&lt;br>
-&lt;/p>
-&lt;h2 id="multi-objective-optimization">Multi-objective optimization&lt;/h2>
-&lt;p>
-&lt;br>
-&lt;/p>
-&lt;h2 id="optimization-of-complex-structures">Optimization of complex structures&lt;/h2>
-&lt;p>
-&lt;br>
-&lt;/p>
-&lt;h2 id="advanced-optimization-techniques">Advanced optimization techniques&lt;/h2>
-&lt;p>
-&lt;/p>
-&lt;h2 id="optimization-in-machine-learning">Optimization in machine learning&lt;/h2>
-&lt;p>
-&lt;br>
-&lt;br>
-&lt;/p>
-&lt;h2 id="hyperparameter-optimization-and-automl">Hyperparameter optimization and AutoML&lt;/h2>
-&lt;p>
-&lt;br>
-&lt;/p></description></item></channel></rss>
+.&lt;/p></description></item></channel></rss>

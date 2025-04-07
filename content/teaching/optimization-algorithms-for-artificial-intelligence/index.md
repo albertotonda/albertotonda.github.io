@@ -1,7 +1,7 @@
 ---
 title: Optimization algorithms for artificial intelligence
 summary: Class on optimization for Ph.D. students enrolled in Université Paris-Saclay, taught in English 
-date: 2023-01-01
+date: 2025-04-07
 type: docs
 math: false
 tags:
@@ -9,7 +9,7 @@ tags:
   - AI
 image:
   image: featured.png
-  caption: 'Embed rich media such as videos and LaTeX math'
+  caption: 'Example of continuous search space'
 ---
 
 The aim of this class is to provide Ph.D. students with an overview of modern optimization algorithms, highlighting strengths and weaknesses of each method. Students will discover that optimization can be applied to continuous or discrete numerical values, and even to more complex and expressive structures, such as trees or graphs.
