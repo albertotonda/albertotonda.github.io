@@ -13,7 +13,17 @@ feature and link using &lt;code>slides&lt;/code> parameter in the front matter o
 .&lt;/li>
 &lt;/ul>
 &lt;p>Further event details, including
-such as image galleries, can be added to the body of this page.&lt;/p></description></item><item><title>Deep learning in practice with pytorch</title><link>https://albertotonda.github.io/teaching/deep-learning-in-practice-with-pytorch/</link><pubDate>Mon, 07 Apr 2025 00:00:00 +0000</pubDate><guid>https://albertotonda.github.io/teaching/deep-learning-in-practice-with-pytorch/</guid><description>&lt;p>The aim of this class is to provide students with a hands-on approach to deep learning, exploring functionalities of the pytorch library. Different applications of deep learning to relational data such as images and time sequences will presented, including the description of architectures like convolutional neural networks, recurrent neural networks, autoencoders, and transformers.&lt;/p>
+such as image galleries, can be added to the body of this page.&lt;/p></description></item><item><title>Runner-up prize for best poster at EvoSTAR 2025</title><link>https://albertotonda.github.io/post/2025-04-25-evostar/</link><pubDate>Fri, 25 Apr 2025 00:00:00 +0000</pubDate><guid>https://albertotonda.github.io/post/2025-04-25-evostar/</guid><description>&lt;!-- ![Logo of the EvoSTAR conference](evostar.png) -->
+&lt;p>Lots of fun and interesting presentations at EvoSTAR 2025! It is always exciting to see what&amp;rsquo;s new in the evolutionary domain.&lt;/p>
+&lt;figure>&lt;img src="https://albertotonda.github.io/post/2025-04-25-evostar/evostar.png">
+&lt;/figure>
+&lt;p>Congrats to Arthur Lequertier, the student I am co-supervising along with his main supervisor Wolfram Liebermeister, for being the runner-up for best poster, with the work titled &amp;ldquo;Inferring Reaction Elasticities in Cells from Metabolic State Correlations through Multi-Objective Evolutionary Optimization&amp;rdquo;!&lt;/p>
+&lt;!-- ![Runner-up certificate](runnerup.png) -->
+&lt;figure>&lt;img src="https://albertotonda.github.io/post/2025-04-25-evostar/runnerup.jpg">
+&lt;/figure>
+&lt;p>If you are interested in knowing more about the paper, here is a link:
+&lt;/p>
+&lt;p>See you next year, EvoSTAR community!&lt;/p></description></item><item><title>Deep learning in practice with pytorch</title><link>https://albertotonda.github.io/teaching/deep-learning-in-practice-with-pytorch/</link><pubDate>Mon, 07 Apr 2025 00:00:00 +0000</pubDate><guid>https://albertotonda.github.io/teaching/deep-learning-in-practice-with-pytorch/</guid><description>&lt;p>The aim of this class is to provide students with a hands-on approach to deep learning, exploring functionalities of the pytorch library. Different applications of deep learning to relational data such as images and time sequences will presented, including the description of architectures like convolutional neural networks, recurrent neural networks, autoencoders, and transformers.&lt;/p>
 &lt;h2 id="summary-of-basic-machine-learning-concepts">Summary of basic Machine Learning concepts&lt;/h2>
 &lt;p>The first session is an introduction to the class and a (relatively quick) summary of basic machine learning concepts that will be extensively used in the following.&lt;/p>
 &lt;p>
