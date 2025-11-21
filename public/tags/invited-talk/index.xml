@@ -5,12 +5,23 @@
     <link>http://localhost:1313/tags/invited-talk/</link>
       <atom:link href="http://localhost:1313/tags/invited-talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Invited Talk</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 25 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 03 Nov 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu_426aaca0d42cf8d6.png</url>
       <title>Invited Talk</title>
       <link>http://localhost:1313/tags/invited-talk/</link>
     </image>
+    
+    <item>
+      <title>Invited talk at the M2Sud seminar</title>
+      <link>http://localhost:1313/post/2025-11-03-m2sud/</link>
+      <pubDate>Mon, 03 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/2025-11-03-m2sud/</guid>
+      <description>&lt;p&gt;I was recently invited at the 
+ organized by the 
+, near Antibes, where I had the opportunity of presenting ongoing, unpublished work on symbolic regression for learning dynamical systems. Many of the other presentations were also focused on the topic of obtaining human-interpretable, predictive models of dynamical systems for plants and bacteria, a strong emerging trend in machine learning.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Invited talk on program synthesis</title>

@@ -37,6 +37,27 @@
     </item>
     
     <item>
+      <title>Reception at the New Zealand embassy</title>
+      <link>http://localhost:1313/post/2025-11-19-nz-embassy/</link>
+      <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/2025-11-19-nz-embassy/</guid>
+      <description>&lt;p&gt;The New Zealand embassy in Paris organized an event to celebrate 20 years of research collaboration between France and their country. The event included a delegation from NZ, aiming to establish collaborations for participation in Horizon projects. In the scope of their visit, I will also present the activities of my research team during another meeting at Ecole Polytechnique later during the week.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;20-years.jpg&#34; alt=&#34;Book published &#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Invited talk at the M2Sud seminar</title>
+      <link>http://localhost:1313/post/2025-11-03-m2sud/</link>
+      <pubDate>Mon, 03 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/2025-11-03-m2sud/</guid>
+      <description>&lt;p&gt;I was recently invited at the 
+ organized by the 
+, near Antibes, where I had the opportunity of presenting ongoing, unpublished work on symbolic regression for learning dynamical systems. Many of the other presentations were also focused on the topic of obtaining human-interpretable, predictive models of dynamical systems for plants and bacteria, a strong emerging trend in machine learning.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Attending INRAE&#39;s scientific council</title>
       <link>http://localhost:1313/post/2025-09-29-scientific-council/</link>
       <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
@@ -748,7 +769,7 @@ ecosystem services
 
 
 
-&lt;div id=&#34;chart-176582943&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-265437891&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -766,7 +787,7 @@ ecosystem services
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-176582943&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-265437891&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
