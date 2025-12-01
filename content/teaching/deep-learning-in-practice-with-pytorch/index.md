@@ -15,9 +15,14 @@ image:
 
 The aim of this class is to provide students with a hands-on approach to deep learning, exploring functionalities of the pytorch library. Different applications of deep learning to relational data such as images and time sequences will presented, including the description of architectures like convolutional neural networks, recurrent neural networks, autoencoders, and transformers.
 
+## Introduction to the class
+[Slides - Introduction to the class 2025](0-introduction.pdf)  
+
 ## Summary of basic Machine Learning concepts
 The first session is an introduction to the class and a (relatively quick) summary of basic machine learning concepts that will be extensively used in the following. 
 
+[Slides - Refresher on Machine Learning](0-machine-learning.pdf)
+ 
 [Colaboratory notebook with exercises on ML](https://colab.research.google.com/drive/1a5418oFw2pHwyALxXP1cqfAQfT76_8f5?usp=sharing)
 
 ## Basics of pytorch
