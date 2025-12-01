@@ -15,20 +15,21 @@ image:
 
 The aim of this class is to provide students with a hands-on approach to deep learning, exploring functionalities of the pytorch library. Different applications of deep learning to relational data such as images and time sequences will presented, including the description of architectures like convolutional neural networks, recurrent neural networks, autoencoders, and transformers.
 
-## Introduction to the class
-[Slides - Introduction to the class 2025](0-introduction.pdf)  
-
-## Summary of basic Machine Learning concepts
+## Introduction to the class / Refresher on ML concepts
 The first session is an introduction to the class and a (relatively quick) summary of basic machine learning concepts that will be extensively used in the following. 
 
-[Slides - Refresher on Machine Learning](0-machine-learning.pdf)
+[Slides - Introduction to the class, 2025](0-introduction.pdf)  
+
+[Slides - Refresher on machine learning, 2025](0-machine-learning.pdf)
  
-[Colaboratory notebook with exercises on ML](https://colab.research.google.com/drive/1a5418oFw2pHwyALxXP1cqfAQfT76_8f5?usp=sharing)
+[Colaboratory notebook with exercises on ML, 2025](https://colab.research.google.com/drive/1a5418oFw2pHwyALxXP1cqfAQfT76_8f5?usp=sharing)
 
 ## Basics of pytorch
 Introduction to basic concepts of pytorch. Tensors, Modules, Optimizers, Loss functions.
 
-[Colaboratory notebook with exercises on basic pytorch concepts](https://colab.research.google.com/drive/146pua5hpN8DcF958TaDqq3rO1tEgjX9h?usp=sharing)
+[Slides - Refresher on neural networks and philosophy of pytorch, 2025](1-neural-networks-and-pytorch.pdf)
+
+[Colaboratory notebook with exercises on basic pytorch concepts, 2025](https://colab.research.google.com/drive/146pua5hpN8DcF958TaDqq3rO1tEgjX9h?usp=sharing)
 
 ## Intermediate pytorch concepts
 Slightly more advanced pytorch concepts. Monitoring training performance, using Tensorboard, Stochastic gradient descent and derived techniques, Schedulers, Activation functions, Checkpointing.

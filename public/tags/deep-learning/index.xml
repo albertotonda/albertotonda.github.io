@@ -18,17 +18,18 @@
       <pubDate>Mon, 07 Apr 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/teaching/deep-learning-in-practice-with-pytorch/</guid>
       <description>&lt;p&gt;The aim of this class is to provide students with a hands-on approach to deep learning, exploring functionalities of the pytorch library. Different applications of deep learning to relational data such as images and time sequences will presented, including the description of architectures like convolutional neural networks, recurrent neural networks, autoencoders, and transformers.&lt;/p&gt;
-&lt;h2 id=&#34;introduction-to-the-class&#34;&gt;Introduction to the class&lt;/h2&gt;
+&lt;h2 id=&#34;introduction-to-the-class--refresher-on-ml-concepts&#34;&gt;Introduction to the class / Refresher on ML concepts&lt;/h2&gt;
+&lt;p&gt;The first session is an introduction to the class and a (relatively quick) summary of basic machine learning concepts that will be extensively used in the following.&lt;/p&gt;
 &lt;p&gt;
 &lt;/p&gt;
-&lt;h2 id=&#34;summary-of-basic-machine-learning-concepts&#34;&gt;Summary of basic Machine Learning concepts&lt;/h2&gt;
-&lt;p&gt;The first session is an introduction to the class and a (relatively quick) summary of basic machine learning concepts that will be extensively used in the following.&lt;/p&gt;
 &lt;p&gt;
 &lt;/p&gt;
 &lt;p&gt;
 &lt;/p&gt;
 &lt;h2 id=&#34;basics-of-pytorch&#34;&gt;Basics of pytorch&lt;/h2&gt;
 &lt;p&gt;Introduction to basic concepts of pytorch. Tensors, Modules, Optimizers, Loss functions.&lt;/p&gt;
+&lt;p&gt;
+&lt;/p&gt;
 &lt;p&gt;
 &lt;/p&gt;
 &lt;h2 id=&#34;intermediate-pytorch-concepts&#34;&gt;Intermediate pytorch concepts&lt;/h2&gt;
