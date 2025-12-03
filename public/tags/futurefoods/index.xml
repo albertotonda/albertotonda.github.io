@@ -1,26 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>FutureFoodS | Alberto Tonda</title>
-    <link>http://localhost:1313/tags/futurefoods/</link>
-      <atom:link href="http://localhost:1313/tags/futurefoods/index.xml" rel="self" type="application/rss+xml" />
-    <description>FutureFoodS</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 19 Jun 2024 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>http://localhost:1313/media/icon_hu_426aaca0d42cf8d6.png</url>
-      <title>FutureFoodS</title>
-      <link>http://localhost:1313/tags/futurefoods/</link>
-    </image>
-    
-    <item>
-      <title>Horizon Europe FutureFoodS</title>
-      <link>http://localhost:1313/project/2024-futurefoods/</link>
-      <pubDate>Wed, 19 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/2024-futurefoods/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;meeting.png&#34; alt=&#34;screen reader text&#34; title=&#34;Group photo of the FutureFoodS kick-off meeting, held in Dijon, France&#34;&gt;&lt;/p&gt;
-&lt;p&gt;FutureFoodS is a Horizon Europe co-funded project I am participant of, running from 2024 to 2034, involving 86 partners from 29 countries. The FutureFoodS partnership aims to collectively achieve healthy, safe, environmentally friendly, socially secure, fair, and economically viable food systems for Europe. For more information, check out the 
-.&lt;/p&gt;</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>FutureFoodS | Alberto Tonda</title><link>https://albertotonda.github.io/tags/futurefoods/</link><atom:link href="https://albertotonda.github.io/tags/futurefoods/index.xml" rel="self" type="application/rss+xml"/><description>FutureFoodS</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 19 Jun 2024 00:00:00 +0000</lastBuildDate><image><url>https://albertotonda.github.io/media/icon_hu_426aaca0d42cf8d6.png</url><title>FutureFoodS</title><link>https://albertotonda.github.io/tags/futurefoods/</link></image><item><title>Horizon Europe FutureFoodS</title><link>https://albertotonda.github.io/project/2024-futurefoods/</link><pubDate>Wed, 19 Jun 2024 00:00:00 +0000</pubDate><guid>https://albertotonda.github.io/project/2024-futurefoods/</guid><description>&lt;p>&lt;img src="meeting.png" alt="screen reader text" title="Group photo of the FutureFoodS kick-off meeting, held in Dijon, France">&lt;/p>
+&lt;p>FutureFoodS is a Horizon Europe co-funded project I am participant of, running from 2024 to 2034, involving 86 partners from 29 countries. The FutureFoodS partnership aims to collectively achieve healthy, safe, environmentally friendly, socially secure, fair, and economically viable food systems for Europe. For more information, check out the
+.&lt;/p></description></item></channel></rss>

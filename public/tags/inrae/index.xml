@@ -1,39 +1,6 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>INRAE | Alberto Tonda</title>
-    <link>http://localhost:1313/tags/inrae/</link>
-      <atom:link href="http://localhost:1313/tags/inrae/index.xml" rel="self" type="application/rss+xml" />
-    <description>INRAE</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 03 Nov 2025 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>http://localhost:1313/media/icon_hu_426aaca0d42cf8d6.png</url>
-      <title>INRAE</title>
-      <link>http://localhost:1313/tags/inrae/</link>
-    </image>
-    
-    <item>
-      <title>Invited talk at the M2Sud seminar</title>
-      <link>http://localhost:1313/post/2025-11-03-m2sud/</link>
-      <pubDate>Mon, 03 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/2025-11-03-m2sud/</guid>
-      <description>&lt;p&gt;I was recently invited at the 
- organized by the 
-, near Antibes, where I had the opportunity of presenting ongoing, unpublished work on symbolic regression for learning dynamical systems. Many of the other presentations were also focused on the topic of obtaining human-interpretable, predictive models of dynamical systems for plants and bacteria, a strong emerging trend in machine learning.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Attending INRAE&#39;s scientific council</title>
-      <link>http://localhost:1313/post/2025-09-29-scientific-council/</link>
-      <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/2025-09-29-scientific-council/</guid>
-      <description>&lt;p&gt;I had the privilege of replacing my colleague 
- in 
-&amp;rsquo;s scientific council as a representative of my department, 
-. INRAE, the French national institute of research in agriculture, food, and the environment, is one of the largest agricultural and environmental research organization in the world, employing more than 10,000 people. Its scientific council is an important instance, including both elected and nominated representatives, to track INRAE&amp;rsquo;s current work and define future research directions.&lt;/p&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>INRAE | Alberto Tonda</title><link>https://albertotonda.github.io/tags/inrae/</link><atom:link href="https://albertotonda.github.io/tags/inrae/index.xml" rel="self" type="application/rss+xml"/><description>INRAE</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 03 Nov 2025 00:00:00 +0000</lastBuildDate><image><url>https://albertotonda.github.io/media/icon_hu_426aaca0d42cf8d6.png</url><title>INRAE</title><link>https://albertotonda.github.io/tags/inrae/</link></image><item><title>Invited talk at the M2Sud seminar</title><link>https://albertotonda.github.io/post/2025-11-03-m2sud/</link><pubDate>Mon, 03 Nov 2025 00:00:00 +0000</pubDate><guid>https://albertotonda.github.io/post/2025-11-03-m2sud/</guid><description>&lt;p>I was recently invited at the
+organized by the
+, near Antibes, where I had the opportunity of presenting ongoing, unpublished work on symbolic regression for learning dynamical systems. Many of the other presentations were also focused on the topic of obtaining human-interpretable, predictive models of dynamical systems for plants and bacteria, a strong emerging trend in machine learning.&lt;/p></description></item><item><title>Attending INRAE's scientific council</title><link>https://albertotonda.github.io/post/2025-09-29-scientific-council/</link><pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate><guid>https://albertotonda.github.io/post/2025-09-29-scientific-council/</guid><description>&lt;p>I had the privilege of replacing my colleague
+in
+&amp;rsquo;s scientific council as a representative of my department,
+. INRAE, the French national institute of research in agriculture, food, and the environment, is one of the largest agricultural and environmental research organization in the world, employing more than 10,000 people. Its scientific council is an important instance, including both elected and nominated representatives, to track INRAE&amp;rsquo;s current work and define future research directions.&lt;/p></description></item></channel></rss>

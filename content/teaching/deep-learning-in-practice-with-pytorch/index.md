@@ -19,22 +19,20 @@ The aim of this class is to provide students with a hands-on approach to deep le
 The first session is an introduction to the class and a (relatively quick) summary of basic machine learning concepts that will be extensively used in the following. 
 
 [Slides - Introduction to the class, 2025](0-introduction.pdf)  
-
-[Slides - Refresher on machine learning, 2025](0-machine-learning.pdf)
- 
+[Slides - Refresher on machine learning, 2025](0-machine-learning.pdf)  
 [Colaboratory notebook with exercises on ML, 2025](https://colab.research.google.com/drive/1a5418oFw2pHwyALxXP1cqfAQfT76_8f5?usp=sharing)
 
 ## Basics of pytorch
 Introduction to basic concepts of pytorch. Tensors, Modules, Optimizers, Loss functions.
 
-[Slides - Refresher on neural networks and philosophy of pytorch, 2025](1-neural-networks-and-pytorch.pdf)
-
+[Slides - Refresher on neural networks and philosophy of pytorch, 2025](1-neural-networks-and-pytorch.pdf)  
 [Colaboratory notebook with exercises on basic pytorch concepts, 2025](https://colab.research.google.com/drive/146pua5hpN8DcF958TaDqq3rO1tEgjX9h?usp=sharing)
 
 ## Intermediate pytorch concepts
 Slightly more advanced pytorch concepts. Monitoring training performance, using Tensorboard, Stochastic gradient descent and derived techniques, Schedulers, Activation functions, Checkpointing.
 
-[Colaboratory notebook with exercises on basic pytorch concepts](https://colab.research.google.com/drive/1RuT7FiEWVSgUF_aaSr8CIZCB6bEKV20R?usp=sharing)
+[Slides - Intermediate pytorch concepts, 2025](1-intermediate-pytorch.pdf)  
+[Colaboratory notebook with exercises on intermediate pytorch concepts](https://colab.research.google.com/drive/1RuT7FiEWVSgUF_aaSr8CIZCB6bEKV20R?usp=sharing)
 
 ## Convolutional neural networks
 1. Basics of Convolutional Neural Networks (CNNs): convolution, pooling, architectures, applications.

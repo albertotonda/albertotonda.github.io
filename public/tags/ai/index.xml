@@ -1,67 +1,34 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>AI | Alberto Tonda</title>
-    <link>http://localhost:1313/tags/ai/</link>
-      <atom:link href="http://localhost:1313/tags/ai/index.xml" rel="self" type="application/rss+xml" />
-    <description>AI</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 07 Apr 2025 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>http://localhost:1313/media/icon_hu_426aaca0d42cf8d6.png</url>
-      <title>AI</title>
-      <link>http://localhost:1313/tags/ai/</link>
-    </image>
-    
-    <item>
-      <title>Optimization algorithms for artificial intelligence</title>
-      <link>http://localhost:1313/teaching/optimization-algorithms-for-artificial-intelligence/</link>
-      <pubDate>Mon, 07 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/teaching/optimization-algorithms-for-artificial-intelligence/</guid>
-      <description>&lt;p&gt;The aim of this class is to provide Ph.D. students with an overview of modern optimization algorithms, highlighting strengths and weaknesses of each method. Students will discover that optimization can be applied to continuous or discrete numerical values, and even to more complex and expressive structures, such as trees or graphs.&lt;/p&gt;
-&lt;h2 id=&#34;introduction-to-the-class&#34;&gt;Introduction to the class&lt;/h2&gt;
-&lt;p&gt;
-&lt;br&gt;
-
-&lt;/p&gt;
-&lt;h2 id=&#34;continuous-optimization&#34;&gt;Continuous optimization&lt;/h2&gt;
-&lt;p&gt;
-&lt;br&gt;
-
-&lt;/p&gt;
-&lt;h2 id=&#34;linear-programming-and-discrete-optimization&#34;&gt;Linear programming and discrete optimization&lt;/h2&gt;
-&lt;p&gt;
-&lt;br&gt;
-
-&lt;br&gt;
-
-&lt;/p&gt;
-&lt;h2 id=&#34;multi-objective-optimization&#34;&gt;Multi-objective optimization&lt;/h2&gt;
-&lt;p&gt;
-&lt;br&gt;
-
-&lt;/p&gt;
-&lt;h2 id=&#34;optimization-of-complex-structures&#34;&gt;Optimization of complex structures&lt;/h2&gt;
-&lt;p&gt;
-&lt;br&gt;
-
-&lt;/p&gt;
-&lt;h2 id=&#34;advanced-optimization-techniques&#34;&gt;Advanced optimization techniques&lt;/h2&gt;
-&lt;p&gt;
-&lt;/p&gt;
-&lt;h2 id=&#34;optimization-in-machine-learning&#34;&gt;Optimization in machine learning&lt;/h2&gt;
-&lt;p&gt;
-&lt;br&gt;
-
-&lt;br&gt;
-
-&lt;/p&gt;
-&lt;h2 id=&#34;hyperparameter-optimization-and-automl&#34;&gt;Hyperparameter optimization and AutoML&lt;/h2&gt;
-&lt;p&gt;
-&lt;br&gt;
-
-&lt;/p&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>AI | Alberto Tonda</title><link>https://albertotonda.github.io/tags/ai/</link><atom:link href="https://albertotonda.github.io/tags/ai/index.xml" rel="self" type="application/rss+xml"/><description>AI</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 07 Apr 2025 00:00:00 +0000</lastBuildDate><image><url>https://albertotonda.github.io/media/icon_hu_426aaca0d42cf8d6.png</url><title>AI</title><link>https://albertotonda.github.io/tags/ai/</link></image><item><title>Optimization algorithms for artificial intelligence</title><link>https://albertotonda.github.io/teaching/optimization-algorithms-for-artificial-intelligence/</link><pubDate>Mon, 07 Apr 2025 00:00:00 +0000</pubDate><guid>https://albertotonda.github.io/teaching/optimization-algorithms-for-artificial-intelligence/</guid><description>&lt;p>The aim of this class is to provide Ph.D. students with an overview of modern optimization algorithms, highlighting strengths and weaknesses of each method. Students will discover that optimization can be applied to continuous or discrete numerical values, and even to more complex and expressive structures, such as trees or graphs.&lt;/p>
+&lt;h2 id="introduction-to-the-class">Introduction to the class&lt;/h2>
+&lt;p>
+&lt;br>
+&lt;/p>
+&lt;h2 id="continuous-optimization">Continuous optimization&lt;/h2>
+&lt;p>
+&lt;br>
+&lt;/p>
+&lt;h2 id="linear-programming-and-discrete-optimization">Linear programming and discrete optimization&lt;/h2>
+&lt;p>
+&lt;br>
+&lt;br>
+&lt;/p>
+&lt;h2 id="multi-objective-optimization">Multi-objective optimization&lt;/h2>
+&lt;p>
+&lt;br>
+&lt;/p>
+&lt;h2 id="optimization-of-complex-structures">Optimization of complex structures&lt;/h2>
+&lt;p>
+&lt;br>
+&lt;/p>
+&lt;h2 id="advanced-optimization-techniques">Advanced optimization techniques&lt;/h2>
+&lt;p>
+&lt;/p>
+&lt;h2 id="optimization-in-machine-learning">Optimization in machine learning&lt;/h2>
+&lt;p>
+&lt;br>
+&lt;br>
+&lt;/p>
+&lt;h2 id="hyperparameter-optimization-and-automl">Hyperparameter optimization and AutoML&lt;/h2>
+&lt;p>
+&lt;br>
+&lt;/p></description></item></channel></rss>
