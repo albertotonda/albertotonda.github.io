@@ -1,11 +1,53 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Invited Talk | Alberto Tonda</title><link>https://albertotonda.github.io/tags/invited-talk/</link><atom:link href="https://albertotonda.github.io/tags/invited-talk/index.xml" rel="self" type="application/rss+xml"/><description>Invited Talk</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 03 Nov 2025 00:00:00 +0000</lastBuildDate><image><url>https://albertotonda.github.io/media/icon_hu_426aaca0d42cf8d6.png</url><title>Invited Talk</title><link>https://albertotonda.github.io/tags/invited-talk/</link></image><item><title>Invited talk at the M2Sud seminar</title><link>https://albertotonda.github.io/post/2025-11-03-m2sud/</link><pubDate>Mon, 03 Nov 2025 00:00:00 +0000</pubDate><guid>https://albertotonda.github.io/post/2025-11-03-m2sud/</guid><description>&lt;p>I was recently invited at the
-organized by the
-, near Antibes, where I had the opportunity of presenting ongoing, unpublished work on symbolic regression for learning dynamical systems. Many of the other presentations were also focused on the topic of obtaining human-interpretable, predictive models of dynamical systems for plants and bacteria, a strong emerging trend in machine learning.&lt;/p></description></item><item><title>Invited talk on program synthesis</title><link>https://albertotonda.github.io/post/2024-11-25-irisa/</link><pubDate>Mon, 25 Nov 2024 00:00:00 +0000</pubDate><guid>https://albertotonda.github.io/post/2024-11-25-irisa/</guid><description>&lt;p>The CNRS
-(Institute of Research on Computer Science and Random Systems, IRISA) in Rennes, France, invited me to give a talk with the aim of establishing a contact between different communities working on program synthesis.&lt;/p>
-&lt;h2 id="abstract-of-the-talk">Abstract of the talk&lt;/h2>
-&lt;p>Evolutionary algorithms (EAs) are stochastic optimization techniques, designed to tackle objective functions for which other techniques fail (for example, due to the impossibility of computing derivatives, non-convexity of the function landscape, or sheer size of the search space). Genetic programming (GP) is a technique belonging to the field of EAs, designed to stochastically explore search spaces of complex structures, for example trees or graphs. Since these structures can be used to represent computer programs, GP has been successfully applied to the task of program synthesis since the early 2000s, automatically generating computer programs for specific applications. In this talk, I will briefly introduce EAs and GP, before going over the current state of the art in EA-based program synthesis, focusing in particular on strengths, limitations, and possible ways forward.&lt;/p></description></item><item><title>Invited talk at ENCALS 2022</title><link>https://albertotonda.github.io/post/2022-06-03-encals/</link><pubDate>Sat, 04 Jun 2022 00:00:00 +0000</pubDate><guid>https://albertotonda.github.io/post/2022-06-03-encals/</guid><description>&lt;p>On June 3rd, 2022, I had the pleasure of giving an invited talk at the first Non-Coding RNA in Motor Neuron Diseases (MND) and Amyothropic Lateral Sclerosis (ALS) International Symposium, a side event of the
-in Edinburgh, Scotland, UK.&lt;/p>
-&lt;p>The subject of my talk was feature selection of microRNA biomarkers to help machine learning robustly classifying diseases. The application I presented is cancer classification, based on a
-. The technique proposed in the study, Recursive Ensemble Feature Selection, can in principle be applied to datasets from other diseases, and during the symposium we discussed the possibility of applying it to an ALS dataset.&lt;/p>
-&lt;p>I would like to thank all the ENCALS organizing committee, and in particular
-, for the kind invite and the productive interactions.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Invited Talk | Alberto Tonda</title>
+    <link>http://localhost:1313/tags/invited-talk/</link>
+      <atom:link href="http://localhost:1313/tags/invited-talk/index.xml" rel="self" type="application/rss+xml" />
+    <description>Invited Talk</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 03 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_426aaca0d42cf8d6.png</url>
+      <title>Invited Talk</title>
+      <link>http://localhost:1313/tags/invited-talk/</link>
+    </image>
+    
+    <item>
+      <title>Invited talk at the M2Sud seminar</title>
+      <link>http://localhost:1313/post/2025-11-03-m2sud/</link>
+      <pubDate>Mon, 03 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/2025-11-03-m2sud/</guid>
+      <description>&lt;p&gt;I was recently invited at the 
+ organized by the 
+, near Antibes, where I had the opportunity of presenting ongoing, unpublished work on symbolic regression for learning dynamical systems. Many of the other presentations were also focused on the topic of obtaining human-interpretable, predictive models of dynamical systems for plants and bacteria, a strong emerging trend in machine learning.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Invited talk on program synthesis</title>
+      <link>http://localhost:1313/post/2024-11-25-irisa/</link>
+      <pubDate>Mon, 25 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/2024-11-25-irisa/</guid>
+      <description>&lt;p&gt;The CNRS 
+ (Institute of Research on Computer Science and Random Systems, IRISA) in Rennes, France, invited me to give a talk with the aim of establishing a contact between different communities working on program synthesis.&lt;/p&gt;
+&lt;h2 id=&#34;abstract-of-the-talk&#34;&gt;Abstract of the talk&lt;/h2&gt;
+&lt;p&gt;Evolutionary algorithms (EAs) are stochastic optimization techniques, designed to tackle objective functions for which other techniques fail (for example, due to the impossibility of computing derivatives, non-convexity of the function landscape, or sheer size of the search space). Genetic programming (GP) is a technique belonging to the field of EAs, designed to stochastically explore search spaces of complex structures, for example trees or graphs. Since these structures can be used to represent computer programs, GP has been successfully applied to the task of program synthesis since the early 2000s, automatically generating computer programs for specific applications. In this talk, I will briefly introduce EAs and GP, before going over the current state of the art in EA-based program synthesis, focusing in particular on strengths, limitations, and possible ways forward.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Invited talk at ENCALS 2022</title>
+      <link>http://localhost:1313/post/2022-06-03-encals/</link>
+      <pubDate>Sat, 04 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/2022-06-03-encals/</guid>
+      <description>&lt;p&gt;On June 3rd, 2022, I had the pleasure of giving an invited talk at the first Non-Coding RNA in Motor Neuron Diseases (MND) and Amyothropic Lateral Sclerosis (ALS) International Symposium, a side event of the 
+ in Edinburgh, Scotland, UK.&lt;/p&gt;
+&lt;p&gt;The subject of my talk was feature selection of microRNA biomarkers to help machine learning robustly classifying diseases. The application I presented is cancer classification, based on a 
+. The technique proposed in the study, Recursive Ensemble Feature Selection, can in principle be applied to datasets from other diseases, and during the symposium we discussed the possibility of applying it to an ALS dataset.&lt;/p&gt;
+&lt;p&gt;I would like to thank all the ENCALS organizing committee, and in particular 
+, for the kind invite and the productive interactions.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

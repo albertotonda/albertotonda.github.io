@@ -51,6 +51,8 @@ An overview of visualization techniques for CNNs.
 ## Embeddings
 Basic notions of embeddings: what they are, and how to create them. Example of word embeddings with Word2Vec.
 
+[Colaboratory notebook with exercises on embeddings](https://colab.research.google.com/drive/1XNMAm2z8aQ07YZF0yn_r-MMJc3wQT3gi?usp=sharing)
+
 ## Recurrent neural networks
 Recurrent Neural Networks (RNNs) and more modern architectures, such as Long-Short-Term Memory Networks (LSTMs) and Gated Recurrent Units (GRUs).
 

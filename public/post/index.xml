@@ -1,35 +1,133 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Blog | Alberto Tonda</title><link>https://albertotonda.github.io/post/</link><atom:link href="https://albertotonda.github.io/post/index.xml" rel="self" type="application/rss+xml"/><description>Blog</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 19 Nov 2025 00:00:00 +0000</lastBuildDate><image><url>https://albertotonda.github.io/media/icon_hu_426aaca0d42cf8d6.png</url><title>Blog</title><link>https://albertotonda.github.io/post/</link></image><item><title>Reception at the New Zealand embassy</title><link>https://albertotonda.github.io/post/2025-11-19-nz-embassy/</link><pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate><guid>https://albertotonda.github.io/post/2025-11-19-nz-embassy/</guid><description>&lt;p>The New Zealand embassy in Paris organized an event to celebrate 20 years of research collaboration between France and their country. The event included a delegation from NZ, aiming to establish collaborations for participation in Horizon projects. In the scope of their visit, I will also present the activities of my research team during another meeting at Ecole Polytechnique later during the week.&lt;/p>
-&lt;p>&lt;img src="20-years.jpg" alt="Book published ">&lt;/p></description></item><item><title>Invited talk at the M2Sud seminar</title><link>https://albertotonda.github.io/post/2025-11-03-m2sud/</link><pubDate>Mon, 03 Nov 2025 00:00:00 +0000</pubDate><guid>https://albertotonda.github.io/post/2025-11-03-m2sud/</guid><description>&lt;p>I was recently invited at the
-organized by the
-, near Antibes, where I had the opportunity of presenting ongoing, unpublished work on symbolic regression for learning dynamical systems. Many of the other presentations were also focused on the topic of obtaining human-interpretable, predictive models of dynamical systems for plants and bacteria, a strong emerging trend in machine learning.&lt;/p></description></item><item><title>Attending INRAE's scientific council</title><link>https://albertotonda.github.io/post/2025-09-29-scientific-council/</link><pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate><guid>https://albertotonda.github.io/post/2025-09-29-scientific-council/</guid><description>&lt;p>I had the privilege of replacing my colleague
-in
-&amp;rsquo;s scientific council as a representative of my department,
-. INRAE, the French national institute of research in agriculture, food, and the environment, is one of the largest agricultural and environmental research organization in the world, employing more than 10,000 people. Its scientific council is an important instance, including both elected and nominated representatives, to track INRAE&amp;rsquo;s current work and define future research directions.&lt;/p></description></item><item><title>Presenting the ARC challenge at GPTP</title><link>https://albertotonda.github.io/post/2025-06-06-gptp/</link><pubDate>Thu, 05 Jun 2025 00:00:00 +0000</pubDate><guid>https://albertotonda.github.io/post/2025-06-06-gptp/</guid><description>&lt;p>My first participation in the
-(GPTP) was super-interesting. There was a lot of time for extended plenary discussions, which is usually a feature missing from larger conferences.&lt;/p>
-&lt;p>&lt;img src="selfie.jpg" alt="Selfie taken during GPTP">&lt;/p>
-&lt;p>The focus of my presentation was the
-challenge, and I tried to push the Genetic Programming crowd to participate in the current Kaggle competition, as I believe it could be GP&amp;rsquo;s chance to shine! I&amp;rsquo;ve also shown some preliminary results in a joint work with Alberto Moraglio from University of Exeter.&lt;/p>
-&lt;p>&lt;img src="esoteric.png" alt="Esoteric way at MSU">&lt;/p>
-&lt;p>It was an absolute pleasure to meet again Travis Desell, James McDermott, Giorgia Nadizar, Una-May O&amp;rsquo;Reilly, Leonardo Truijllo, and many other brilliant colleagues. Thanks to Michigan State University (MSU) and Wolfgang Banzhaf for hosting and organizing the event!&lt;/p></description></item><item><title>Runner-up prize for best poster at EvoSTAR 2025</title><link>https://albertotonda.github.io/post/2025-04-25-evostar/</link><pubDate>Fri, 25 Apr 2025 00:00:00 +0000</pubDate><guid>https://albertotonda.github.io/post/2025-04-25-evostar/</guid><description>&lt;!-- ![Logo of the EvoSTAR conference](evostar.png) -->
-&lt;p>Lots of fun and interesting presentations at EvoSTAR 2025! It is always exciting to see what&amp;rsquo;s new in the evolutionary domain.&lt;/p>
-&lt;figure>&lt;img src="https://albertotonda.github.io/post/2025-04-25-evostar/evostar.png">
-&lt;/figure>
-&lt;p>Congrats to Arthur Lequertier, the student I am co-supervising along with his main supervisor Wolfram Liebermeister, for being the runner-up for best poster, with the work titled &amp;ldquo;Inferring Reaction Elasticities in Cells from Metabolic State Correlations through Multi-Objective Evolutionary Optimization&amp;rdquo;!&lt;/p>
-&lt;!-- ![Runner-up certificate](runnerup.png) -->
-&lt;figure>&lt;img src="https://albertotonda.github.io/post/2025-04-25-evostar/runnerup.jpg">
-&lt;/figure>
-&lt;p>If you are interested in knowing more about the paper, here is a link:
-&lt;/p>
-&lt;p>See you next year, EvoSTAR community!&lt;/p></description></item><item><title>Invited talk on program synthesis</title><link>https://albertotonda.github.io/post/2024-11-25-irisa/</link><pubDate>Mon, 25 Nov 2024 00:00:00 +0000</pubDate><guid>https://albertotonda.github.io/post/2024-11-25-irisa/</guid><description>&lt;p>The CNRS
-(Institute of Research on Computer Science and Random Systems, IRISA) in Rennes, France, invited me to give a talk with the aim of establishing a contact between different communities working on program synthesis.&lt;/p>
-&lt;h2 id="abstract-of-the-talk">Abstract of the talk&lt;/h2>
-&lt;p>Evolutionary algorithms (EAs) are stochastic optimization techniques, designed to tackle objective functions for which other techniques fail (for example, due to the impossibility of computing derivatives, non-convexity of the function landscape, or sheer size of the search space). Genetic programming (GP) is a technique belonging to the field of EAs, designed to stochastically explore search spaces of complex structures, for example trees or graphs. Since these structures can be used to represent computer programs, GP has been successfully applied to the task of program synthesis since the early 2000s, automatically generating computer programs for specific applications. In this talk, I will briefly introduce EAs and GP, before going over the current state of the art in EA-based program synthesis, focusing in particular on strengths, limitations, and possible ways forward.&lt;/p></description></item><item><title>Visiting Victoria University, NZ</title><link>https://albertotonda.github.io/post/2024-06-24-vuw/</link><pubDate>Mon, 24 Jun 2024 00:00:00 +0000</pubDate><guid>https://albertotonda.github.io/post/2024-06-24-vuw/</guid><description>&lt;p>During the 2024 summer I spent almost two months visiting the researchers and students at the
-of
-, New Zealand. Prof. Mengjie Zhang and his colleagues warmly welcomed me in spite of the relatively cold weather of the austral hemisphere, and we had a excellent exchange of ideas; not to mention, I had the opportunity of working again with the brilliant Ph.D. student Hengzhe Zhang, with whom I previously collaborated.&lt;/p>
-&lt;p>Thanks again to Prof. Mengjie Zhang and all his colleagues (Bing Xue, Xiaoying Gao, Fangfang Zhang, Hui Ma, and many others I am surely forgetting) for inviting me and for the warm welcome!&lt;/p></description></item><item><title>Silver medal at the HUMIES awards</title><link>https://albertotonda.github.io/post/2022-07-13-gecco-humies/</link><pubDate>Wed, 13 Jul 2022 00:00:00 +0000</pubDate><guid>https://albertotonda.github.io/post/2022-07-13-gecco-humies/</guid><description>&lt;p>On July 13th, 2022, I had the pleasure of receiving the Silver Medal at the HUMIES (
-) held in Boston, MA, USA. The prize was awarded for a human-competitive result obtained using evolutionary computation. My collaborators and I (Eric Claassen, Etienne Coz, Johan Garssen, Aletta D. Kraneveld, Alejandro Lopez Rincon, Lucero Mendoza Maldonado, Carmina A. Perez Romero, Patrick Tabeling, Jessica Vanhomwegen) worked on the automatic discovery of primers for virus, with a specific application to COVID-19.&lt;/p></description></item><item><title>Invited talk at ENCALS 2022</title><link>https://albertotonda.github.io/post/2022-06-03-encals/</link><pubDate>Sat, 04 Jun 2022 00:00:00 +0000</pubDate><guid>https://albertotonda.github.io/post/2022-06-03-encals/</guid><description>&lt;p>On June 3rd, 2022, I had the pleasure of giving an invited talk at the first Non-Coding RNA in Motor Neuron Diseases (MND) and Amyothropic Lateral Sclerosis (ALS) International Symposium, a side event of the
-in Edinburgh, Scotland, UK.&lt;/p>
-&lt;p>The subject of my talk was feature selection of microRNA biomarkers to help machine learning robustly classifying diseases. The application I presented is cancer classification, based on a
-. The technique proposed in the study, Recursive Ensemble Feature Selection, can in principle be applied to datasets from other diseases, and during the symposium we discussed the possibility of applying it to an ALS dataset.&lt;/p>
-&lt;p>I would like to thank all the ENCALS organizing committee, and in particular
-, for the kind invite and the productive interactions.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog | Alberto Tonda</title>
+    <link>http://localhost:1313/post/</link>
+      <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Blog</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 19 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_426aaca0d42cf8d6.png</url>
+      <title>Blog</title>
+      <link>http://localhost:1313/post/</link>
+    </image>
+    
+    <item>
+      <title>Reception at the New Zealand embassy</title>
+      <link>http://localhost:1313/post/2025-11-19-nz-embassy/</link>
+      <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/2025-11-19-nz-embassy/</guid>
+      <description>&lt;p&gt;The New Zealand embassy in Paris organized an event to celebrate 20 years of research collaboration between France and their country. The event included a delegation from NZ, aiming to establish collaborations for participation in Horizon projects. In the scope of their visit, I will also present the activities of my research team during another meeting at Ecole Polytechnique later during the week.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;20-years.jpg&#34; alt=&#34;Book published &#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Invited talk at the M2Sud seminar</title>
+      <link>http://localhost:1313/post/2025-11-03-m2sud/</link>
+      <pubDate>Mon, 03 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/2025-11-03-m2sud/</guid>
+      <description>&lt;p&gt;I was recently invited at the 
+ organized by the 
+, near Antibes, where I had the opportunity of presenting ongoing, unpublished work on symbolic regression for learning dynamical systems. Many of the other presentations were also focused on the topic of obtaining human-interpretable, predictive models of dynamical systems for plants and bacteria, a strong emerging trend in machine learning.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Attending INRAE&#39;s scientific council</title>
+      <link>http://localhost:1313/post/2025-09-29-scientific-council/</link>
+      <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/2025-09-29-scientific-council/</guid>
+      <description>&lt;p&gt;I had the privilege of replacing my colleague 
+ in 
+&amp;rsquo;s scientific council as a representative of my department, 
+. INRAE, the French national institute of research in agriculture, food, and the environment, is one of the largest agricultural and environmental research organization in the world, employing more than 10,000 people. Its scientific council is an important instance, including both elected and nominated representatives, to track INRAE&amp;rsquo;s current work and define future research directions.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Presenting the ARC challenge at GPTP</title>
+      <link>http://localhost:1313/post/2025-06-06-gptp/</link>
+      <pubDate>Thu, 05 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/2025-06-06-gptp/</guid>
+      <description>&lt;p&gt;My first participation in the 
+ (GPTP) was super-interesting. There was a lot of time for extended plenary discussions, which is usually a feature missing from larger conferences.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;selfie.jpg&#34; alt=&#34;Selfie taken during GPTP&#34;&gt;&lt;/p&gt;
+&lt;p&gt;The focus of my presentation was the 
+ challenge, and I tried to push the Genetic Programming crowd to participate in the current Kaggle competition, as I believe it could be GP&amp;rsquo;s chance to shine! I&amp;rsquo;ve also shown some preliminary results in a joint work with Alberto Moraglio from University of Exeter.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;esoteric.png&#34; alt=&#34;Esoteric way at MSU&#34;&gt;&lt;/p&gt;
+&lt;p&gt;It was an absolute pleasure to meet again Travis Desell, James McDermott, Giorgia Nadizar, Una-May O&amp;rsquo;Reilly, Leonardo Truijllo, and many other brilliant colleagues. Thanks to Michigan State University (MSU) and Wolfgang Banzhaf for hosting and organizing the event!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Runner-up prize for best poster at EvoSTAR 2025</title>
+      <link>http://localhost:1313/post/2025-04-25-evostar/</link>
+      <pubDate>Fri, 25 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/2025-04-25-evostar/</guid>
+      <description>&lt;!-- ![Logo of the EvoSTAR conference](evostar.png) --&gt;
+&lt;p&gt;Lots of fun and interesting presentations at EvoSTAR 2025! It is always exciting to see what&amp;rsquo;s new in the evolutionary domain.&lt;/p&gt;
+&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/post/2025-04-25-evostar/evostar.png&#34;&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Congrats to Arthur Lequertier, the student I am co-supervising along with his main supervisor Wolfram Liebermeister, for being the runner-up for best poster, with the work titled &amp;ldquo;Inferring Reaction Elasticities in Cells from Metabolic State Correlations through Multi-Objective Evolutionary Optimization&amp;rdquo;!&lt;/p&gt;
+&lt;!-- ![Runner-up certificate](runnerup.png) --&gt;
+&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/post/2025-04-25-evostar/runnerup.jpg&#34;&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;If you are interested in knowing more about the paper, here is a link: 
+&lt;/p&gt;
+&lt;p&gt;See you next year, EvoSTAR community!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Invited talk on program synthesis</title>
+      <link>http://localhost:1313/post/2024-11-25-irisa/</link>
+      <pubDate>Mon, 25 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/2024-11-25-irisa/</guid>
+      <description>&lt;p&gt;The CNRS 
+ (Institute of Research on Computer Science and Random Systems, IRISA) in Rennes, France, invited me to give a talk with the aim of establishing a contact between different communities working on program synthesis.&lt;/p&gt;
+&lt;h2 id=&#34;abstract-of-the-talk&#34;&gt;Abstract of the talk&lt;/h2&gt;
+&lt;p&gt;Evolutionary algorithms (EAs) are stochastic optimization techniques, designed to tackle objective functions for which other techniques fail (for example, due to the impossibility of computing derivatives, non-convexity of the function landscape, or sheer size of the search space). Genetic programming (GP) is a technique belonging to the field of EAs, designed to stochastically explore search spaces of complex structures, for example trees or graphs. Since these structures can be used to represent computer programs, GP has been successfully applied to the task of program synthesis since the early 2000s, automatically generating computer programs for specific applications. In this talk, I will briefly introduce EAs and GP, before going over the current state of the art in EA-based program synthesis, focusing in particular on strengths, limitations, and possible ways forward.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Visiting Victoria University, NZ</title>
+      <link>http://localhost:1313/post/2024-06-24-vuw/</link>
+      <pubDate>Mon, 24 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/2024-06-24-vuw/</guid>
+      <description>&lt;p&gt;During the 2024 summer I spent almost two months visiting the researchers and students at the 
+ of 
+, New Zealand. Prof. Mengjie Zhang and his colleagues warmly welcomed me in spite of the relatively cold weather of the austral hemisphere, and we had a excellent exchange of ideas; not to mention, I had the opportunity of working again with the brilliant Ph.D. student Hengzhe Zhang, with whom I previously collaborated.&lt;/p&gt;
+&lt;p&gt;Thanks again to Prof. Mengjie Zhang and all his colleagues (Bing Xue, Xiaoying Gao, Fangfang Zhang, Hui Ma, and many others I am surely forgetting) for inviting me and for the warm welcome!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Silver medal at the HUMIES awards</title>
+      <link>http://localhost:1313/post/2022-07-13-gecco-humies/</link>
+      <pubDate>Wed, 13 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/2022-07-13-gecco-humies/</guid>
+      <description>&lt;p&gt;On July 13th, 2022, I had the pleasure of receiving the Silver Medal at the HUMIES (
+) held in Boston, MA, USA. The prize was awarded for a human-competitive result obtained using evolutionary computation. My collaborators and I (Eric Claassen, Etienne Coz, Johan Garssen, Aletta D. Kraneveld, Alejandro Lopez Rincon, Lucero Mendoza Maldonado, Carmina A. Perez Romero, Patrick Tabeling, Jessica Vanhomwegen) worked on the automatic discovery of primers for virus, with a specific application to COVID-19.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Invited talk at ENCALS 2022</title>
+      <link>http://localhost:1313/post/2022-06-03-encals/</link>
+      <pubDate>Sat, 04 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/2022-06-03-encals/</guid>
+      <description>&lt;p&gt;On June 3rd, 2022, I had the pleasure of giving an invited talk at the first Non-Coding RNA in Motor Neuron Diseases (MND) and Amyothropic Lateral Sclerosis (ALS) International Symposium, a side event of the 
+ in Edinburgh, Scotland, UK.&lt;/p&gt;
+&lt;p&gt;The subject of my talk was feature selection of microRNA biomarkers to help machine learning robustly classifying diseases. The application I presented is cancer classification, based on a 
+. The technique proposed in the study, Recursive Ensemble Feature Selection, can in principle be applied to datasets from other diseases, and during the symposium we discussed the possibility of applying it to an ALS dataset.&lt;/p&gt;
+&lt;p&gt;I would like to thank all the ENCALS organizing committee, and in particular 
+, for the kind invite and the productive interactions.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

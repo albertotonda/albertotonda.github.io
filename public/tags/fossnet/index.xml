@@ -1,2 +1,25 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>FoSSNet | Alberto Tonda</title><link>https://albertotonda.github.io/tags/fossnet/</link><atom:link href="https://albertotonda.github.io/tags/fossnet/index.xml" rel="self" type="application/rss+xml"/><description>FoSSNet</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Feb 2024 00:00:00 +0000</lastBuildDate><image><url>https://albertotonda.github.io/media/icon_hu_426aaca0d42cf8d6.png</url><title>FoSSNet</title><link>https://albertotonda.github.io/tags/fossnet/</link></image><item><title>Horizon Europe FoSSNet</title><link>https://albertotonda.github.io/project/2024-fossnet/</link><pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate><guid>https://albertotonda.github.io/project/2024-fossnet/</guid><description>&lt;p>Pan-European Food Systems Science Network (FoSSNet) is a 4-year Horizon Europe Research and Innovation Action, involving more than 15 partners from all over Europe. In this project, I am a regular participant.
-.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>FoSSNet | Alberto Tonda</title>
+    <link>http://localhost:1313/tags/fossnet/</link>
+      <atom:link href="http://localhost:1313/tags/fossnet/index.xml" rel="self" type="application/rss+xml" />
+    <description>FoSSNet</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_426aaca0d42cf8d6.png</url>
+      <title>FoSSNet</title>
+      <link>http://localhost:1313/tags/fossnet/</link>
+    </image>
+    
+    <item>
+      <title>Horizon Europe FoSSNet</title>
+      <link>http://localhost:1313/project/2024-fossnet/</link>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/2024-fossnet/</guid>
+      <description>&lt;p&gt;Pan-European Food Systems Science Network (FoSSNet) is a 4-year Horizon Europe Research and Innovation Action, involving more than 15 partners from all over Europe. In this project, I am a regular participant. 
+.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
