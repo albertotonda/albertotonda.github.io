@@ -44,13 +44,21 @@
 &lt;li&gt;An example applied to RNA/cDNA for classification.&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;
+&lt;br&gt;
+
 &lt;/p&gt;
-&lt;h2 id=&#34;regularization-and-remarks&#34;&gt;Regularization and remarks&lt;/h2&gt;
-&lt;p&gt;Quick excerpt on regularization techniques and a first set of remarks on Deep Learning&lt;/p&gt;
+&lt;h2 id=&#34;remarks-on-deep-learning&#34;&gt;Remarks on deep learning&lt;/h2&gt;
+&lt;p&gt;After having introduced the first modern neural network architectures, a few remarks on deep learning.
+
+&lt;/p&gt;
 &lt;h2 id=&#34;visualization-techniques-for-cnns&#34;&gt;Visualization techniques for CNNs&lt;/h2&gt;
 &lt;p&gt;An overview of visualization techniques for CNNs.&lt;/p&gt;
 &lt;p&gt;
+&lt;br&gt;
+
 &lt;/p&gt;
+&lt;h2 id=&#34;regularization&#34;&gt;Regularization&lt;/h2&gt;
+&lt;p&gt;Quick excerpt on regularization techniques.&lt;/p&gt;
 &lt;h2 id=&#34;embeddings&#34;&gt;Embeddings&lt;/h2&gt;
 &lt;p&gt;Basic notions of embeddings: what they are, and how to create them. Example of word embeddings with Word2Vec.&lt;/p&gt;
 &lt;p&gt;

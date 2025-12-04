@@ -32,21 +32,28 @@ Introduction to basic concepts of pytorch. Tensors, Modules, Optimizers, Loss fu
 Slightly more advanced pytorch concepts. Monitoring training performance, using Tensorboard, Stochastic gradient descent and derived techniques, Schedulers, Activation functions, Checkpointing.
 
 [Slides - Intermediate pytorch concepts, 2025](1-intermediate-pytorch.pdf)  
-[Colaboratory notebook with exercises on intermediate pytorch concepts](https://colab.research.google.com/drive/1RuT7FiEWVSgUF_aaSr8CIZCB6bEKV20R?usp=sharing)
+[Colaboratory notebook with exercises on intermediate pytorch concepts, 2025](https://colab.research.google.com/drive/1RuT7FiEWVSgUF_aaSr8CIZCB6bEKV20R?usp=sharing)
 
 ## Convolutional neural networks
 1. Basics of Convolutional Neural Networks (CNNs): convolution, pooling, architectures, applications.
 2. An example applied to RNA/cDNA for classification.
 
-[Colaboratory notebook with exercises on CNNs](https://colab.research.google.com/drive/1tSJZqGKw5EAuhUwG1ZTfB8ZeBa3VjqSi?usp=sharing)
+[Slides - Convolutional neural networks (CNNs), 2025](2-convolutional-neural-networks.pdf)  
+[Colaboratory notebook with exercises on CNNs, 2025](https://colab.research.google.com/drive/1tSJZqGKw5EAuhUwG1ZTfB8ZeBa3VjqSi?usp=sharing)
 
-## Regularization and remarks
-Quick excerpt on regularization techniques and a first set of remarks on Deep Learning
+## Remarks on deep learning
+After having introduced the first modern neural network architectures, a few remarks on deep learning.
+  
+[Slides - General remarks on deep learning (i), 2025](1-remarks-on-neural-networks.pdf)
 
 ## Visualization techniques for CNNs
 An overview of visualization techniques for CNNs.
 
-[Colaboratory notebook with exercises on visualization techniques for CNNs](https://colab.research.google.com/drive/1k7hYg21Z6J8qh2f-jOmdWSljxXikTjW6?usp=sharing)
+[Slides - Visualization techniques for CNNs, 2025](2-cnn-visualization.pdf)  
+[Colaboratory notebook with exercises on visualization techniques for CNNs, 2025](https://colab.research.google.com/drive/1k7hYg21Z6J8qh2f-jOmdWSljxXikTjW6?usp=sharing)
+
+## Regularization
+Quick excerpt on regularization techniques.
 
 ## Embeddings
 Basic notions of embeddings: what they are, and how to create them. Example of word embeddings with Word2Vec.
