@@ -134,9 +134,11 @@
 &lt;h2 id=&#34;convolutional-neural-networks&#34;&gt;Convolutional neural networks&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;Basics of Convolutional Neural Networks (CNNs): convolution, pooling, architectures, applications.&lt;/li&gt;
-&lt;li&gt;An example applied to RNA/cDNA for classification.&lt;/li&gt;
+&lt;li&gt;An example applied to viral RNA/cDNA classification.&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;
+&lt;br&gt;
+
 &lt;br&gt;
 
 &lt;/p&gt;
@@ -152,6 +154,8 @@
 &lt;/p&gt;
 &lt;h2 id=&#34;regularization&#34;&gt;Regularization&lt;/h2&gt;
 &lt;p&gt;Quick excerpt on regularization techniques.&lt;/p&gt;
+&lt;p&gt;
+&lt;/p&gt;
 &lt;h2 id=&#34;embeddings&#34;&gt;Embeddings&lt;/h2&gt;
 &lt;p&gt;Basic notions of embeddings: what they are, and how to create them. Example of word embeddings with Word2Vec.&lt;/p&gt;
 &lt;p&gt;
@@ -787,7 +791,7 @@ ecosystem services
 
 
 
-&lt;div id=&#34;chart-978536214&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-459387126&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -805,7 +809,7 @@ ecosystem services
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-978536214&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-459387126&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();

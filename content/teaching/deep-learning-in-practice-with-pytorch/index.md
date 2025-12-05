@@ -36,9 +36,10 @@ Slightly more advanced pytorch concepts. Monitoring training performance, using 
 
 ## Convolutional neural networks
 1. Basics of Convolutional Neural Networks (CNNs): convolution, pooling, architectures, applications.
-2. An example applied to RNA/cDNA for classification.
+2. An example applied to viral RNA/cDNA classification.
 
 [Slides - Convolutional neural networks (CNNs), 2025](2-convolutional-neural-networks.pdf)  
+[Slides - Example of using CNNs for viral RNA classification](2-example-cnn-rna.pdf)  
 [Colaboratory notebook with exercises on CNNs, 2025](https://colab.research.google.com/drive/1tSJZqGKw5EAuhUwG1ZTfB8ZeBa3VjqSi?usp=sharing)
 
 ## Remarks on deep learning
@@ -54,6 +55,8 @@ An overview of visualization techniques for CNNs.
 
 ## Regularization
 Quick excerpt on regularization techniques.
+
+[Slides - Regularization](X-regularization.pdf)
 
 ## Embeddings
 Basic notions of embeddings: what they are, and how to create them. Example of word embeddings with Word2Vec.
