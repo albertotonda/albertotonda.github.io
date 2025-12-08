@@ -76,6 +76,8 @@ Recurrent Neural Networks (RNNs) and more modern architectures, such as Long-Sho
 ## Sequence to sequence
 Introduction to the seq2seq architecture.
 
+[Slides - Sequence to sequence, 2025](X-sequence-to-sequence.pdf)
+
 [Colaboratory notebook with exercises on seq2seq](https://colab.research.google.com/drive/18ODB9ae2lkugSMUZw56KAlhBnlPVR7JX?usp=sharing)
 
 ## Attention and Transformers
