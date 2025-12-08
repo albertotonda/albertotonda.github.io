@@ -168,6 +168,8 @@
 &lt;p&gt;Recurrent Neural Networks (RNNs) and more modern architectures, such as Long-Short-Term Memory Networks (LSTMs) and Gated Recurrent Units (GRUs).&lt;/p&gt;
 &lt;p&gt;
 &lt;/p&gt;
+&lt;p&gt;
+&lt;/p&gt;
 &lt;h2 id=&#34;sequence-to-sequence&#34;&gt;Sequence to sequence&lt;/h2&gt;
 &lt;p&gt;Introduction to the seq2seq architecture.&lt;/p&gt;
 &lt;p&gt;
@@ -795,7 +797,7 @@ ecosystem services
 
 
 
-&lt;div id=&#34;chart-742368591&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-627415893&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -813,7 +815,7 @@ ecosystem services
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-742368591&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-627415893&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
