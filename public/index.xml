@@ -176,6 +176,10 @@
 &lt;/p&gt;
 &lt;p&gt;
 &lt;/p&gt;
+&lt;h2 id=&#34;terminology&#34;&gt;Terminology&lt;/h2&gt;
+&lt;p&gt;Comments on common terminology found in neural network literature.&lt;/p&gt;
+&lt;p&gt;
+&lt;/p&gt;
 &lt;h2 id=&#34;attention-and-transformers&#34;&gt;Attention and Transformers&lt;/h2&gt;
 &lt;p&gt;Attention module and Transformer architectures.&lt;/p&gt;
 &lt;h2 id=&#34;concept-bottleneck-models&#34;&gt;Concept bottleneck models&lt;/h2&gt;
@@ -799,7 +803,7 @@ ecosystem services
 
 
 
-&lt;div id=&#34;chart-623184579&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-328546971&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -817,7 +821,7 @@ ecosystem services
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-623184579&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-328546971&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();

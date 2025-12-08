@@ -80,6 +80,11 @@ Introduction to the seq2seq architecture.
 
 [Colaboratory notebook with exercises on seq2seq](https://colab.research.google.com/drive/18ODB9ae2lkugSMUZw56KAlhBnlPVR7JX?usp=sharing)
 
+## Terminology
+Comments on common terminology found in neural network literature.
+
+[Slides - Terminology, 2025](X-jargon.pdf)
+
 ## Attention and Transformers
 Attention module and Transformer architectures.
 
