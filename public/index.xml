@@ -159,6 +159,8 @@
 &lt;h2 id=&#34;embeddings&#34;&gt;Embeddings&lt;/h2&gt;
 &lt;p&gt;Basic notions of embeddings: what they are, and how to create them. Example of word embeddings with Word2Vec.&lt;/p&gt;
 &lt;p&gt;
+&lt;/p&gt;
+&lt;p&gt;
 &lt;br&gt;
 
 &lt;/p&gt;
@@ -793,7 +795,7 @@ ecosystem services
 
 
 
-&lt;div id=&#34;chart-543982761&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-742368591&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -811,7 +813,7 @@ ecosystem services
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-543982761&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-742368591&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
