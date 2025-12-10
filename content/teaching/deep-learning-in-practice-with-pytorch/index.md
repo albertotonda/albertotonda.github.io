@@ -100,12 +100,9 @@ Introduction to Concept Bottleneck Models and Concept Embedding Models.
 
 [Slides - Concept bottlenecks, 2025](X-concept-bottlenecks.pdf)
 
-<!-- 
 ## Current trends and future challenges
 
-[Slides - Current trends and future challenges, 2025](X-remarks-ii-obstacles-and-perspectives - 2025.pdf)
-
--->
+[Slides - Current trends and future challenges, 2025](X-remarks-ii-obstacles-and-perspectives.pdf)
 
 ## Seminars
 
