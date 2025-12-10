@@ -188,16 +188,15 @@
 &lt;p&gt;Introduction to Concept Bottleneck Models and Concept Embedding Models.&lt;/p&gt;
 &lt;p&gt;
 &lt;/p&gt;
-&lt;!-- 
-## Current trends and future challenges
-
-[Slides - Current trends and future challenges, 2025]()
-
---&gt;
+&lt;h2 id=&#34;current-trends-and-future-challenges&#34;&gt;Current trends and future challenges&lt;/h2&gt;
+&lt;p&gt;
+&lt;/p&gt;
 &lt;h2 id=&#34;seminars&#34;&gt;Seminars&lt;/h2&gt;
 &lt;h3 id=&#34;graph-neural-networks-2025&#34;&gt;Graph neural networks (2025)&lt;/h3&gt;
 &lt;p&gt;Advanced seminar on graph neural networks, given by 
 .&lt;/p&gt;
+&lt;p&gt;
+&lt;/p&gt;
 &lt;h3 id=&#34;relational-concept-bottleneck-models-2024&#34;&gt;Relational concept bottleneck models (2024)&lt;/h3&gt;
 &lt;p&gt;Advanced seminar on relational concept bottleneck models, given by 
 .&lt;/p&gt;
@@ -817,7 +816,7 @@ ecosystem services
 
 
 
-&lt;div id=&#34;chart-356874912&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-794328516&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -835,7 +834,7 @@ ecosystem services
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-356874912&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-794328516&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();

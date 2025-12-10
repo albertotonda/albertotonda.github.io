@@ -109,5 +109,7 @@ Introduction to Concept Bottleneck Models and Concept Embedding Models.
 ### Graph neural networks (2025)
 Advanced seminar on graph neural networks, given by [Dr. Gabriele Ciravegna](https://www.linkedin.com/in/gabriele-ciravegna-5a1130124).
 
+[Slides - Graph neural networks, 2025](seminar-ciravegna-graph-neural-networks.pdf)
+
 ### Relational concept bottleneck models (2024)
 Advanced seminar on relational concept bottleneck models, given by [Dr. Pietro Barbiero](https://www.pietrobarbiero.eu/).
