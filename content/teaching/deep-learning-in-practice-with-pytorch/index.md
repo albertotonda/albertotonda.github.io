@@ -20,18 +20,21 @@ The first session is an introduction to the class and a (relatively quick) summa
 
 [Slides - Introduction to the class, 2025](0-introduction.pdf)  
 [Slides - Refresher on machine learning, 2025](0-machine-learning.pdf)  
+
 [Colaboratory notebook with exercises on ML, 2025](https://colab.research.google.com/drive/1a5418oFw2pHwyALxXP1cqfAQfT76_8f5?usp=sharing)
 
 ## Basics of pytorch
 Introduction to basic concepts of pytorch. Tensors, Modules, Optimizers, Loss functions.
 
 [Slides - Refresher on neural networks and philosophy of pytorch, 2025](1-neural-networks-and-pytorch.pdf)  
+
 [Colaboratory notebook with exercises on basic pytorch concepts, 2025](https://colab.research.google.com/drive/146pua5hpN8DcF958TaDqq3rO1tEgjX9h?usp=sharing)
 
 ## Intermediate pytorch concepts
 Slightly more advanced pytorch concepts. Monitoring training performance, using Tensorboard, Stochastic gradient descent and derived techniques, Schedulers, Activation functions, Checkpointing.
 
 [Slides - Intermediate pytorch concepts, 2025](1-intermediate-pytorch.pdf)  
+
 [Colaboratory notebook with exercises on intermediate pytorch concepts, 2025](https://colab.research.google.com/drive/1RuT7FiEWVSgUF_aaSr8CIZCB6bEKV20R?usp=sharing)
 
 ## Convolutional neural networks
@@ -39,7 +42,8 @@ Slightly more advanced pytorch concepts. Monitoring training performance, using 
 2. An example applied to viral RNA/cDNA classification.
 
 [Slides - Convolutional neural networks (CNNs), 2025](2-convolutional-neural-networks.pdf)  
-[Slides - Example of using CNNs for viral RNA classification](2-example-cnn-rna.pdf)  
+[Slides - Case study: using CNNs for viral RNA classification](2-example-cnn-rna.pdf)  
+
 [Colaboratory notebook with exercises on CNNs, 2025](https://colab.research.google.com/drive/1tSJZqGKw5EAuhUwG1ZTfB8ZeBa3VjqSi?usp=sharing)
 
 ## Remarks on deep learning
@@ -51,6 +55,7 @@ After having introduced the first modern neural network architectures, a few rem
 An overview of visualization techniques for CNNs.
 
 [Slides - Visualization techniques for CNNs, 2025](2-cnn-visualization.pdf)  
+
 [Colaboratory notebook with exercises on visualization techniques for CNNs, 2025](https://colab.research.google.com/drive/1k7hYg21Z6J8qh2f-jOmdWSljxXikTjW6?usp=sharing)
 
 ## Regularization
@@ -88,8 +93,24 @@ Comments on common terminology found in neural network literature.
 ## Attention and Transformers
 Attention module and Transformer architectures.
 
+[Slides - Attention, 2025](X-attention.pdf)
+
 ## Concept bottleneck models
 Introduction to Concept Bottleneck Models and Concept Embedding Models.
 
-## Relational concept bottleneck models
+[Slides - Concept bottlenecks, 2025](X-concept-bottlenecks.pdf)
+
+<!-- 
+## Current trends and future challenges
+
+[Slides - Current trends and future challenges, 2025](X-remarks-ii-obstacles-and-perspectives - 2025.pdf)
+
+-->
+
+## Seminars
+
+### Graph neural networks (2025)
+Advanced seminar on graph neural networks, given by [Dr. Gabriele Ciravegna](https://www.linkedin.com/in/gabriele-ciravegna-5a1130124).
+
+### Relational concept bottleneck models (2024)
 Advanced seminar on relational concept bottleneck models, given by [Dr. Pietro Barbiero](https://www.pietrobarbiero.eu/).
