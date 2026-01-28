@@ -1,0 +1,32 @@
+---
+title: Inferring Reaction Elasticities from Metabolic Correlations in Cells Through
+  Multi-objective Evolutionary Optimization
+authors:
+- Arthur Lequertier
+- Wolfram Liebermeister
+- Alberto Tonda
+date: '2025-01-01'
+publishDate: '2026-01-28T10:40:03.083442Z'
+publication_types:
+- paper-conference
+publication: '*Applications of Evolutionary Computation*'
+abstract: Parameter fitting in metabolic models can be challenging because experimental
+  data are often noisy and sparse. In Bayesian estimation, prior knowledge about model
+  parameters would be weighted against knowledge from data fitting. Since error bars
+  and prior widths are often unknown, we explore a more flexible way of regulating
+  this trade-off. We propose an evolutionary multi-objective approach to parameter
+  estimation to find compromises between parameters matching the prior (prior loss)
+  and yielding good data fits (likelihood loss). Our metabolic model describes an
+  ensemble of steady states with correlated variation of all model variables. In the
+  estimation, reaction elasticities are the parameters and the covariances of measurable
+  state variables serve as measurement data. To evaluate our approach, we conduct
+  two tests with artificial data and a known ground truth. We first consider a simple
+  metabolic pathway with 3 reactions and 4 metabolites, where the correlated variation
+  of variables can be understood intuitively. The second test involves a more complex
+  real-world metabolic model of Escherichia coli bacteria with 62 metabolites, 57
+  reactions, and 234 elasticity coefficients to be fitted, where the results are almost
+  impossible to guess even for domain experts. In both cases, the proposed method
+  yields satisfactory results. This paves the way to studying biological objective
+  functions unrelated to model fitting, including homeostasis or information transmission
+  across metabolic networks.
+---
