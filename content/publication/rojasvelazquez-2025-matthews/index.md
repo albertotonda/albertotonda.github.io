@@ -1,0 +1,35 @@
+---
+title: Matthews correlation coefficient-based feature ranking in recursive ensemble
+  feature selection for high-dimensional and low-sample size data
+authors:
+- David Rojas-Velazquez
+- Aletta D. Kraneveld
+- Alberto Tonda
+- Alejandro Lopez-Rincon
+date: '2025-01-01'
+publishDate: '2026-01-28T10:40:03.184346Z'
+publication_types:
+- article-journal
+publication: '*Machine Learning with Applications*'
+doi: https://doi.org/10.1016/j.mlwa.2025.100757
+abstract: Identifying reliable biomarkers in omics data is challenging due to the
+  high number of features and limited sample sizes, which often lead to overfitting,
+  biased results, and poor reproducibility. These issues are further complicated by
+  class imbalance, common in medical datasets. To address these challenges, we present
+  MCC-REFS, an improved version of the Recursive Ensemble Feature Selection method.
+  MCC-REFS uses the Matthews Correlation Coefficient (MCC) as a selection criterion,
+  offering a more balanced evaluation of classification performance, especially in
+  imbalanced datasets. Unlike traditional methods that require manual tuning or predefined
+  feature counts, MCC-REFS automatically selects the most informative and compact
+  feature sets using an ensemble of eight machine learning classifiers. We evaluated
+  MCC-REFS on synthetic datasets and several real-world omics datasets, including
+  mRNA expression profiles and multi-label breast cancer data. Compared to existing
+  methods such as REFS, GRACES, DNP, and GCNN, MCC-REFS consistently achieved higher
+  or comparable performance while selecting fewer features. Validation using independent
+  classifiers confirmed the robustness of the selected features. Overall, MCC-REFS
+  provides a scalable, flexible, and reliable approach for feature selection in biomedical
+  research, with strong potential for diagnostic and prognostic applications.
+links:
+- name: URL
+  url: https://www.sciencedirect.com/science/article/pii/S2666827025001409
+---
