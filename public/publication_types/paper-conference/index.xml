@@ -5,7 +5,7 @@
     <link>http://localhost:1313/publication_types/paper-conference/</link>
       <atom:link href="http://localhost:1313/publication_types/paper-conference/index.xml" rel="self" type="application/rss+xml" />
     <description>Paper-Conference</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu_426aaca0d42cf8d6.png</url>
       <title>Paper-Conference</title>
@@ -13,10 +13,90 @@
     </image>
     
     <item>
+      <title>Balancing Metabolic Homeostasis and Enzyme Cost with Multi-Objective Evolutionary Algorithms</title>
+      <link>http://localhost:1313/publication/lequertier-2025-balancing/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/lequertier-2025-balancing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Biomarker Modelling in Omics Technologies Using Symbolic Regression</title>
+      <link>http://localhost:1313/publication/rojasvelazquez-2025-biomarker/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/rojasvelazquez-2025-biomarker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparing Data Transformation Techniques for System Identification With Standard Symbolic Regression</title>
+      <link>http://localhost:1313/publication/tonda-2025-comparing/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/tonda-2025-comparing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparison of Machine Learning-Enhanced Dynamic Hybrid Models for a Nanobody Scorpion Antivenom Production with Escherichia Coli</title>
+      <link>http://localhost:1313/publication/martinez-2024-comparison/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/martinez-2024-comparison/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estimating the Learning Capacity of Bacterial Metabolic Networks</title>
+      <link>http://localhost:1313/publication/mollet-2025-estimating/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/mollet-2025-estimating/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inferring Reaction Elasticities from Metabolic Correlations in Cells Through Multi-objective Evolutionary Optimization</title>
+      <link>http://localhost:1313/publication/lequertier-2025-inferring/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/lequertier-2025-inferring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Micro-step Time-Series Regression: Insights from System Identification Using Symbolic Regression</title>
+      <link>http://localhost:1313/publication/zhang-2025-microstep/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/zhang-2025-microstep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Program Trace Optimization for Language Model Search: the Abstraction and Reasoning Corpus case</title>
+      <link>http://localhost:1313/publication/moraglio-2025-program/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/moraglio-2025-program/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>When Data Transformations Mislead Symbolic Regression: Deceptive Search Spaces in System Identification</title>
+      <link>http://localhost:1313/publication/tonda-2025-when/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/tonda-2025-when/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Categorical Foundation of Explainable AI: A Unifying Theory</title>
       <link>http://localhost:1313/publication/giannini-2024-categorical/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/giannini-2024-categorical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Federated Behavioural Planes: Explaining the Evolution of Client Behaviour in Federated Learning</title>
+      <link>http://localhost:1313/publication/fenoglio-2024-federated/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/fenoglio-2024-federated/</guid>
       <description></description>
     </item>
     

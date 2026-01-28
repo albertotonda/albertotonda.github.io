@@ -5,12 +5,132 @@
     <link>http://localhost:1313/publication/</link>
       <atom:link href="http://localhost:1313/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jun 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu_426aaca0d42cf8d6.png</url>
       <title>Publications</title>
       <link>http://localhost:1313/publication/</link>
     </image>
+    
+    <item>
+      <title>A Comparison of Optimization Techniques for Large-scale Allocation of Soybean Crops</title>
+      <link>http://localhost:1313/publication/chen-2025-acomparison/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/chen-2025-acomparison/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Regression-based design optimization of French treatment wetlands</title>
+      <link>http://localhost:1313/publication/legeai-2025-regression/</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/legeai-2025-regression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Are home practices safe? Furan mitigation in infant food handling</title>
+      <link>http://localhost:1313/publication/thomopoulos-2025-arehome/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/thomopoulos-2025-arehome/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Balancing Metabolic Homeostasis and Enzyme Cost with Multi-Objective Evolutionary Algorithms</title>
+      <link>http://localhost:1313/publication/lequertier-2025-balancing/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/lequertier-2025-balancing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Biomarker Modelling in Omics Technologies Using Symbolic Regression</title>
+      <link>http://localhost:1313/publication/rojasvelazquez-2025-biomarker/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/rojasvelazquez-2025-biomarker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparing Data Transformation Techniques for System Identification With Standard Symbolic Regression</title>
+      <link>http://localhost:1313/publication/tonda-2025-comparing/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/tonda-2025-comparing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparison of Machine Learning-Enhanced Dynamic Hybrid Models for a Nanobody Scorpion Antivenom Production with Escherichia Coli</title>
+      <link>http://localhost:1313/publication/martinez-2024-comparison/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/martinez-2024-comparison/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estimating the Learning Capacity of Bacterial Metabolic Networks</title>
+      <link>http://localhost:1313/publication/mollet-2025-estimating/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/mollet-2025-estimating/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inferring Reaction Elasticities from Metabolic Correlations in Cells Through Multi-objective Evolutionary Optimization</title>
+      <link>http://localhost:1313/publication/lequertier-2025-inferring/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/lequertier-2025-inferring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Matthews correlation coefficient-based feature ranking in recursive ensemble feature selection for high-dimensional and low-sample size data</title>
+      <link>http://localhost:1313/publication/rojasvelazquez-2025-matthews/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/rojasvelazquez-2025-matthews/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Micro-step Time-Series Regression: Insights from System Identification Using Symbolic Regression</title>
+      <link>http://localhost:1313/publication/zhang-2025-microstep/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/zhang-2025-microstep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Program Trace Optimization for Language Model Search: the Abstraction and Reasoning Corpus case</title>
+      <link>http://localhost:1313/publication/moraglio-2025-program/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/moraglio-2025-program/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Understanding Parkinson&#39;s: The microbiome and machine learning approach</title>
+      <link>http://localhost:1313/publication/rojasvelazquez-2025-understanding/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/rojasvelazquez-2025-understanding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>When Data Transformations Mislead Symbolic Regression: Deceptive Search Spaces in System Identification</title>
+      <link>http://localhost:1313/publication/tonda-2025-when/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/tonda-2025-when/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Review of PySR: high-performance symbolic regression in Python and Julia</title>
+      <link>http://localhost:1313/publication/tonda-2024-review/</link>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/tonda-2024-review/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Escherichia coli-based Physical Reservoir Computing : Potential and Applications</title>
@@ -57,6 +177,14 @@
       <link>http://localhost:1313/publication/giannini-2024-categorical/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/giannini-2024-categorical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Federated Behavioural Planes: Explaining the Evolution of Client Behaviour in Federated Learning</title>
+      <link>http://localhost:1313/publication/fenoglio-2024-federated/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/fenoglio-2024-federated/</guid>
       <description></description>
     </item>
     
@@ -121,6 +249,14 @@
       <link>http://localhost:1313/publication/mouhrim-2023-optimization/</link>
       <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/mouhrim-2023-optimization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Veni,  Vidi,  Evolvi commentary on W. B. Langdon’s “Jaws 30”</title>
+      <link>http://localhost:1313/publication/squillero-2023-veni/</link>
+      <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/squillero-2023-veni/</guid>
       <description></description>
     </item>
     

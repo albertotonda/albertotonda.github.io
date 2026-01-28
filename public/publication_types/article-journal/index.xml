@@ -5,12 +5,60 @@
     <link>http://localhost:1313/publication_types/article-journal/</link>
       <atom:link href="http://localhost:1313/publication_types/article-journal/index.xml" rel="self" type="application/rss+xml" />
     <description>Article-Journal</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jun 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu_426aaca0d42cf8d6.png</url>
       <title>Article-Journal</title>
       <link>http://localhost:1313/publication_types/article-journal/</link>
     </image>
+    
+    <item>
+      <title>A Comparison of Optimization Techniques for Large-scale Allocation of Soybean Crops</title>
+      <link>http://localhost:1313/publication/chen-2025-acomparison/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/chen-2025-acomparison/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Regression-based design optimization of French treatment wetlands</title>
+      <link>http://localhost:1313/publication/legeai-2025-regression/</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/legeai-2025-regression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Are home practices safe? Furan mitigation in infant food handling</title>
+      <link>http://localhost:1313/publication/thomopoulos-2025-arehome/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/thomopoulos-2025-arehome/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Matthews correlation coefficient-based feature ranking in recursive ensemble feature selection for high-dimensional and low-sample size data</title>
+      <link>http://localhost:1313/publication/rojasvelazquez-2025-matthews/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/rojasvelazquez-2025-matthews/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Understanding Parkinson&#39;s: The microbiome and machine learning approach</title>
+      <link>http://localhost:1313/publication/rojasvelazquez-2025-understanding/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/rojasvelazquez-2025-understanding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Review of PySR: high-performance symbolic regression in Python and Julia</title>
+      <link>http://localhost:1313/publication/tonda-2024-review/</link>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/tonda-2024-review/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Methodology for biomarker discovery with reproducibility in microbiome data using machine learning</title>
@@ -33,6 +81,14 @@
       <link>http://localhost:1313/publication/mouhrim-2023-optimization/</link>
       <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/mouhrim-2023-optimization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Veni,  Vidi,  Evolvi commentary on W. B. Langdon’s “Jaws 30”</title>
+      <link>http://localhost:1313/publication/squillero-2023-veni/</link>
+      <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/squillero-2023-veni/</guid>
       <description></description>
     </item>
     

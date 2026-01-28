@@ -5,12 +5,20 @@
     <link>http://localhost:1313/tags/machine-learning/</link>
       <atom:link href="http://localhost:1313/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     <description>Machine Learning</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 04 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jun 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu_426aaca0d42cf8d6.png</url>
       <title>Machine Learning</title>
       <link>http://localhost:1313/tags/machine-learning/</link>
     </image>
+    
+    <item>
+      <title>A Comparison of Optimization Techniques for Large-scale Allocation of Soybean Crops</title>
+      <link>http://localhost:1313/publication/chen-2025-acomparison/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/chen-2025-acomparison/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Invited talk at ENCALS 2022</title>
