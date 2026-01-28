@@ -9,11 +9,12 @@ print(files)
 output_file = "publications.bib"
 text = ""
 for f in files :
-    with open(f, "r") as fp :
+    print("Now reading file \"%s\"..." % f)
+    with open(f, "r", encoding='utf-8') as fp :
         text += fp.read()
         text += "\n"
     
-    
-with open(output_file, "w") as fp :
+print("Now writing file \"%s\"..." % output_file)
+with open(output_file, "w", encoding='utf-8') as fp :
     fp.write(text)
     
