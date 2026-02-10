@@ -353,6 +353,14 @@
     </item>
     
     <item>
+      <title>Symbolic Regression of Confidence Intervals for Conformal Prediction</title>
+      <link>http://localhost:1313/publication/tonda-2024-symbolic/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/tonda-2024-symbolic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Understanding Parkinson&#39;s: The microbiome and machine learning approach</title>
       <link>http://localhost:1313/publication/rojasvelazquez-2025-understanding/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
@@ -954,7 +962,7 @@ ecosystem services
 
 
 
-&lt;div id=&#34;chart-514728936&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-583769124&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -972,7 +980,7 @@ ecosystem services
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-514728936&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-583769124&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
