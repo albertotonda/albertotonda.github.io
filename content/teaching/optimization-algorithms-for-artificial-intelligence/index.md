@@ -24,7 +24,7 @@ The aim of this class is to provide Ph.D. students with an overview of modern op
 
 ## Linear programming and discrete optimization
 [Slides - Linear programming](optimization-linear-programming.pdf)  
-[Slides - Discrete optimization]()  
+[Slides - Discrete optimization](optimization-discrete.pdf)  
 [Colaboratory notebook with exercises on linear programming and discrete optimization](https://colab.research.google.com/drive/17Sdc1wMUc-ok8mskWQIxstSIcRsRn9n5?usp=sharing)
 
 ## Multi-objective optimization
