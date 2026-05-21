@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Invited Speaker | Alberto Tonda</title>
+    <link>http://localhost:1313/tags/invited-speaker/</link>
+      <atom:link href="http://localhost:1313/tags/invited-speaker/index.xml" rel="self" type="application/rss+xml" />
+    <description>Invited Speaker</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 15 May 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_426aaca0d42cf8d6.png</url>
+      <title>Invited Speaker</title>
+      <link>http://localhost:1313/tags/invited-speaker/</link>
+    </image>
+    
+    <item>
+      <title>Invited speaker at &#34;AI Meets Food Science&#34;</title>
+      <link>http://localhost:1313/post/2026-05-18-ai-for-food-helsinki/</link>
+      <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/2026-05-18-ai-for-food-helsinki/</guid>
+      <description>&lt;p&gt;I was invited by Professor 
+ of the 
+ to give a talk at the 
+ workshop. It was extremely interesting to hear recurring themes across all presentations, such as dealing with limited amount of training data and introducing codified expert knowledge in machine learning models. I particulary appreciated the talk by Professor 
+ from Wageningen University, The Netherlands, as we shared several research topics related to food processing.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

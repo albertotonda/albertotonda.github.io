@@ -37,6 +37,19 @@
     </item>
     
     <item>
+      <title>Invited speaker at &#34;AI Meets Food Science&#34;</title>
+      <link>http://localhost:1313/post/2026-05-18-ai-for-food-helsinki/</link>
+      <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/2026-05-18-ai-for-food-helsinki/</guid>
+      <description>&lt;p&gt;I was invited by Professor 
+ of the 
+ to give a talk at the 
+ workshop. It was extremely interesting to hear recurring themes across all presentations, such as dealing with limited amount of training data and introducing codified expert knowledge in machine learning models. I particulary enjoyed the talk by Professor 
+ from Wageningen University, The Netherlands, as we shared several research topics related to food processing.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Reception at the New Zealand embassy</title>
       <link>http://localhost:1313/post/2025-11-19-nz-embassy/</link>
       <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
@@ -962,7 +975,7 @@ ecosystem services
 
 
 
-&lt;div id=&#34;chart-275614398&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-957812346&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -980,7 +993,7 @@ ecosystem services
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-275614398&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-957812346&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
