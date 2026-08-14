@@ -1,0 +1,42 @@
+---
+title: 'Deconvolution of Mass Spectra Through Particle Swarm Optimization: An Industrial
+  Experience'
+authors:
+- Raffaele Correale
+- Evelyne Lutton
+- Giorgio Mongardi
+- Giovanni Squillero
+- Raffaella Todino
+- Alberto Tonda
+date: '2026-01-01'
+publishDate: '2026-08-14T08:20:29.945559Z'
+publication_types:
+- paper-conference
+publication: '*Applications of Evolutionary Computation: 29th European Conference,
+  EvoApplications 2026, Held as Part of EvoStar 2026, Toulouse, France, April 8–10,
+  2026, Proceedings, Part II*'
+doi: 10.1007/978-3-032-23607-4_26
+abstract: Electron Ionization (EI) libraries enable fast identification of unknowns
+  from their mass spectra, but classical dot–product–style search falters when the
+  observed spectrum is a superposition and chromatographic support is unavailable.
+  We present a deconvolution workflow that relies solely on the EI–MS spectrum, requiring
+  no external information. The method was developed with an industrial laboratory
+  partner and evaluated on synthetic and real spectra. The method employs a two–stage
+  strategy. First, a diagnostic–aware whitelist screens the library by rewarding agreement
+  on strong, informative ions while penalizing unsupported intensity and maximizing
+  over small integer m/z shifts to absorb minor misalignment. Second, a PSO-driven
+  greedy builder assembles a sparse mixture from the shortlist, allowing a bounded
+  per–component power stretch to accommodate modest intensity variability, followed
+  by a brief joint refinement. We also introduce a similarity ordering of the library
+  (cosine on log normalized spectra with optimal–leaf ordering) so that local neighbor
+  scans probe look–alike references without altering reported indices. The fitness
+  combines global NMSE, peak–weighted NMSE, and a spectral–angle term to emphasize
+  diagnostic ions while preserving overall shape. On instrument–like synthetic mixtures
+  and preliminary checks on laboratory and field EI spectra, the approach yields high–recall
+  reconstructions. While over–selection persists in our tests, this is a reasonable
+  trade-off given the size and redundancy of EI libraries, and preferable to missing
+  true constituents, with settings that are straightforward to apply in practice.
+links:
+- name: URL
+  url: https://doi.org/10.1007/978-3-032-23607-4_26
+---
