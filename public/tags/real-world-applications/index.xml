@@ -1,66 +1,117 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Real-World Applications | Alberto Tonda</title><link>https://albertotonda.github.io/tags/real-world-applications/</link><atom:link href="https://albertotonda.github.io/tags/real-world-applications/index.xml" rel="self" type="application/rss+xml"/><description>Real-World Applications</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 12 Dec 2024 00:00:00 +0000</lastBuildDate><image><url>https://albertotonda.github.io/media/icon_hu_426aaca0d42cf8d6.png</url><title>Real-World Applications</title><link>https://albertotonda.github.io/tags/real-world-applications/</link></image><item><title>AI in food processing</title><link>https://albertotonda.github.io/research/food-processing/</link><pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate><guid>https://albertotonda.github.io/research/food-processing/</guid><description>&lt;p>Starting with my first post-doctoral position, I applied computational intelligence techniques to the field of food processing, a domain where the limited amount of data and the abundance of expert knowledge pose interesting challenges to ML and AI algorithms. This activity later became the main focus of my career as a permanent researcher at INRA/INRAE. The case studies I tackled, carried out mainly in the scope of the co-supervisions of PhD students Etienne Descamps and Thomas Chabin, include modeling diary emulsions
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Real-World Applications | Alberto Tonda</title>
+    <link>http://localhost:1313/tags/real-world-applications/</link>
+      <atom:link href="http://localhost:1313/tags/real-world-applications/index.xml" rel="self" type="application/rss+xml" />
+    <description>Real-World Applications</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 12 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_426aaca0d42cf8d6.png</url>
+      <title>Real-World Applications</title>
+      <link>http://localhost:1313/tags/real-world-applications/</link>
+    </image>
+    
+    <item>
+      <title>AI in food processing</title>
+      <link>http://localhost:1313/research/food-processing/</link>
+      <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/food-processing/</guid>
+      <description>&lt;p&gt;Starting with my first post-doctoral position, I applied computational intelligence techniques to the field of food processing, a domain where the limited amount of data and the abundance of expert knowledge pose interesting challenges to ML and AI algorithms. This activity later became the main focus of my career as a permanent researcher at INRA/INRAE. The case studies I tackled, carried out mainly in the scope of the co-supervisions of PhD students Etienne Descamps and Thomas Chabin, include modeling diary emulsions 
+, 
 ,
+freeze-drying of lactic acid bacteria 
+, 
+, 
 ,
-freeze-drying of lactic acid bacteria
+biscuit cooking 
 ,
+cleaning processes of industrial machines 
+, 
 ,
+behavior of the pepsin enzyme 
+, 
+, 
 ,
-biscuit cooking
-,
-cleaning processes of industrial machines
-,
-,
-behavior of the pepsin enzyme
-,
-,
-,
-ecosystem services
-. I later chaired the European COST Action CA15118 &lt;em>Mathematical and Computer Science Methods for Food Science and Industry&lt;/em> (2016-2020), a networking project that gathered experts from both academia and industry, to make a point on the state of the art and the possible future trajectories of the sector. The project led to several reviews and position papers
-,
-,
-,
-. As an expert of the domain, I have been involved in several other internal INRAE activities that also led to position papers
-,
-,
-,
-,
-,
-, and I have provided my perspective in two invited talks at Academie de Technologies (Paris, France) and at the University of Sarajevo (Bosnia-Herzegovina).&lt;/p></description></item><item><title>AI for human health</title><link>https://albertotonda.github.io/research/health/</link><pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate><guid>https://albertotonda.github.io/research/health/</guid><description>&lt;p>In recent years, my research activities have branched to the application of ML and EAs to bioinformatics, thanks to a long-standing collaboration with the University of Utrecht (The Netherlands), with the recent addition of partners from the University of Cambridge (UK). The case studies I tackled include automatic discovery of micro-RNA signatures for tumors
-,
-,
-, batch correction of genomic datasets
-, and automatic primer design for viruses, with a focus on SARS-CoV-2
-,
-. Following these activities, I joined COST Action CA18131 \emph{Statistical and Machine Learning Techniques in Human Microbiome Studies} (2019-2023), where I am currently one of the two representatives for France in the Management Committee.&lt;/p></description></item><item><title>AI in gaming</title><link>https://albertotonda.github.io/research/ai-games/</link><pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate><guid>https://albertotonda.github.io/research/ai-games/</guid><description>&lt;p>Since my Master, I developed an interest in AI applied to gaming. Games are an ideal benchmark for computational intelligence techniques, as creating an interesting opponent for humans requires software that is not only challenging, but also able to induce the tactics used by its adversaries. In this research line, I first worked on an AI able to model the opponent&amp;rsquo;s behavior in the iterated Prisoner&amp;rsquo;s Dilemma using EAs
-,
-, during my PhD co-supervision of Marco Gaudesi. I then tackled the automatic development of bots for the real-time strategy game StarCraft
-, submitting the first participant to the Student StarCraft AI Competition being entirely designed by another algorithm. A few years ago I started an ongoing project on developing competitive AIs for HearthStone, a collectible card game played online
-,
-,
-. In the scope of these activities, since 2017 I have been co-chairing the session dedicated to games in the EvoSTAR conference.&lt;/p></description></item><item><title>Automatic software and hardware testing</title><link>https://albertotonda.github.io/research/software-testing/</link><pubDate>Mon, 09 Dec 2024 00:00:00 +0000</pubDate><guid>https://albertotonda.github.io/research/software-testing/</guid><description>&lt;p>Several of my early research activities were centered around the development of automated techniques to support hardware testing, ranging from the generation of programs to test specific parts of the hardware
-,
-,
-,
-,
-, to fail-test generation for complex CPUs
-,
-, to compensation of defects in electronic noses
-,
-,
-,
-. In the domain of software, I applied the same ideas to software testing
-,
-,
-, analysis of network protocols
-,
-,
-,
-,
-,
-, and detection of malicious applications
-,
-,
-, with these last two activities carried out mainly in the scope of my co-supervision of PhD students Marco Gaudesi and Andrea Marcelli. More recently, I started the co-supervision of PhD student Eliana Giovannitti on the subject of automated discovery of backlash issues in industrial equipment
-,
-,
-.&lt;/p></description></item></channel></rss>
+ecosystem services 
+. I later chaired the European COST Action CA15118 &lt;em&gt;Mathematical and Computer Science Methods for Food Science and Industry&lt;/em&gt; (2016-2020), a networking project that gathered experts from both academia and industry, to make a point on the state of the art and the possible future trajectories of the sector. The project led to several reviews and position papers 
+, 
+, 
+, 
+. As an expert of the domain, I have been involved in several other internal INRAE activities that also led to position papers 
+, 
+, 
+, 
+, 
+, 
+, and I have provided my perspective in two invited talks at Academie de Technologies (Paris, France) and at the University of Sarajevo (Bosnia-Herzegovina).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>AI for human health</title>
+      <link>http://localhost:1313/research/health/</link>
+      <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/health/</guid>
+      <description>&lt;p&gt;In recent years, my research activities have branched to the application of ML and EAs to bioinformatics, thanks to a long-standing collaboration with the University of Utrecht (The Netherlands), with the recent addition of partners from the University of Cambridge (UK). The case studies I tackled include automatic discovery of micro-RNA signatures for tumors 
+, 
+, 
+, batch correction of genomic datasets 
+, and automatic primer design for viruses, with a focus on SARS-CoV-2 
+, 
+. Following these activities, I joined COST Action CA18131 \emph{Statistical and Machine Learning Techniques in Human Microbiome Studies} (2019-2023), where I am currently one of the two representatives for France in the Management Committee.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>AI in gaming</title>
+      <link>http://localhost:1313/research/ai-games/</link>
+      <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/ai-games/</guid>
+      <description>&lt;p&gt;Since my Master, I developed an interest in AI applied to gaming. Games are an ideal benchmark for computational intelligence techniques, as creating an interesting opponent for humans requires software that is not only challenging, but also able to induce the tactics used by its adversaries. In this research line, I first worked on an AI able to model the opponent&amp;rsquo;s behavior in the iterated Prisoner&amp;rsquo;s Dilemma using EAs 
+, 
+, during my PhD co-supervision of Marco Gaudesi. I then tackled the automatic development of bots for the real-time strategy game StarCraft 
+, submitting the first participant to the Student StarCraft AI Competition being entirely designed by another algorithm. A few years ago I started an ongoing project on developing competitive AIs for HearthStone, a collectible card game played online 
+, 
+, 
+. In the scope of these activities, since 2017 I have been co-chairing the session dedicated to games in the EvoSTAR conference.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Automatic software and hardware testing</title>
+      <link>http://localhost:1313/research/software-testing/</link>
+      <pubDate>Mon, 09 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/software-testing/</guid>
+      <description>&lt;p&gt;Several of my early research activities were centered around the development of automated techniques to support hardware testing, ranging from the generation of programs to test specific parts of the hardware 
+, 
+, 
+, 
+, 
+, to fail-test generation for complex CPUs 
+, 
+, to compensation of defects in electronic noses 
+, 
+, 
+, 
+. In the domain of software, I applied the same ideas to software testing 
+, 
+, 
+, analysis of network protocols 
+, 
+, 
+, 
+, 
+, 
+, and detection of malicious applications 
+, 
+, 
+, with these last two activities carried out mainly in the scope of my co-supervision of PhD students Marco Gaudesi and Andrea Marcelli. More recently, I started the co-supervision of PhD student Eliana Giovannitti on the subject of automated discovery of backlash issues in industrial equipment 
+, 
+, 
+.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
