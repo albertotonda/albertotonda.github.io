@@ -1,28 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>System Identification | Alberto Tonda</title>
-    <link>http://localhost:1313/tags/system-identification/</link>
-      <atom:link href="http://localhost:1313/tags/system-identification/index.xml" rel="self" type="application/rss+xml" />
-    <description>System Identification</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Jun 2024 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>http://localhost:1313/media/icon_hu_426aaca0d42cf8d6.png</url>
-      <title>System Identification</title>
-      <link>http://localhost:1313/tags/system-identification/</link>
-    </image>
-    
-    <item>
-      <title>Visiting Victoria University, NZ</title>
-      <link>http://localhost:1313/post/2024-06-24-vuw/</link>
-      <pubDate>Mon, 24 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/2024-06-24-vuw/</guid>
-      <description>&lt;p&gt;During the 2024 summer I spent almost two months visiting the researchers and students at the 
- of 
-, New Zealand. Prof. Mengjie Zhang and his colleagues warmly welcomed me in spite of the relatively cold weather of the austral hemisphere, and we had a excellent exchange of ideas; not to mention, I had the opportunity of working again with the brilliant Ph.D. student Hengzhe Zhang, with whom I previously collaborated.&lt;/p&gt;
-&lt;p&gt;Thanks again to Prof. Mengjie Zhang and all his colleagues (Bing Xue, Xiaoying Gao, Fangfang Zhang, Hui Ma, and many others I am surely forgetting) for inviting me and for the warm welcome!&lt;/p&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>System Identification | Alberto Tonda</title><link>https://albertotonda.github.io/tags/system-identification/</link><atom:link href="https://albertotonda.github.io/tags/system-identification/index.xml" rel="self" type="application/rss+xml"/><description>System Identification</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Jun 2024 00:00:00 +0000</lastBuildDate><image><url>https://albertotonda.github.io/media/icon_hu_426aaca0d42cf8d6.png</url><title>System Identification</title><link>https://albertotonda.github.io/tags/system-identification/</link></image><item><title>Visiting Victoria University, NZ</title><link>https://albertotonda.github.io/post/2024-06-24-vuw/</link><pubDate>Mon, 24 Jun 2024 00:00:00 +0000</pubDate><guid>https://albertotonda.github.io/post/2024-06-24-vuw/</guid><description>&lt;p>During the 2024 summer I spent almost two months visiting the researchers and students at the
+of
+, New Zealand. Prof. Mengjie Zhang and his colleagues warmly welcomed me in spite of the relatively cold weather of the austral hemisphere, and we had a excellent exchange of ideas; not to mention, I had the opportunity of working again with the brilliant Ph.D. student Hengzhe Zhang, with whom I previously collaborated.&lt;/p>
+&lt;p>Thanks again to Prof. Mengjie Zhang and all his colleagues (Bing Xue, Xiaoying Gao, Fangfang Zhang, Hui Ma, and many others I am surely forgetting) for inviting me and for the warm welcome!&lt;/p></description></item></channel></rss>
