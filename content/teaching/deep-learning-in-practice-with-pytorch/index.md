@@ -18,10 +18,10 @@ The aim of this class is to provide students with a hands-on approach to deep le
 ## Introduction to the class / Refresher on ML concepts
 The first session is an introduction to the class and a (relatively quick) summary of basic machine learning concepts that will be extensively used in the following. 
 
-[Slides - Introduction to the class, 2025](0-introduction.pdf)  
-[Slides - Refresher on machine learning, 2025](0-machine-learning.pdf)  
+[Slides - Introduction to the class, 2026](0-introduction.pdf)  
+[Slides - Refresher on machine learning, 2026](0-machine-learning.pdf)  
 
-[Colaboratory notebook with exercises on ML, 2025](https://colab.research.google.com/drive/1a5418oFw2pHwyALxXP1cqfAQfT76_8f5?usp=sharing)
+[Colaboratory notebook with exercises on ML, 2026](https://colab.research.google.com/drive/1a5418oFw2pHwyALxXP1cqfAQfT76_8f5?usp=sharing)
 
 ## Basics of pytorch
 Introduction to basic concepts of pytorch. Tensors, Modules, Optimizers, Loss functions.

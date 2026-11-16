@@ -1,4 +1,28 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>NeurIPS | Alberto Tonda</title><link>https://albertotonda.github.io/tags/neurips/</link><atom:link href="https://albertotonda.github.io/tags/neurips/index.xml" rel="self" type="application/rss+xml"/><description>NeurIPS</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 14 Oct 2026 00:00:00 +0000</lastBuildDate><image><url>https://albertotonda.github.io/media/icon_hu_426aaca0d42cf8d6.png</url><title>NeurIPS</title><link>https://albertotonda.github.io/tags/neurips/</link></image><item><title>I was recognized as a "top reviewer" for NeurIPS 2026</title><link>https://albertotonda.github.io/post/2026-10-14-neurips-top-reviewer/</link><pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate><guid>https://albertotonda.github.io/post/2026-10-14-neurips-top-reviewer/</guid><description>&lt;p>I did not submit a single paper to
-this year, and honestly I had no plans to attend. Then I (susprisingly) received an email informing me that, based on my performance as a reviewer, I have been granted a free registration!&lt;/p>
-&lt;p>This is a nice initiative, which both encourages and recognizes reviewers&amp;rsquo; efforts, and I hope that more conferences will follow NeurIPS&amp;rsquo; example. I will then be attending
-online.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NeurIPS | Alberto Tonda</title>
+    <link>http://localhost:1313/tags/neurips/</link>
+      <atom:link href="http://localhost:1313/tags/neurips/index.xml" rel="self" type="application/rss+xml" />
+    <description>NeurIPS</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 14 Oct 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_426aaca0d42cf8d6.png</url>
+      <title>NeurIPS</title>
+      <link>http://localhost:1313/tags/neurips/</link>
+    </image>
+    
+    <item>
+      <title>I was recognized as a &#34;top reviewer&#34; for NeurIPS 2026</title>
+      <link>http://localhost:1313/post/2026-10-14-neurips-top-reviewer/</link>
+      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/2026-10-14-neurips-top-reviewer/</guid>
+      <description>&lt;p&gt;I did not submit a single paper to 
+ this year, and honestly I had no plans to attend. Then I (susprisingly) received an email informing me that, based on my performance as a reviewer, I have been granted a free registration!&lt;/p&gt;
+&lt;p&gt;This is a nice initiative, which both encourages and recognizes reviewers&amp;rsquo; efforts, and I hope that more conferences will follow NeurIPS&amp;rsquo; example. I will then be attending 
+ online.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

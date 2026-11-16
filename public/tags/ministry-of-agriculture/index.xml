@@ -1,8 +1,32 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Ministry of Agriculture | Alberto Tonda</title><link>https://albertotonda.github.io/tags/ministry-of-agriculture/</link><atom:link href="https://albertotonda.github.io/tags/ministry-of-agriculture/index.xml" rel="self" type="application/rss+xml"/><description>Ministry of Agriculture</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Oct 2026 00:00:00 +0000</lastBuildDate><image><url>https://albertotonda.github.io/media/icon_hu_426aaca0d42cf8d6.png</url><title>Ministry of Agriculture</title><link>https://albertotonda.github.io/tags/ministry-of-agriculture/</link></image><item><title>Launch of the EDIC AgriFood at the Ministry of Agriculture</title><link>https://albertotonda.github.io/post/2026-10-01-ecid-agrifood/</link><pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate><guid>https://albertotonda.github.io/post/2026-10-01-ecid-agrifood/</guid><description>&lt;p>I participated in an event organized at the Ministry of Agriculture in Paris, opened by the French Minister of Agriculture,
-.&lt;/p>
-&lt;p>&lt;img src="annie-genevard.jpg" alt="The French Minister for Agriculture, Annie Genevard">&lt;/p>
-&lt;p>The event presented the start of the
-AgriFood, a European legal instrument aiming at harmonizing agri-food data across all participant countries, in line with the broader European effort to build a
-.&lt;/p>
-&lt;p>The press release for the event, with more information (in French), can be found
-.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ministry of Agriculture | Alberto Tonda</title>
+    <link>http://localhost:1313/tags/ministry-of-agriculture/</link>
+      <atom:link href="http://localhost:1313/tags/ministry-of-agriculture/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ministry of Agriculture</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Oct 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_426aaca0d42cf8d6.png</url>
+      <title>Ministry of Agriculture</title>
+      <link>http://localhost:1313/tags/ministry-of-agriculture/</link>
+    </image>
+    
+    <item>
+      <title>Launch of the EDIC AgriFood at the Ministry of Agriculture</title>
+      <link>http://localhost:1313/post/2026-10-01-ecid-agrifood/</link>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/2026-10-01-ecid-agrifood/</guid>
+      <description>&lt;p&gt;I participated in an event organized at the Ministry of Agriculture in Paris, opened by the French Minister of Agriculture, 
+.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;annie-genevard.jpg&#34; alt=&#34;The French Minister for Agriculture, Annie Genevard&#34;&gt;&lt;/p&gt;
+&lt;p&gt;The event presented the start of the 
+ AgriFood, a European legal instrument aiming at harmonizing agri-food data across all participant countries, in line with the broader European effort to build a 
+.&lt;/p&gt;
+&lt;p&gt;The press release for the event, with more information (in French), can be found 
+.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
