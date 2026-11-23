@@ -41,7 +41,7 @@ Slightly more advanced pytorch concepts. Monitoring training performance, using 
 1. Basics of Convolutional Neural Networks (CNNs): convolution, pooling, architectures, applications.
 2. An example applied to viral RNA/cDNA classification.
 
-[Slides - Convolutional neural networks (CNNs), 2025](2-convolutional-neural-networks.pdf)  
+[Slides - Convolutional neural networks (CNNs), 2026](2-convolutional-neural-networks.pdf)  
 [Slides - Case study: using CNNs for viral RNA classification](2-example-cnn-rna.pdf)  
 
 [Colaboratory notebook with exercises on CNNs, 2025](https://colab.research.google.com/drive/1tSJZqGKw5EAuhUwG1ZTfB8ZeBa3VjqSi?usp=sharing)
@@ -49,14 +49,14 @@ Slightly more advanced pytorch concepts. Monitoring training performance, using 
 ## Remarks on deep learning
 After having introduced the first modern neural network architectures, a few remarks on deep learning.
   
-[Slides - General remarks on deep learning (i), 2025](1-remarks-on-neural-networks.pdf)
+[Slides - General remarks on deep learning (i), 2026](1-remarks-on-neural-networks.pdf)
 
 ## Visualization techniques for CNNs
 An overview of visualization techniques for CNNs.
 
-[Slides - Visualization techniques for CNNs, 2025](2-cnn-visualization.pdf)  
+[Slides - Visualization techniques for CNNs, 2026](2-cnn-visualization.pdf)  
 
-[Colaboratory notebook with exercises on visualization techniques for CNNs, 2025](https://colab.research.google.com/drive/1k7hYg21Z6J8qh2f-jOmdWSljxXikTjW6?usp=sharing)
+[Colaboratory notebook with exercises on visualization techniques for CNNs, 2026](https://colab.research.google.com/drive/1k7hYg21Z6J8qh2f-jOmdWSljxXikTjW6?usp=sharing)
 
 ## Regularization
 Quick excerpt on regularization techniques.
