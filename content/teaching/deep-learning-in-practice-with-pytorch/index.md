@@ -42,7 +42,7 @@ Slightly more advanced pytorch concepts. Monitoring training performance, using 
 2. An example applied to viral RNA/cDNA classification.
 
 [Slides - Convolutional neural networks (CNNs), 2026](2-convolutional-neural-networks.pdf)  
-[Slides - Case study: using CNNs for viral RNA classification](2-example-cnn-rna.pdf)  
+[Slides - Case study: using CNNs for viral RNA classification, 2026](2-example-cnn-rna.pdf)  
 
 [Colaboratory notebook with exercises on CNNs, 2025](https://colab.research.google.com/drive/1tSJZqGKw5EAuhUwG1ZTfB8ZeBa3VjqSi?usp=sharing)
 
@@ -61,15 +61,15 @@ An overview of visualization techniques for CNNs.
 ## Regularization
 Quick excerpt on regularization techniques.
 
-[Slides - Regularization](X-regularization.pdf)
+[Slides - Regularization, 2026](X-regularization.pdf)
 
 ## Embeddings
 Basic notions of embeddings: what they are, and how to create them. Example of word embeddings with Word2Vec.
 
-[Slides - Embeddings, 2025](4-embeddings.pdf)
+[Slides - Embeddings, 2026](4-embeddings.pdf)
 
-[Colaboratory notebook with exercises on embeddings](https://colab.research.google.com/drive/1XNMAm2z8aQ07YZF0yn_r-MMJc3wQT3gi?usp=sharing)  
-[Colaboratory notebook with a short example of a Variational Autoencoder](https://colab.research.google.com/drive/1fuX_Yyo9KSFsVn_3wPyvavXyd6NNwYdR?usp=sharing)
+[Colaboratory notebook with exercises on embeddings, 2026](https://colab.research.google.com/drive/1XNMAm2z8aQ07YZF0yn_r-MMJc3wQT3gi?usp=sharing)  
+[Colaboratory notebook with a short example of a Variational Autoencoder, 2026](https://colab.research.google.com/drive/1fuX_Yyo9KSFsVn_3wPyvavXyd6NNwYdR?usp=sharing)
 
 ## Recurrent neural networks
 Recurrent Neural Networks (RNNs) and more modern architectures, such as Long-Short-Term Memory Networks (LSTMs) and Gated Recurrent Units (GRUs).
