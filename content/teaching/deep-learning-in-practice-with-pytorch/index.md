@@ -44,7 +44,7 @@ Slightly more advanced pytorch concepts. Monitoring training performance, using 
 [Slides - Convolutional neural networks (CNNs), 2026](2-convolutional-neural-networks.pdf)  
 [Slides - Case study: using CNNs for viral RNA classification, 2026](2-example-cnn-rna.pdf)  
 
-[Colaboratory notebook with exercises on CNNs, 2025](https://colab.research.google.com/drive/1tSJZqGKw5EAuhUwG1ZTfB8ZeBa3VjqSi?usp=sharing)
+[Colaboratory notebook with exercises on CNNs, 2026](https://colab.research.google.com/drive/1tSJZqGKw5EAuhUwG1ZTfB8ZeBa3VjqSi?usp=sharing)
 
 ## Remarks on deep learning
 After having introduced the first modern neural network architectures, a few remarks on deep learning.
@@ -105,6 +105,11 @@ Introduction to Concept Bottleneck Models and Concept Embedding Models.
 [Slides - Current trends and future challenges, 2025](X-remarks-ii-obstacles-and-perspectives-2025.pdf)
 
 ## Seminars
+
+### The standard interpretable model (2026)
+Advanced seminar on interpretable neural networks and concept bottlenecks, given by [Dr. Pietro Barbiero](https://www.pietrobarbiero.eu/).
+
+[Slides - The standard interpretable model, 2026](2026-11-SIM-INRAE.pdf)
 
 ### Graph neural networks (2025)
 Advanced seminar on graph neural networks, given by [Dr. Gabriele Ciravegna](https://www.linkedin.com/in/gabriele-ciravegna-5a1130124).
