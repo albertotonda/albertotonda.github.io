@@ -88,12 +88,17 @@ Introduction to the seq2seq architecture.
 ## Terminology
 Comments on common terminology found in neural network literature.
 
-[Slides - Terminology, 2025](X-jargon.pdf)
+[Slides - Terminology, 2026](X-jargon.pdf)
 
 ## Attention and Transformers
 Attention module and Transformer architectures.
 
-[Slides - Attention, 2025](X-attention.pdf)
+[Slides - Attention, 2026](X-attention.pdf)
+
+## Flow matching
+Flow matching for generative AI.
+
+[Slides - Flow matching, 2026](X-flow-matching.pdf)
 
 ## Concept bottleneck models
 Introduction to Concept Bottleneck Models and Concept Embedding Models.
@@ -102,7 +107,7 @@ Introduction to Concept Bottleneck Models and Concept Embedding Models.
 
 ## Current trends and future challenges
 
-[Slides - Current trends and future challenges, 2025](X-remarks-ii-obstacles-and-perspectives-2025.pdf)
+[Slides - Current trends and future challenges, 2026](X-remarks-ii-obstacles-and-perspectives-2026.pdf)
 
 ## Seminars
 
