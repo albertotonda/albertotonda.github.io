@@ -74,16 +74,16 @@ Basic notions of embeddings: what they are, and how to create them. Example of w
 ## Recurrent neural networks
 Recurrent Neural Networks (RNNs) and more modern architectures, such as Long-Short-Term Memory Networks (LSTMs) and Gated Recurrent Units (GRUs).
 
-[Slides - Recurrent neural networks, 2025](4-recurrent-neural-networks.pdf)
+[Slides - Recurrent neural networks, 2026](4-recurrent-neural-networks.pdf)
 
-[Colaboratory notebook with exercises on RNNs](https://colab.research.google.com/drive/19RlceOejtIE_Ecn5kFPjEaXUrkdhO7YB?usp=sharing)
+[Colaboratory notebook with exercises on RNNs, 2026](https://colab.research.google.com/drive/19RlceOejtIE_Ecn5kFPjEaXUrkdhO7YB?usp=sharing)
 
 ## Sequence to sequence
 Introduction to the seq2seq architecture.
 
-[Slides - Sequence to sequence, 2025](X-sequence-to-sequence.pdf)
+[Slides - Sequence to sequence, 2026](X-sequence-to-sequence.pdf)
 
-[Colaboratory notebook with exercises on seq2seq](https://colab.research.google.com/drive/18ODB9ae2lkugSMUZw56KAlhBnlPVR7JX?usp=sharing)
+[Colaboratory notebook with exercises on seq2seq, 2026](https://colab.research.google.com/drive/18ODB9ae2lkugSMUZw56KAlhBnlPVR7JX?usp=sharing)
 
 ## Terminology
 Comments on common terminology found in neural network literature.
